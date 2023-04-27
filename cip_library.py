@@ -2,6 +2,8 @@ import mariadb
 import sys
 import pandas as pd
 import sqlalchemy as sa
+import nltk
+from nltk.tokenize import word_tokenize
 def mariadb_connect(usr="cip_user",pw="cip_pw", db="CIP"):
     """
     Function is used to connect to mariadb. It takes 3 optional arguments 'usr', 'pw', and 'db'.
@@ -113,3 +115,36 @@ def clean_film_title(df, column):
     #now we cast the title to lower case
     df["film_title_cleaned"] = df["film_title_cleaned"].str.lower()
     return df
+
+def extract_id(list_in, list_out):
+    """
+    Function is used to extract the movie id from IMDb href link
+    :param list_in: list containing all href values
+    :param list_out: list to be returned containing only id's
+    :return: Returns list of id's
+    """
+    #go through each element in list_in and split the entries by "/". if a word starts with "tt" it is an id and we want to append it to list_out.
+    for i in list_in:
+        string = i
+        split = string.split("/")
+        for word in split:
+            if word[0:2] == "tt":
+                list_out.append(word)
+    return list_out
+
+def tokenize_and_clean(text):
+    """
+    This function is used to tokenize text and to remove any special characters, symbols, punctuations, numbers and stopwords. This is important when preparing text for sentiment analysis. It takes one argument 'text'.
+    :param text: text value that needs to be tokenized
+    :return: returns the tokenized text
+    """
+    #tokenize text
+    tokens = word_tokenize(text)
+    # Remove punctuation, symbols, special characters, and numbers from the tokens
+    tokens = [token.lower() for token in tokens if token.isalpha()]
+    #define stopwords and remove them
+    stopwords = nltk.corpus.stopwords.words("english")
+    tokens = [token.lower() for token in tokens if token.lower() not in stopwords]
+    #return tokens
+    return tokens
+
