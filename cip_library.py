@@ -4,6 +4,9 @@ import pandas as pd
 import sqlalchemy as sa
 import nltk
 from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
+from nltk.sentiment.vader import SentimentIntensityAnalyzer
+
 def mariadb_connect(usr="cip_user",pw="cip_pw", db="CIP"):
     """
     Function is used to connect to mariadb. It takes 3 optional arguments 'usr', 'pw', and 'db'.
@@ -132,19 +135,35 @@ def extract_id(list_in, list_out):
                 list_out.append(word)
     return list_out
 
-def tokenize_and_clean(text):
+def get_sentiment_score(text):
     """
-    This function is used to tokenize text and to remove any special characters, symbols, punctuations, numbers and stopwords. This is important when preparing text for sentiment analysis. It takes one argument 'text'.
-    :param text: text value that needs to be tokenized
-    :return: returns the tokenized text
+    Function is used to calculate the compound sentiment score for a given text using the SentimentIntensityAnalyzer from NLTK.
+    :param text: The text for which the sentiment score is to be calculated.
+    :return: The compound sentiment score of the given text, ranging from -1 (strongly negative) to 1 (strongly positive).
+    """
+    sia = SentimentIntensityAnalyzer()
+    scores = sia.polarity_scores(text)
+    compund_score = scores['compound']
+    return compund_score
+
+def preprocess_text_for_sentiment(text):
+    """
+    This function is used to tokenize text and to remove any special characters, symbols, punctuations, numbers and stopwords, then the tokens are lemmatized and finally joined back together into a single string. This is important when preparing text for sentiment analysis. It takes one argument 'text'.
+    :param text: text value that needs to be pre-processed
+    :return: returns the pre-processed text
     """
     #tokenize text
-    tokens = word_tokenize(text)
+    tokens = word_tokenize(text.lower())
     # Remove punctuation, symbols, special characters, and numbers from the tokens
-    tokens = [token.lower() for token in tokens if token.isalpha()]
+    filtered_tokens = [token for token in tokens if token.isalpha()]
     #define stopwords and remove them
     stopwords = nltk.corpus.stopwords.words("english")
-    tokens = [token.lower() for token in tokens if token.lower() not in stopwords]
+    removed_tokens = [token for token in filtered_tokens if token.lower() not in stopwords]
+    #lemmatize the tokens
+    lemmatizer = WordNetLemmatizer()
+    lemmatized_tokens = [lemmatizer.lemmatize(token) for token in removed_tokens]
+    #join tokens back into a string
+    processed_text = ' '.join(lemmatized_tokens)
     #return tokens
-    return tokens
+    return processed_text
 
