@@ -53,6 +53,4 @@ cip.create_table("movie_reviews_raw", cols, dtypes)
 cip.write_to_table(df=pd_reviews, table_name="movie_reviews_raw")
 
 
-print(123)
-
 

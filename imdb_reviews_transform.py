@@ -21,7 +21,6 @@ pd_reviews_transform['sentiment_score'] = pd_reviews_transform['processed_text']
 #based on the value in "sentiment_score" create a column called "sentiment" with value 'pos' if sentiment score is above 0 and 'neg' if it is below 0
 pd_reviews_transform['sentiment'] = pd_reviews_transform['sentiment_score'].apply(lambda x: 'pos' if x > 0 else 'neg')
 
-print(123)
 
 
 
