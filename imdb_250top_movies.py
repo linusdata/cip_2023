@@ -34,11 +34,15 @@ table_rows = driver.find_elements(By.XPATH, '//tbody[@class="lister-list"]/tr')
 #     </td>
 #     <td class="ratingColumn imdbRating">
 #             <strong title="9,2 based on 2.728.737 user ratings">9,2</strong>
-#
+#......
+#     <td class="watchlistColumn">
+#             <div class="wlb_ribbon" data-tconst="tt0111161" data-recordmetrics="true" style="position: relative;"><div class="wl-ribbon standalone touch retina not-inWL" title="Click to add to watchlist"></div></div>
+#         </td>
 
 
 for row in table_rows:
     #Die Einfachen
+    id = row.find_element(By.XPATH, './td[@class="watchlistColumn"]/div[@class="wlb_ribbon"]').get_attribute("data-tconst")
     rank = row.find_element(By.XPATH, './td[@class="posterColumn"]/span[@name="rk"]').get_attribute("data-value")
     year = row.find_element(By.XPATH, './td[@class="titleColumn"]/span[@class="secondaryInfo"]').text.strip("()")
     rating = row.find_element(By.XPATH, './td[@class="ratingColumn imdbRating"]/strong').text
@@ -54,6 +58,7 @@ for row in table_rows:
 
 
     movie_info = {
+        "id": id,
         "rank": rank,
         "title_en": title,
         "year": year,
