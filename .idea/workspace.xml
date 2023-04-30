@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="Daten ergänzt.">
+      <change beforePath="$PROJECT_DIR$/.idea/cip_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cip_2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cip_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/cip_library.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb_250top_movies_make_it_dirty.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_250top_movies_make_it_dirty.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +33,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/Nicolas Good/switchdrive/SyncVM/CIP_FS23/cip_2023&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -53,7 +57,28 @@
       <option name="project" value="LOCAL" />
       <updated>1682672282050</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Daten ergänzt.">
+      <created>1682681398544</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682681398544</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Daten ergänzt.">
+      <created>1682681408324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682681408324</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Daten ergänzt.">
+      <created>1682877224729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682877224729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

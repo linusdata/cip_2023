@@ -1,4 +1,5 @@
 import mariadb
+import random
 import sys
 import pandas as pd
 import sqlalchemy as sa
@@ -167,3 +168,23 @@ def preprocess_text_for_sentiment(text):
     #return tokens
     return processed_text
 
+
+def delete_random_data(df, deletion_rate=0.1):
+
+    """
+    A simple way to make data dirty is by importing a dataset and then randomly deleting a certain percentage (10% by default) of the data.
+    :param input: the dataset, optionally a different deletion_rate
+    :return: returns dirty data
+    """
+
+    dirty_df = df.copy()
+    for column in dirty_df.columns:
+        if dirty_df[column].dtype == "object":
+            for idx, _ in dirty_df.iterrows():
+                if random.random() < deletion_rate:
+                    dirty_df.at[idx, column] = None
+        else:
+            for idx, _ in dirty_df.iterrows():
+                if random.random() < deletion_rate:
+                    dirty_df.at[idx, column] = float('nan')
+    return dirty_df

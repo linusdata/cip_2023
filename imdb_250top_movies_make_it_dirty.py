@@ -1,5 +1,5 @@
 import pandas as pd
-from make_data_dirty.dirty_data import delete_random_data
+from cip_library import delete_random_data
 
 
 # Anzeigeoptionen ändern
