@@ -5,23 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="Daten ergänzt.">
-      <change beforePath="$PROJECT_DIR$/.idea/cip_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cip_2023.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cip_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/cip_library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb_reviews_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb_reviews_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_transform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oscar_winners_2023.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/oscars_load.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="509836d1-199f-44a3-beb7-e78f1177a269" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
