@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="Daten ergänzt.">
       <change beforePath="$PROJECT_DIR$/.idea/cip_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cip_2023.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cip_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/cip_library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb_250top_movies_make_it_dirty.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_250top_movies_make_it_dirty.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb_reviews_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb_reviews_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_transform.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

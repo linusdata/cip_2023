@@ -3,53 +3,53 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import cip_library as cip
 
-# Open the website in Chrome browser
+# Chrome Browser festlegen
 driver = webdriver.Chrome()
-#define the url where we get the id's of the movies
+#URL definieren, von der die ID's der Filme geholt werden sollen
 id_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_1000"
-#create an empty list where the id's will be stored
+#leere liste erstellen, in welcher die ID's dann gespeichert werden
 id_list = []
-# open the url and wait
+#URL öffnen und warten
 driver.get(id_url)
 driver.implicitly_wait(2)
-# Find the CSS elements (href) containing the links of the movies -> id's are part of the links.
+# CSS elements(href), welche die links der Filme enthalten finden -> die IDs sind Teil der Links
 elems = driver.find_elements(by=By.CSS_SELECTOR, value=".titleColumn [href]")
-#create list containing all extracted href values.
+#Liste mit allen extrahierten href-Werten erstellen
 links = [elem.get_attribute('href') for elem in elems]
-#extract id's from the href values using the function "extract_id()"
+#extrahieren der id's durch die Verwendung der definierten Funktion "extract_id()"
 cip.extract_id(links, id_list)
 
-#create an empty list where the id's will be stored
+#leere liste erstellen, in welcher die reviews dann gespeichert werden
 reviews = []
-#create the url where the reviews are listed for each id extracted before
+#die URL erstellen, in der die Reviews für jede zuvor extrahierte ID aufgeführt sind
 for i in id_list:
     review_url = "https://www.imdb.com/title/" + i + "/criticreviews/?ref_=tt_ov_rt"
-    #open the created url and wait
+    #erstellte URL öffnen und warten
     driver.get(review_url)
     driver.implicitly_wait(2)
-    #using XPATH we are going to extract all review elements for each url
+    #Mit XPATH alle Review-Elemente für jede URL extrahieren
     review_texts = driver.find_elements(by=By.XPATH, value='//*[@id="__next"]/main/div/section/div/section/div/div[1]/div[1]/section/div/div[2]/ul/li/div/div/div[2]/div[2]')
-    #append the id and review text values to the review list and
+    #die Werte für ID und Reviewtext an die reviews liste "appenden"
     for review_text in review_texts:
         reviews.append([i, review_text.text])
-#quit the driver
+#driver beenden
 driver.quit()
 
-#create pandas dataframe containing the three lists in one column each
+#pandas dataframe erstellen, welches die zwei listen in jeweils einer Spalte enthält
 pd_reviews = pd.DataFrame(columns=["id", "review"])
 for movie in reviews:
     pd_reviews = pd_reviews.append({'id': movie[0], 'review': movie[1]}, ignore_index=True)
 
-#get Cursor for mariadb
+#Cursor für mariadb holen
 cur = cip.mariadb_connect().cursor()
 
-#define columns and datatypes needed in new table
+#Spalten und Datentypen für die neue Tabelle definieren
 cols = ["id", "review"]
 dtypes = ["VARCHAR(255)", "VARCHAR(255)"]
-#create table "boxofficemojo_raw"
+#tabelle "movie_reviews_raw" erstellen
 cip.create_table("movie_reviews_raw", cols, dtypes)
 
-#write dataframe to newly created table
+#dataframe in neu erstellte tabelle schreiben
 cip.write_to_table(df=pd_reviews, table_name="movie_reviews_raw")
 
 
