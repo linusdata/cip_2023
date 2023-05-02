@@ -1,0 +1,78 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"23b0dfc0-f2a5-4482-b3bc-7860bc950c52\" name=\"Changes\" comment=\"&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"dfbb4ab5-d6c4-4f21-a3b1-e82afdd4248a\" />\n        <option name=\"url\" value=\"https://github.com/linusdata/cip_2023.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2P2yRuOevb9Uch1WHNMKwAYXnFm\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"last_opened_file_path\": \"C:/Users/Nicolas Good/switchdrive/SyncVM/CIP_FS23/cip_2023\",\n    \"settings.editor.selected.configurable\": \"vcs.Git\"\n  }\n}]]></component>\n  <component name=\"RecentsManager\">\n    <key name=\"CopyFile.RECENT_KEYS\">\n      <recent name=\"C:\\Users\\Nicolas Good\\switchdrive\\SyncVM\\CIP_FS23\\cip_2023\" />\n    </key>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"23b0dfc0-f2a5-4482-b3bc-7860bc950c52\" name=\"Changes\" comment=\"\" />\n      <created>1682669465930</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1682669465930</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"Daten ergänzt.\">\n      <created>1682672282050</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682672282050</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"Daten ergänzt.\">\n      <created>1682681398544</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682681398544</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"Daten ergänzt.\">\n      <created>1682681408324</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682681408324</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"Daten ergänzt.\">\n      <created>1682877224729</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682877224729</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.\">\n      <created>1682929724413</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1682929724413</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"6\" />\n    <servers />\n  </component>\n  <component name=\"Vcs.Log.Tabs.Properties\">\n    <option name=\"TAB_STATES\">\n      <map>\n        <entry key=\"MAIN\">\n          <value>\n            <State />\n          </value>\n        </entry>\n      </map>\n    </option>\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"Daten ergänzt.\" />\n    <MESSAGE value=\"&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 6153692d605eb9049aa2ac04d818dd37fced4322)
++++ b/.idea/workspace.xml	(date 1683046269933)
+@@ -4,21 +4,23 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt." />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="Git.Rebase.Settings">
++    <option name="NEW_BASE" value="main" />
+   </component>
+   <component name="Git.Settings">
++    <option name="PUSH_AUTO_UPDATE" value="true" />
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -36,14 +38,14 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "last_opened_file_path": "C:/Users/Nicolas Good/switchdrive/SyncVM/CIP_FS23/cip_2023",
+-    "settings.editor.selected.configurable": "vcs.Git"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nicolas Good/switchdrive/SyncVM/CIP_FS23/cip_2023&quot;,
++    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RecentsManager">
+     <key name="CopyFile.RECENT_KEYS">
+       <recent name="C:\Users\Nicolas Good\switchdrive\SyncVM\CIP_FS23\cip_2023" />
+@@ -93,7 +95,14 @@
+       <option name="project" value="LOCAL" />
+       <updated>1682929724413</updated>
+     </task>
+-    <option name="localTasksCounter" value="6" />
++    <task id="LOCAL-00006" summary="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.">
++      <created>1683045946414</created>
++      <option name="number" value="00006" />
++      <option name="presentableId" value="LOCAL-00006" />
++      <option name="project" value="LOCAL" />
++      <updated>1683045946414</updated>
++    </task>
++    <option name="localTasksCounter" value="7" />
+     <servers />
+   </component>
+   <component name="Vcs.Log.Tabs.Properties">
