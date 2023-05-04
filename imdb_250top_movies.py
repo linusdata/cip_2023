@@ -74,4 +74,5 @@ for row in table_rows:
 driver.quit()
 
 movies_df = pd.DataFrame(movies_list)
-movies_df.to_excel("imdb_top_250.xlsx", index=False)
+movies_df.to_csv("imdb_top_250.csv", index=False)
+
