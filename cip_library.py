@@ -174,7 +174,7 @@ def preprocess_text_for_sentiment(text):
 def delete_random_data(df, deletion_rate=0.1):
 
     """
-    Eine einfache Möglichkeit, Daten unsauber zu machen, besteht darin, einen Datensatz zu importieren und dann nach dem Zufallsprinzip einen bestimmten Prozentsatz (standardmäßig 10 %) der Daten zu löschen.
+    Eine einfache Möglichkei einen Datensatz zu importieren und dann nach dem Zufallsprinzip einen bestimmten Prozentsatz (standardmäßig 10 %) der Daten zu löschen.
     :param df: dataframe auf welches die Funktion angewendet werden soll.
     :param deletion_rate: Prozentsatz der Daten, welche gelöscht werden sollen.
     :return: gibt "dirty" data zurück
