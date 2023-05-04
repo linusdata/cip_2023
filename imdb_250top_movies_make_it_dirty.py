@@ -8,7 +8,7 @@ pd.set_option("display.max_columns", None)  # Alle Spalten anzeigen
 pd.set_option("display.expand_frame_repr", False) # Zeilenumbruch verhindern
 
 # Excel-Datei importieren
-top250 = pd.read_excel("imdb_top_250.xlsx")
+top250 = pd.read_csv("imdb_top_250.csv")
 
 # Den DataFrame anzeigen
 print(top250)
