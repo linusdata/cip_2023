@@ -1,0 +1,251 @@
+id,rank,title_en,year,rating,num_votes,director,actor1,actor2
+tt0111161,1,The Shawshank Redemption,1994,9.2,2734583,Frank Darabont,Tim Robbins,Morgan Freeman
+tt0068646,2,The Godfather,1972,9.2,1901559,Francis Ford Coppola,Marlon Brando,Al Pacino
+tt0468569,3,The Dark Knight,2008,9.0,2707703,Christopher Nolan,Christian Bale,Heath Ledger
+tt0071562,4,The Godfather Part II,1974,9.0,1296339,Francis Ford Coppola,Al Pacino,Robert De Niro
+tt0050083,5,12 Angry Men,1957,9.0,809269,Sidney Lumet,Henry Fonda,Lee J. Cobb
+tt0108052,6,Schindler's List,1993,8.9,1380530,Steven Spielberg,Liam Neeson,Ralph Fiennes
+tt0167260,7,The Lord of the Rings: The Return of the King,2003,8.9,1880968,Peter Jackson,Elijah Wood,Viggo Mortensen
+tt0110912,8,Pulp Fiction,1994,8.8,2101381,Quentin Tarantino,John Travolta,Uma Thurman
+tt0120737,9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,1909818,Peter Jackson,Elijah Wood,Ian McKellen
+tt0060196,10,"The Good, the Bad and the Ugly",1966,8.8,774852,Sergio Leone,Clint Eastwood,Eli Wallach
+tt0109830,11,Forrest Gump,1994,8.8,2127917,Robert Zemeckis,Tom Hanks,Robin Wright
+tt0137523,12,Fight Club,1999,8.7,2177168,David Fincher,Brad Pitt,Edward Norton
+tt0167261,13,The Lord of the Rings: The Two Towers,2002,8.7,1698006,Peter Jackson,Elijah Wood,Ian McKellen
+tt1375666,14,Inception,2010,8.7,2403552,Christopher Nolan,Leonardo DiCaprio,Joseph Gordon-Levitt
+tt0080684,15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,1316364,Irvin Kershner,Mark Hamill,Harrison Ford
+tt0133093,16,The Matrix,1999,8.7,1950859,Lana Wachowski,Keanu Reeves,Laurence Fishburne
+tt0099685,17,Goodfellas,1990,8.7,1186962,Martin Scorsese,Robert De Niro,Ray Liotta
+tt0073486,18,One Flew Over the Cuckoo's Nest,1975,8.6,1025566,Milos Forman,Jack Nicholson,Louise Fletcher
+tt0114369,19,Se7en,1995,8.6,1690621,David Fincher,Morgan Freeman,Brad Pitt
+tt0038650,20,It's a Wonderful Life,1946,8.6,470745,Frank Capra,James Stewart,Donna Reed
+tt0047478,21,Seven Samurai,1954,8.6,351785,Akira Kurosawa,Toshirô Mifune,Takashi Shimura
+tt0102926,22,The Silence of the Lambs,1991,8.6,1462246,Jonathan Demme,Jodie Foster,Anthony Hopkins
+tt0120815,23,Saving Private Ryan,1998,8.6,1418601,Steven Spielberg,Tom Hanks,Matt Damon
+tt0317248,24,City of God,2002,8.6,768708,Fernando Meirelles,Alexandre Rodrigues,Leandro Firmino
+tt0816692,25,Interstellar,2014,8.6,1898333,Christopher Nolan,Matthew McConaughey,Anne Hathaway
+tt0118799,26,Life Is Beautiful,1997,8.6,708886,Roberto Benigni,Roberto Benigni,Nicoletta Braschi
+tt0120689,27,The Green Mile,1999,8.6,1329775,Frank Darabont,Tom Hanks,Michael Clarke Duncan
+tt0076759,28,Star Wars: Episode IV - A New Hope,1977,8.5,1388789,George Lucas,Mark Hamill,Harrison Ford
+tt0103064,29,Terminator 2: Judgment Day,1991,8.5,1119480,James Cameron,Arnold Schwarzenegger,Linda Hamilton
+tt0088763,30,Back to the Future,1985,8.5,1233349,Robert Zemeckis,Michael J. Fox,Christopher Lloyd
+tt0245429,31,Spirited Away,2001,8.5,785686,Hayao Miyazaki,Daveigh Chase,Suzanne Pleshette
+tt0253474,32,The Pianist,2002,8.5,852321,Roman Polanski,Adrien Brody,Thomas Kretschmann
+tt0054215,33,Psycho,1960,8.5,685251,Alfred Hitchcock,Anthony Perkins,Janet Leigh
+tt6751668,34,Parasite,2019,8.5,847507,Bong Joon Ho,Song Kang-ho,Lee Sun-kyun
+tt0110413,35,Léon: The Professional,1994,8.5,1184838,Luc Besson,Jean Reno,Gary Oldman
+tt0172495,36,Gladiator,2000,8.5,1530560,Ridley Scott,Russell Crowe,Joaquin Phoenix
+tt0110357,37,The Lion King,1994,8.5,1080966,Roger Allers,Matthew Broderick,Jeremy Irons
+tt0120586,38,American History X,1998,8.5,1140266,Tony Kaye,Edward Norton,Edward Furlong
+tt0407887,39,The Departed,2006,8.5,1351373,Martin Scorsese,Leonardo DiCaprio,Matt Damon
+tt2582802,40,Whiplash,2014,8.5,898616,Damien Chazelle,Miles Teller,J.K. Simmons
+tt0482571,41,The Prestige,2006,8.5,1359690,Christopher Nolan,Christian Bale,Hugh Jackman
+tt0114814,42,The Usual Suspects,1995,8.5,1101520,Bryan Singer,Kevin Spacey,Gabriel Byrne
+tt0034583,43,Casablanca,1942,8.5,581820,Michael Curtiz,Humphrey Bogart,Ingrid Bergman
+tt0095327,44,Grave of the Fireflies,1988,8.5,285868,Isao Takahata,Tsutomu Tatsumi,Ayano Shiraishi
+tt0056058,45,Harakiri,1962,8.5,60499,Masaki Kobayashi,Tatsuya Nakadai,Akira Ishihama
+tt1675434,46,The Intouchables,2011,8.5,878214,Olivier Nakache,François Cluzet,Omar Sy
+tt0027977,47,Modern Times,1936,8.4,247525,Charles Chaplin,Charles Chaplin,Paulette Goddard
+tt0064116,48,Once Upon a Time in the West,1968,8.4,336111,Sergio Leone,Henry Fonda,Charles Bronson
+tt0095765,49,Cinema Paradiso,1988,8.4,267404,Giuseppe Tornatore,Philippe Noiret,Enzo Cannavale
+tt0047396,50,Rear Window,1954,8.4,500460,Alfred Hitchcock,James Stewart,Grace Kelly
+tt0078748,51,Alien,1979,8.4,900254,Ridley Scott,Sigourney Weaver,Tom Skerritt
+tt0021749,52,City Lights,1931,8.4,188035,Charles Chaplin,Charles Chaplin,Virginia Cherrill
+tt0078788,53,Apocalypse Now,1979,8.4,680173,Francis Ford Coppola,Martin Sheen,Marlon Brando
+tt0209144,54,Memento,2000,8.4,1259731,Christopher Nolan,Guy Pearce,Carrie-Anne Moss
+tt1853728,55,Django Unchained,2012,8.4,1592776,Quentin Tarantino,Jamie Foxx,Christoph Waltz
+tt0082971,56,Raiders of the Lost Ark,1981,8.4,983207,Steven Spielberg,Harrison Ford,Karen Allen
+tt0910970,57,WALL·E,2008,8.4,1138688,Andrew Stanton,Ben Burtt,Elissa Knight
+tt0405094,58,The Lives of Others,2006,8.4,395711,Florian Henckel von Donnersmarck,Ulrich Mühe,Martina Gedeck
+tt0043014,59,Sunset Blvd.,1950,8.4,226209,Billy Wilder,William Holden,Gloria Swanson
+tt0050825,60,Paths of Glory,1957,8.4,201632,Stanley Kubrick,Kirk Douglas,Ralph Meeker
+tt0081505,61,The Shining,1980,8.4,1045150,Stanley Kubrick,Jack Nicholson,Shelley Duvall
+tt0032553,62,The Great Dictator,1940,8.4,228039,Charles Chaplin,Charles Chaplin,Paulette Goddard
+tt4154756,63,Avengers: Infinity War,2018,8.4,1115851,Anthony Russo,Robert Downey Jr.,Chris Hemsworth
+tt0051201,64,Witness for the Prosecution,1957,8.4,128981,Billy Wilder,Tyrone Power,Marlene Dietrich
+tt0090605,65,Aliens,1986,8.3,730384,James Cameron,Sigourney Weaver,Michael Biehn
+tt4633694,66,Spider-Man: Into the Spider-Verse,2018,8.3,557943,Bob Persichetti,Shameik Moore,Jake Johnson
+tt0169547,67,American Beauty,1999,8.3,1171045,Sam Mendes,Kevin Spacey,Annette Bening
+tt0057012,68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,499029,Stanley Kubrick,Peter Sellers,George C. Scott
+tt1345836,69,The Dark Knight Rises,2012,8.3,1735775,Christopher Nolan,Christian Bale,Tom Hardy
+tt0361748,70,Inglourious Basterds,2009,8.3,1485672,Quentin Tarantino,Brad Pitt,Diane Kruger
+tt0364569,71,Oldboy,2003,8.3,593725,Park Chan-wook,Choi Min-sik,Yoo Ji-tae
+tt0086879,72,Amadeus,1984,8.3,408639,Milos Forman,F. Murray Abraham,Tom Hulce
+tt2380307,73,Coco,2017,8.3,530286,Lee Unkrich,Anthony Gonzalez,Gael García Bernal
+tt0114709,74,Toy Story,1995,8.3,1014290,John Lasseter,Tom Hanks,Tim Allen
+tt0112573,75,Braveheart,1995,8.3,1053109,Mel Gibson,Mel Gibson,Sophie Marceau
+tt7286456,76,Joker,2019,8.3,1344777,Todd Phillips,Joaquin Phoenix,Robert De Niro
+tt0082096,77,Das Boot,1981,8.3,255003,Wolfgang Petersen,Jürgen Prochnow,Herbert Grönemeyer
+tt4154796,78,Avengers: Endgame,2019,8.3,1171881,Anthony Russo,Robert Downey Jr.,Chris Evans
+tt0119698,79,Princess Mononoke,1997,8.3,405009,Hayao Miyazaki,Yôji Matsuda,Yuriko Ishida
+tt0119217,80,Good Will Hunting,1997,8.3,999109,Gus Van Sant,Robin Williams,Matt Damon
+tt0087843,81,Once Upon a Time in America,1984,8.3,359059,Sergio Leone,Robert De Niro,James Woods
+tt5311514,82,Your Name.,2016,8.3,283784,Makoto Shinkai,Ryunosuke Kamiki,Mone Kamishiraishi
+tt1187043,83,3 Idiots,2009,8.3,409478,Rajkumar Hirani,Aamir Khan,Madhavan
+tt0045152,84,Singin' in the Rain,1952,8.3,248110,Stanley Donen,Gene Kelly,Donald O'Connor
+tt0180093,85,Requiem for a Dream,2000,8.3,859048,Darren Aronofsky,Ellen Burstyn,Jared Leto
+tt0057565,86,High and Low,1963,8.3,47477,Akira Kurosawa,Toshirô Mifune,Yutaka Sada
+tt0435761,87,Toy Story 3,2010,8.3,852222,Lee Unkrich,Tom Hanks,Tim Allen
+tt8267604,88,Capernaum,2018,8.3,94422,Nadine Labaki,Zain Al Rafeea,Yordanos Shiferaw
+tt0086190,89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,1073506,Richard Marquand,Mark Hamill,Harrison Ford
+tt0062622,90,2001: A Space Odyssey,1968,8.3,682987,Stanley Kubrick,Keir Dullea,Gary Lockwood
+tt0338013,91,Eternal Sunshine of the Spotless Mind,2004,8.3,1028039,Michel Gondry,Jim Carrey,Kate Winslet
+tt0091251,92,Come and See,1985,8.3,85036,Elem Klimov,Aleksey Kravchenko,Olga Mironova
+tt0105236,93,Reservoir Dogs,1992,8.3,1039498,Quentin Tarantino,Harvey Keitel,Tim Roth
+tt2106476,94,The Hunt,2012,8.3,339815,Thomas Vinterberg,Mads Mikkelsen,Thomas Bo Larsen
+tt0056172,95,Lawrence of Arabia,1962,8.2,300213,David Lean,Peter O'Toole,Alec Guinness
+tt0033467,96,Citizen Kane,1941,8.2,449455,Orson Welles,Orson Welles,Joseph Cotten
+tt0022100,97,M,1931,8.2,161256,Fritz Lang,Peter Lorre,Ellen Widmann
+tt0044741,98,Ikiru,1952,8.2,81406,Akira Kurosawa,Takashi Shimura,Nobuo Kaneko
+tt0053125,99,North by Northwest,1959,8.2,333727,Alfred Hitchcock,Cary Grant,Eva Marie Saint
+tt0053604,100,The Apartment,1960,8.2,186001,Billy Wilder,Jack Lemmon,Shirley MacLaine
+tt0052357,101,Vertigo,1958,8.2,409766,Alfred Hitchcock,James Stewart,Kim Novak
+tt0211915,102,Amélie,2001,8.2,767979,Jean-Pierre Jeunet,Audrey Tautou,Mathieu Kassovitz
+tt0036775,103,Double Indemnity,1944,8.2,160402,Billy Wilder,Fred MacMurray,Barbara Stanwyck
+tt0066921,104,A Clockwork Orange,1971,8.2,845375,Stanley Kubrick,Malcolm McDowell,Patrick Magee
+tt0093058,105,Full Metal Jacket,1987,8.2,756293,Stanley Kubrick,Matthew Modine,R. Lee Ermey
+tt0086250,106,Scarface,1983,8.2,862413,Brian De Palma,Al Pacino,Michelle Pfeiffer
+tt8503618,107,Hamilton,2020,8.2,100539,Thomas Kail,Lin-Manuel Miranda,Phillipa Soo
+tt1255953,108,Incendies,2010,8.2,182992,Denis Villeneuve,Lubna Azabal,Mélissa Désormeaux-Poulin
+tt0113277,109,Heat,1995,8.2,670854,Michael Mann,Al Pacino,Robert De Niro
+tt1049413,110,Up,2009,8.2,1065408,Pete Docter,Edward Asner,Jordan Nagai
+tt0056592,111,To Kill a Mockingbird,1962,8.2,321455,Robert Mulligan,Gregory Peck,John Megna
+tt0070735,112,The Sting,1973,8.2,268861,George Roy Hill,Paul Newman,Robert Redford
+tt1832382,113,A Separation,2011,8.2,248887,Asghar Farhadi,Payman Maadi,Leila Hatami
+tt0017136,114,Metropolis,1927,8.2,177781,Fritz Lang,Brigitte Helm,Alfred Abel
+tt0119488,115,L.A. Confidential,1997,8.2,591692,Curtis Hanson,Kevin Spacey,Russell Crowe
+tt0095016,116,Die Hard,1988,8.2,899066,John McTiernan,Bruce Willis,Alan Rickman
+tt0075314,117,Taxi Driver,1976,8.2,859523,Martin Scorsese,Robert De Niro,Jodie Foster
+tt0097576,118,Indiana Jones and the Last Crusade,1989,8.2,768759,Steven Spielberg,Harrison Ford,Sean Connery
+tt0208092,119,Snatch,2000,8.2,871415,Guy Ritchie,Jason Statham,Brad Pitt
+tt0040522,120,Bicycle Thieves,1948,8.2,167045,Vittorio De Sica,Lamberto Maggiorani,Enzo Staiola
+tt0986264,121,Like Stars on Earth,2007,8.2,197404,Aamir Khan,Darsheel Safary,Aamir Khan
+tt8579674,122,1917,2019,8.2,616760,Sam Mendes,Dean-Charles Chapman,George MacKay
+tt1745960,123,Top Gun: Maverick,2022,8.2,577867,Joseph Kosinski,Tom Cruise,Jennifer Connelly
+tt0363163,124,Downfall,2004,8.2,361504,Oliver Hirschbiegel,Bruno Ganz,Alexandra Maria Lara
+tt5074352,125,Dangal,2016,8.2,196528,Nitesh Tiwari,Aamir Khan,Sakshi Tanwar
+tt0059578,126,For a Few Dollars More,1965,8.2,262032,Sergio Leone,Clint Eastwood,Lee Van Cleef
+tt0372784,127,Batman Begins,2005,8.2,1498023,Christopher Nolan,Christian Bale,Michael Caine
+tt0012349,128,The Kid,1921,8.2,128942,Charles Chaplin,Charles Chaplin,Edna Purviance
+tt0053291,129,Some Like It Hot,1959,8.2,272413,Billy Wilder,Marilyn Monroe,Tony Curtis
+tt10272386,130,The Father,2020,8.2,166148,Florian Zeller,Anthony Hopkins,Olivia Colman
+tt0042192,131,All About Eve,1950,8.2,133689,Joseph L. Mankiewicz,Bette Davis,Anne Baxter
+tt0993846,132,The Wolf of Wall Street,2013,8.2,1455421,Martin Scorsese,Leonardo DiCaprio,Jonah Hill
+tt6966692,133,Green Book,2018,8.2,515577,Peter Farrelly,Viggo Mortensen,Mahershala Ali
+tt0055031,134,Judgment at Nuremberg,1961,8.2,79642,Stanley Kramer,Spencer Tracy,Burt Lancaster
+tt0089881,135,Ran,1985,8.2,128642,Akira Kurosawa,Tatsuya Nakadai,Akira Terao
+tt0112641,136,Casino,1995,8.2,532606,Martin Scorsese,Robert De Niro,Sharon Stone
+tt0120382,137,The Truman Show,1998,8.2,1112085,Peter Weir,Jim Carrey,Ed Harris
+tt0469494,138,There Will Be Blood,2007,8.2,600210,Paul Thomas Anderson,Daniel Day-Lewis,Paul Dano
+tt0457430,139,Pan's Labyrinth,2006,8.2,679340,Guillermo del Toro,Ivana Baquero,Ariadna Gil
+tt0105695,140,Unforgiven,1992,8.2,419612,Clint Eastwood,Clint Eastwood,Gene Hackman
+tt0167404,141,The Sixth Sense,1999,8.2,1008388,M. Night Shyamalan,Bruce Willis,Haley Joel Osment
+tt1130884,142,Shutter Island,2010,8.2,1354068,Martin Scorsese,Leonardo DiCaprio,Emily Mortimer
+tt0107290,143,Jurassic Park,1993,8.2,1010432,Steven Spielberg,Sam Neill,Laura Dern
+tt0268978,144,A Beautiful Mind,2001,8.2,947744,Ron Howard,Russell Crowe,Ed Harris
+tt0055630,145,Yojimbo,1961,8.1,125486,Akira Kurosawa,Toshirô Mifune,Eijirô Tôno
+tt0040897,146,The Treasure of the Sierra Madre,1948,8.1,127540,John Huston,Humphrey Bogart,Walter Huston
+tt0071853,147,Monty Python and the Holy Grail,1975,8.1,550387,Terry Gilliam,Graham Chapman,John Cleese
+tt0477348,148,No Country for Old Men,2007,8.1,997617,Ethan Coen,Tommy Lee Jones,Javier Bardem
+tt0266697,149,Kill Bill: Vol. 1,2003,8.1,1137097,Quentin Tarantino,Uma Thurman,David Carradine
+tt0057115,150,The Great Escape,1963,8.1,248870,John Sturges,Steve McQueen,James Garner
+tt0042876,151,Rashomon,1950,8.1,172196,Akira Kurosawa,Toshirô Mifune,Machiko Kyô
+tt0084787,152,The Thing,1982,8.1,436814,John Carpenter,Kurt Russell,Wilford Brimley
+tt0266543,153,Finding Nemo,2003,8.1,1063048,Andrew Stanton,Albert Brooks,Ellen DeGeneres
+tt10872600,154,Spider-Man: No Way Home,2021,8.1,789672,Jon Watts,Tom Holland,Zendaya
+tt0080678,155,The Elephant Man,1980,8.1,247040,David Lynch,Anthony Hopkins,John Hurt
+tt0071315,156,Chinatown,1974,8.1,333675,Roman Polanski,Jack Nicholson,Faye Dunaway
+tt0434409,157,V for Vendetta,2005,8.1,1138159,James McTeigue,Hugo Weaving,Natalie Portman
+tt0081398,158,Raging Bull,1980,8.1,361860,Martin Scorsese,Robert De Niro,Cathy Moriarty
+tt0031381,159,Gone with the Wind,1939,8.1,321644,Victor Fleming,Clark Gable,Vivien Leigh
+tt0046912,160,Dial M for Murder,1954,8.1,180038,Alfred Hitchcock,Ray Milland,Grace Kelly
+tt0120735,161,"Lock, Stock and Two Smoking Barrels",1998,8.1,593523,Guy Ritchie,Jason Flemyng,Dexter Fletcher
+tt2096673,162,Inside Out,2015,8.1,733024,Pete Docter,Amy Poehler,Bill Hader
+tt0347149,163,Howl's Moving Castle,2004,8.1,409430,Hayao Miyazaki,Chieko Baishô,Takuya Kimura
+tt1305806,164,The Secret in Their Eyes,2009,8.1,213530,Juan José Campanella,Ricardo Darín,Soledad Villamil
+tt5027774,165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,523968,Martin McDonagh,Frances McDormand,Woody Harrelson
+tt0117951,166,Trainspotting,1996,8.1,699308,Danny Boyle,Ewan McGregor,Ewen Bremner
+tt0050212,167,The Bridge on the River Kwai,1957,8.1,225084,David Lean,William Holden,Alec Guinness
+tt1392214,168,Prisoners,2013,8.1,741486,Denis Villeneuve,Hugh Jackman,Jake Gyllenhaal
+tt0116282,169,Fargo,1996,8.1,690752,Joel Coen,William H. Macy,Frances McDormand
+tt1291584,170,Warrior,2011,8.1,480700,Gavin O'Connor,Tom Hardy,Nick Nolte
+tt1205489,171,Gran Torino,2008,8.1,787640,Clint Eastwood,Clint Eastwood,Bee Vang
+tt0264464,172,Catch Me If You Can,2002,8.1,1015883,Steven Spielberg,Leonardo DiCaprio,Tom Hanks
+tt0096283,173,My Neighbor Totoro,1988,8.1,350816,Hayao Miyazaki,Hitoshi Takagi,Noriko Hidaka
+tt0405159,174,Million Dollar Baby,2004,8.1,698329,Clint Eastwood,Hilary Swank,Clint Eastwood
+tt0118849,175,Children of Heaven,1997,8.1,76463,Majid Majidi,Mohammad Amir Naji,Amir Farrokh Hashemian
+tt0083658,176,Blade Runner,1982,8.1,785348,Ridley Scott,Harrison Ford,Rutger Hauer
+tt0015864,177,The Gold Rush,1925,8.1,113570,Charles Chaplin,Charles Chaplin,Mack Swain
+tt4729430,178,Klaus,2019,8.1,165187,Sergio Pablos,Jason Schwartzman,J.K. Simmons
+tt1201607,179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,897163,David Yates,Daniel Radcliffe,Emma Watson
+tt0112471,180,Before Sunrise,1995,8.1,318936,Richard Linklater,Ethan Hawke,Julie Delpy
+tt2024544,181,12 Years a Slave,2013,8.1,713955,Steve McQueen,Chiwetel Ejiofor,Michael Kenneth Williams
+tt0052618,182,Ben-Hur,1959,8.1,244577,William Wyler,Charlton Heston,Jack Hawkins
+tt2278388,183,The Grand Budapest Hotel,2014,8.1,834581,Wes Anderson,Ralph Fiennes,F. Murray Abraham
+tt0047296,184,On the Waterfront,1954,8.1,158135,Elia Kazan,Marlon Brando,Karl Malden
+tt2267998,185,Gone Girl,2014,8.1,1005086,David Fincher,Ben Affleck,Rosamund Pike
+tt0050986,186,Wild Strawberries,1957,8.1,109687,Ingmar Bergman,Victor Sjöström,Bibi Andersson
+tt0017925,187,The General,1926,8.1,93597,Clyde Bruckman,Buster Keaton,Marion Mack
+tt0072684,188,Barry Lyndon,1975,8.1,173093,Stanley Kubrick,Ryan O'Neal,Marisa Berenson
+tt0107207,189,In the Name of the Father,1993,8.1,179355,Jim Sheridan,Daniel Day-Lewis,Pete Postlethwaite
+tt10366206,190,John Wick: Chapter 4,2023,8.1,138674,Chad Stahelski,Keanu Reeves,Laurence Fishburne
+tt0077416,191,The Deer Hunter,1978,8.1,345822,Michael Cimino,Robert De Niro,Christopher Walken
+tt2119532,192,Hacksaw Ridge,2016,8.1,546337,Mel Gibson,Andrew Garfield,Sam Worthington
+tt0041959,193,The Third Man,1949,8.1,174962,Carol Reed,Orson Welles,Joseph Cotten
+tt0046268,194,The Wages of Fear,1953,8.1,62977,Henri-Georges Clouzot,Yves Montand,Charles Vanel
+tt0353969,195,Memories of Murder,2003,8.1,194430,Bong Joon Ho,Song Kang-ho,Kim Sang-kyung
+tt3011894,196,Wild Tales,2014,8.1,204309,Damián Szifron,Darío Grandinetti,María Marull
+tt0015324,197,Sherlock Jr.,1924,8.1,52096,Buster Keaton,Buster Keaton,Kathryn McGuire
+tt0031679,198,Mr. Smith Goes to Washington,1939,8.1,117360,Frank Capra,James Stewart,Jean Arthur
+tt1392190,199,Mad Max: Fury Road,2015,8.1,1026048,George Miller,Tom Hardy,Charlize Theron
+tt0978762,200,Mary and Max,2009,8.1,180358,Adam Elliot,Toni Collette,Philip Seymour Hoffman
+tt0892769,201,How to Train Your Dragon,2010,8.1,758325,Dean DeBlois,Jay Baruchel,Gerard Butler
+tt0050976,202,The Seventh Seal,1957,8.1,189296,Ingmar Bergman,Max von Sydow,Gunnar Björnstrand
+tt0198781,203,"Monsters, Inc.",2001,8.1,928724,Pete Docter,Billy Crystal,John Goodman
+tt0097165,204,Dead Poets Society,1989,8.1,507306,Peter Weir,Robin Williams,Robert Sean Leonard
+tt0073195,205,Jaws,1975,8.1,621281,Steven Spielberg,Roy Scheider,Robert Shaw
+tt3170832,206,Room,2015,8.1,430397,Lenny Abrahamson,Brie Larson,Jacob Tremblay
+tt0118715,207,The Big Lebowski,1998,8.1,824653,Joel Coen,Jeff Bridges,John Goodman
+tt0046438,208,Tokyo Story,1953,8.1,63822,Yasujirô Ozu,Chishû Ryû,Chieko Higashiyama
+tt0019254,209,The Passion of Joan of Arc,1928,8.1,57044,Carl Theodor Dreyer,Maria Falconetti,Eugene Silvain
+tt1950186,210,Ford v Ferrari,2019,8.1,414564,James Mangold,Matt Damon,Christian Bale
+tt0395169,211,Hotel Rwanda,2004,8.0,361183,Terry George,Don Cheadle,Sophie Okonedo
+tt0075148,212,Rocky,1976,8.0,596084,John G. Avildsen,Sylvester Stallone,Talia Shire
+tt0382932,213,Ratatouille,2007,8.0,762173,Brad Bird,Brad Garrett,Lou Romano
+tt0091763,214,Platoon,1986,8.0,422238,Oliver Stone,Charlie Sheen,Tom Berenger
+tt1895587,215,Spotlight,2015,8.0,480634,Tom McCarthy,Mark Ruffalo,Michael Keaton
+tt3315342,216,Logan,2017,8.0,783876,James Mangold,Hugh Jackman,Patrick Stewart
+tt0088247,217,The Terminator,1984,8.0,882613,James Cameron,Arnold Schwarzenegger,Linda Hamilton
+tt0092005,218,Stand by Me,1986,8.0,415659,Rob Reiner,Wil Wheaton,River Phoenix
+tt1979320,219,Rush,2013,8.0,489576,Ron Howard,Daniel Brühl,Chris Hemsworth
+tt0074958,220,Network,1976,8.0,163003,Sidney Lumet,Faye Dunaway,William Holden
+tt0381681,221,Before Sunset,2004,8.0,272737,Richard Linklater,Ethan Hawke,Julie Delpy
+tt0758758,222,Into the Wild,2007,8.0,633551,Sean Penn,Emile Hirsch,Vince Vaughn
+tt0032138,223,The Wizard of Oz,1939,8.0,409029,Victor Fleming,Judy Garland,Frank Morgan
+tt0036868,224,The Best Years of Our Lives,1946,8.0,66832,William Wyler,Myrna Loy,Dana Andrews
+tt0070047,225,The Exorcist,1973,8.0,419416,William Friedkin,Ellen Burstyn,Max von Sydow
+tt0107048,226,Groundhog Day,1993,8.0,648438,Harold Ramis,Bill Murray,Andie MacDowell
+tt0317705,227,The Incredibles,2004,8.0,758028,Brad Bird,Craig T. Nelson,Samuel L. Jackson
+tt0035446,228,To Be or Not to Be,1942,8.0,39430,Ernst Lubitsch,Carole Lombard,Jack Benny
+tt0113247,229,La haine,1995,8.0,180465,Mathieu Kassovitz,Vincent Cassel,Hubert Koundé
+tt0325980,230,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,1149715,Gore Verbinski,Johnny Depp,Geoffrey Rush
+tt1028532,231,Hachi: A Dog's Tale,2009,8.0,293721,Lasse Hallström,Richard Gere,Joan Allen
+tt0058946,232,The Battle of Algiers,1966,8.0,62189,Gillo Pontecorvo,Brahim Hadjadj,Jean Martin
+tt0048473,233,Pather Panchali,1955,8.0,34806,Satyajit Ray,Kanu Bannerjee,Karuna Bannerjee
+tt0032551,234,The Grapes of Wrath,1940,8.0,95833,John Ford,Henry Fonda,Jane Darwell
+tt0476735,235,My Father and My Son,2005,8.0,88004,Çagan Irmak,Çetin Tekindor,Fikret Kuskan
+tt0245712,236,Amores Perros,2000,8.0,244842,Alejandro G. Iñárritu,Emilio Echevarría,Gael García Bernal
+tt15097216,237,Jai Bhim,2021,8.0,206113,T.J. Gnanavel,Suriya,Lijo Mol Jose
+tt0032976,238,Rebecca,1940,8.0,140433,Alfred Hitchcock,Laurence Olivier,Joan Fontaine
+tt4016934,239,The Handmaiden,2016,8.0,155886,Park Chan-wook,Kim Min-hee,Ha Jung-woo
+tt0061512,240,Cool Hand Luke,1967,8.0,181118,Stuart Rosenberg,Paul Newman,George Kennedy
+tt0059742,241,The Sound of Music,1965,8.0,243703,Robert Wise,Julie Andrews,Christopher Plummer
+tt0025316,242,It Happened One Night,1934,8.0,106897,Frank Capra,Clark Gable,Claudette Colbert
+tt0053198,243,The 400 Blows,1959,8.0,121675,François Truffaut,Jean-Pierre Léaud,Albert Rémy
+tt0060827,244,Persona,1966,8.0,123116,Ingmar Bergman,Bibi Andersson,Liv Ullmann
+tt0079470,245,Life of Brian,1979,8.0,407776,Terry Jones,Graham Chapman,John Cleese
+tt0129167,246,The Iron Giant,1999,8.0,207680,Brad Bird,Eli Marienthal,Harry Connick Jr.
+tt1454029,247,The Help,2011,8.0,470895,Tate Taylor,Viola Davis,Emma Stone
+tt0103639,248,Aladdin,1992,8.0,434324,Ron Clements,Scott Weinger,Robin Williams
+tt0099348,249,Dances with Wolves,1990,8.0,275236,Kevin Costner,Kevin Costner,Mary McDonnell
+tt0071411,250,Dersu Uzala,1975,8.0,31709,Akira Kurosawa,Maksim Munzuk,Yuriy Solomin
