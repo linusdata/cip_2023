@@ -16,3 +16,7 @@ print(top250)
 top250 = delete_random_data(top250)
 
 print(top250)
+
+#Das CSV wird überschrieben.
+
+top250.to_csv("imdb_top_250.csv", index=False)
