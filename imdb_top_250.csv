@@ -1,251 +1,251 @@
 id,rank,title_en,year,rating,film_title_cleaned,num_votes,director,actor1,actor2,film_age,collaboration1,collaboration2
-tt0111161,1,The Shawshank Redemption,1994,9.2,theshawshankredemption,2735011,Frank Darabont, Tim Robbins,Morgan Freeman,29,Frank Darabont -  Tim Robbins - 1,Frank Darabont - Morgan Freeman - 1
-tt0068646,2,The Godfather,1972,9.2,thegodfather,1901934,Francis Ford Coppola, Marlon Brando,Al Pacino,51,Francis Ford Coppola -  Marlon Brando - 1,Francis Ford Coppola - Al Pacino - 1
-tt0468569,3,The Dark Knight,2008,9.0,thedarkknight,2708214,Christopher Nolan, Christian Bale,Heath Ledger,15,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Heath Ledger - 1
-tt0071562,4,The Godfather Part II,1974,9.0,thegodfatherpartii,1296571,Francis Ford Coppola, Al Pacino,Robert De Niro,49,Francis Ford Coppola -  Al Pacino - 1,Francis Ford Coppola - Robert De Niro - 1
-tt0050083,5,12 Angry Men,1957,9.0,12angrymen,809416,Sidney Lumet, Henry Fonda,Lee J. Cobb,66,Sidney Lumet -  Henry Fonda - 1,Sidney Lumet - Lee J. Cobb - 1
-tt0108052,6,Schindler's List,1993,8.9,schindlerslist,1380732,Steven Spielberg, Liam Neeson,Ralph Fiennes,30,Steven Spielberg -  Liam Neeson - 1,Steven Spielberg - Ralph Fiennes - 1
-tt0167260,7,The Lord of the Rings: The Return of the King,2003,8.9,thelordoftheringsthereturnoftheking,1881248,Peter Jackson, Elijah Wood,Viggo Mortensen,20,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Viggo Mortensen - 1
-tt0110912,8,Pulp Fiction,1994,8.8,pulpfiction,2101736,Quentin Tarantino, John Travolta,Uma Thurman,29,Quentin Tarantino -  John Travolta - 1,Quentin Tarantino - Uma Thurman - 1
-tt0120737,9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,thelordoftheringsthefellowshipofthering,1910077,Peter Jackson, Elijah Wood,Ian McKellen,22,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Ian McKellen - 2
-tt0060196,10,"The Good, the Bad and the Ugly",1966,8.8,thegoodthebadandtheugly,774930,Sergio Leone, Clint Eastwood,Eli Wallach,57,Sergio Leone -  Clint Eastwood - 2,Sergio Leone - Eli Wallach - 1
-tt0109830,11,Forrest Gump,1994,8.8,forrestgump,2128313,Robert Zemeckis, Tom Hanks,Robin Wright,29,Robert Zemeckis -  Tom Hanks - 1,Robert Zemeckis - Robin Wright - 1
-tt0137523,12,Fight Club,1999,8.7,fightclub,2177598,David Fincher, Brad Pitt,Edward Norton,24,David Fincher -  Brad Pitt - 1,David Fincher - Edward Norton - 1
-tt0167261,13,The Lord of the Rings: The Two Towers,2002,8.7,thelordoftheringsthetwotowers,1698231,Peter Jackson, Elijah Wood,Ian McKellen,21,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Ian McKellen - 2
-tt1375666,14,Inception,2010,8.7,inception,2403977,Christopher Nolan, Leonardo DiCaprio,Joseph Gordon-Levitt,13,Christopher Nolan -  Leonardo DiCaprio - 1,Christopher Nolan - Joseph Gordon-Levitt - 1
-tt0080684,15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,starwarsepisodevtheempirestrikesback,1316616,Irvin Kershner, Mark Hamill,Harrison Ford,43,Irvin Kershner -  Mark Hamill - 1,Irvin Kershner - Harrison Ford - 1
-tt0133093,16,The Matrix,1999,8.7,thematrix,1951153,Lana Wachowski, Keanu Reeves,Laurence Fishburne,24,Lana Wachowski -  Keanu Reeves - 1,Lana Wachowski - Laurence Fishburne - 1
-tt0099685,17,Goodfellas,1990,8.7,goodfellas,1187146,Martin Scorsese, Robert De Niro,Ray Liotta,33,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Ray Liotta - 1
-tt0073486,18,One Flew Over the Cuckoo's Nest,1975,8.6,oneflewoverthecuckoosnest,1025704,Milos Forman, Jack Nicholson,Louise Fletcher,48,Milos Forman -  Jack Nicholson - 1,Milos Forman - Louise Fletcher - 1
-tt0114369,19,Se7en,1995,8.6,se7en,1690927,David Fincher, Morgan Freeman,Brad Pitt,28,David Fincher -  Morgan Freeman - 1,David Fincher - Brad Pitt - 1
-tt0038650,20,It's a Wonderful Life,1946,8.6,itsawonderfullife,470810,Frank Capra, James Stewart,Donna Reed,77,Frank Capra -  James Stewart - 2,Frank Capra - Donna Reed - 1
-tt0047478,21,Seven Samurai,1954,8.6,sevensamurai,351836,Akira Kurosawa, Toshirô Mifune,Takashi Shimura,69,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Takashi Shimura - 1
-tt0102926,22,The Silence of the Lambs,1991,8.6,thesilenceofthelambs,1462436,Jonathan Demme, Jodie Foster,Anthony Hopkins,32,Jonathan Demme -  Jodie Foster - 1,Jonathan Demme - Anthony Hopkins - 1
-tt0120815,23,Saving Private Ryan,1998,8.6,savingprivateryan,1418786,Steven Spielberg, Tom Hanks,Matt Damon,25,Steven Spielberg -  Tom Hanks - 1,Steven Spielberg - Matt Damon - 1
-tt0317248,24,City of God,2002,8.6,cityofgod,768796,Fernando Meirelles, Alexandre Rodrigues,Leandro Firmino,21,Fernando Meirelles -  Alexandre Rodrigues - 1,Fernando Meirelles - Leandro Firmino - 1
-tt0816692,25,Interstellar,2014,8.6,interstellar,1898826,Christopher Nolan, Matthew McConaughey,Anne Hathaway,9,Christopher Nolan -  Matthew McConaughey - 1,Christopher Nolan - Anne Hathaway - 1
-tt0118799,26,Life Is Beautiful,1997,8.6,lifeisbeautiful,708977,Roberto Benigni, Roberto Benigni,Nicoletta Braschi,26,Roberto Benigni -  Roberto Benigni - 1,Roberto Benigni - Nicoletta Braschi - 1
-tt0120689,27,The Green Mile,1999,8.6,thegreenmile,1329995,Frank Darabont, Tom Hanks,Michael Clarke Duncan,24,Frank Darabont -  Tom Hanks - 1,Frank Darabont - Michael Clarke Duncan - 1
-tt0076759,28,Star Wars: Episode IV - A New Hope,1977,8.5,starwarsepisodeivanewhope,1389078,George Lucas, Mark Hamill,Harrison Ford,46,George Lucas -  Mark Hamill - 1,George Lucas - Harrison Ford - 1
-tt0103064,29,Terminator 2: Judgment Day,1991,8.5,terminator2judgmentday,1119626,James Cameron, Arnold Schwarzenegger,Linda Hamilton,32,James Cameron -  Arnold Schwarzenegger - 2,James Cameron - Linda Hamilton - 2
-tt0088763,30,Back to the Future,1985,8.5,backtothefuture,1233554,Robert Zemeckis, Michael J. Fox,Christopher Lloyd,38,Robert Zemeckis -  Michael J. Fox - 1,Robert Zemeckis - Christopher Lloyd - 1
-tt0245429,31,Spirited Away,2001,8.5,spiritedaway,785881,Hayao Miyazaki, Daveigh Chase,Suzanne Pleshette,22,Hayao Miyazaki -  Daveigh Chase - 1,Hayao Miyazaki - Suzanne Pleshette - 1
-tt0253474,32,The Pianist,2002,8.5,thepianist,852480,Roman Polanski, Adrien Brody,Thomas Kretschmann,21,Roman Polanski -  Adrien Brody - 1,Roman Polanski - Thomas Kretschmann - 1
-tt0054215,33,Psycho,1960,8.5,psycho,685344,Alfred Hitchcock, Anthony Perkins,Janet Leigh,63,Alfred Hitchcock -  Anthony Perkins - 1,Alfred Hitchcock - Janet Leigh - 1
-tt6751668,34,Parasite,2019,8.5,parasite,847823,Bong Joon Ho, Song Kang-ho,Lee Sun-kyun,4,Bong Joon Ho -  Song Kang-ho - 2,Bong Joon Ho - Lee Sun-kyun - 1
-tt0110413,35,Léon: The Professional,1994,8.5,lontheprofessional,1185021,Luc Besson, Jean Reno,Gary Oldman,29,Luc Besson -  Jean Reno - 1,Luc Besson - Gary Oldman - 1
-tt0172495,36,Gladiator,2000,8.5,gladiator,1530799,Ridley Scott, Russell Crowe,Joaquin Phoenix,23,Ridley Scott -  Russell Crowe - 1,Ridley Scott - Joaquin Phoenix - 1
-tt0110357,37,The Lion King,1994,8.5,thelionking,1081137,Roger Allers, Matthew Broderick,Jeremy Irons,29,Roger Allers -  Matthew Broderick - 1,Roger Allers - Jeremy Irons - 1
-tt0120586,38,American History X,1998,8.5,americanhistoryx,1140381,Tony Kaye, Edward Norton,Edward Furlong,25,Tony Kaye -  Edward Norton - 1,Tony Kaye - Edward Furlong - 1
-tt0407887,39,The Departed,2006,8.5,thedeparted,1351541,Martin Scorsese, Leonardo DiCaprio,Matt Damon,17,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Matt Damon - 1
-tt2582802,40,Whiplash,2014,8.5,whiplash,898875,Damien Chazelle, Miles Teller,J.K. Simmons,9,Damien Chazelle -  Miles Teller - 1,Damien Chazelle - J.K. Simmons - 1
-tt0482571,41,The Prestige,2006,8.5,theprestige,1359882,Christopher Nolan, Christian Bale,Hugh Jackman,17,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Hugh Jackman - 1
-tt0114814,42,The Usual Suspects,1995,8.5,theusualsuspects,1101627,Bryan Singer, Kevin Spacey,Gabriel Byrne,28,Bryan Singer -  Kevin Spacey - 1,Bryan Singer - Gabriel Byrne - 1
-tt0034583,43,Casablanca,1942,8.5,casablanca,581885,Michael Curtiz, Humphrey Bogart,Ingrid Bergman,81,Michael Curtiz -  Humphrey Bogart - 1,Michael Curtiz - Ingrid Bergman - 1
-tt0095327,44,Grave of the Fireflies,1988,8.5,graveofthefireflies,285927,Isao Takahata, Tsutomu Tatsumi,Ayano Shiraishi,35,Isao Takahata -  Tsutomu Tatsumi - 1,Isao Takahata - Ayano Shiraishi - 1
-tt0056058,45,Harakiri,1962,8.5,harakiri,60515,Masaki Kobayashi, Tatsuya Nakadai,Akira Ishihama,61,Masaki Kobayashi -  Tatsuya Nakadai - 1,Masaki Kobayashi - Akira Ishihama - 1
-tt1675434,46,The Intouchables,2011,8.5,theintouchables,878361,Olivier Nakache, François Cluzet,Omar Sy,12,Olivier Nakache -  François Cluzet - 1,Olivier Nakache - Omar Sy - 1
-tt0027977,47,Modern Times,1936,8.4,moderntimes,247560,Charles Chaplin, Charles Chaplin,Paulette Goddard,87,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Paulette Goddard - 2
-tt0064116,48,Once Upon a Time in the West,1968,8.4,onceuponatimeinthewest,336147,Sergio Leone, Henry Fonda,Charles Bronson,55,Sergio Leone -  Henry Fonda - 1,Sergio Leone - Charles Bronson - 1
-tt0095765,49,Cinema Paradiso,1988,8.4,cinemaparadiso,267452,Giuseppe Tornatore, Philippe Noiret,Enzo Cannavale,35,Giuseppe Tornatore -  Philippe Noiret - 1,Giuseppe Tornatore - Enzo Cannavale - 1
-tt0047396,50,Rear Window,1954,8.4,rearwindow,500511,Alfred Hitchcock, James Stewart,Grace Kelly,69,Alfred Hitchcock -  James Stewart - 2,Alfred Hitchcock - Grace Kelly - 2
-tt0078748,51,Alien,1979,8.4,alien,900385,Ridley Scott, Sigourney Weaver,Tom Skerritt,44,Ridley Scott -  Sigourney Weaver - 1,Ridley Scott - Tom Skerritt - 1
-tt0021749,52,City Lights,1931,8.4,citylights,188052,Charles Chaplin, Charles Chaplin,Virginia Cherrill,92,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Virginia Cherrill - 1
-tt0078788,53,Apocalypse Now,1979,8.4,apocalypsenow,680240,Francis Ford Coppola, Martin Sheen,Marlon Brando,44,Francis Ford Coppola -  Martin Sheen - 1,Francis Ford Coppola - Marlon Brando - 1
-tt0209144,54,Memento,2000,8.4,memento,1259858,Christopher Nolan, Guy Pearce,Carrie-Anne Moss,23,Christopher Nolan -  Guy Pearce - 1,Christopher Nolan - Carrie-Anne Moss - 1
-tt1853728,55,Django Unchained,2012,8.4,djangounchained,1593081,Quentin Tarantino, Jamie Foxx,Christoph Waltz,11,Quentin Tarantino -  Jamie Foxx - 1,Quentin Tarantino - Christoph Waltz - 1
-tt0082971,56,Raiders of the Lost Ark,1981,8.4,raidersofthelostark,983320,Steven Spielberg, Harrison Ford,Karen Allen,42,Steven Spielberg -  Harrison Ford - 2,Steven Spielberg - Karen Allen - 1
-tt0910970,57,WALL·E,2008,8.4,walle,1138877,Andrew Stanton, Ben Burtt,Elissa Knight,15,Andrew Stanton -  Ben Burtt - 1,Andrew Stanton - Elissa Knight - 1
-tt0405094,58,The Lives of Others,2006,8.4,thelivesofothers,395757,Florian Henckel von Donnersmarck, Ulrich Mühe,Martina Gedeck,17,Florian Henckel von Donnersmarck -  Ulrich Mühe - 1,Florian Henckel von Donnersmarck - Martina Gedeck - 1
-tt0043014,59,Sunset Blvd.,1950,8.4,sunsetblvd,226238,Billy Wilder, William Holden,Gloria Swanson,73,Billy Wilder -  William Holden - 1,Billy Wilder - Gloria Swanson - 1
-tt0050825,60,Paths of Glory,1957,8.4,pathsofglory,201648,Stanley Kubrick, Kirk Douglas,Ralph Meeker,66,Stanley Kubrick -  Kirk Douglas - 1,Stanley Kubrick - Ralph Meeker - 1
-tt0081505,61,The Shining,1980,8.4,theshining,1045298,Stanley Kubrick, Jack Nicholson,Shelley Duvall,43,Stanley Kubrick -  Jack Nicholson - 1,Stanley Kubrick - Shelley Duvall - 1
-tt0032553,62,The Great Dictator,1940,8.4,thegreatdictator,228067,Charles Chaplin, Charles Chaplin,Paulette Goddard,83,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Paulette Goddard - 2
-tt4154756,63,Avengers: Infinity War,2018,8.4,avengersinfinitywar,1116178,Anthony Russo, Robert Downey Jr.,Chris Hemsworth,5,Anthony Russo -  Robert Downey Jr. - 2,Anthony Russo - Chris Hemsworth - 1
-tt0051201,64,Witness for the Prosecution,1957,8.4,witnessfortheprosecution,129002,Billy Wilder, Tyrone Power,Marlene Dietrich,66,Billy Wilder -  Tyrone Power - 1,Billy Wilder - Marlene Dietrich - 1
-tt0090605,65,Aliens,1986,8.3,aliens,730462,James Cameron, Sigourney Weaver,Michael Biehn,37,James Cameron -  Sigourney Weaver - 1,James Cameron - Michael Biehn - 1
-tt4633694,66,Spider-Man: Into the Spider-Verse,2018,8.3,spidermanintothespiderverse,558222,Bob Persichetti, Shameik Moore,Jake Johnson,5,Bob Persichetti -  Shameik Moore - 1,Bob Persichetti - Jake Johnson - 1
-tt0169547,67,American Beauty,1999,8.3,americanbeauty,1171145,Sam Mendes, Kevin Spacey,Annette Bening,24,Sam Mendes -  Kevin Spacey - 1,Sam Mendes - Annette Bening - 1
-tt0057012,68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,drstrangeloveorhowilearnedtostopworryingandlovethebomb,499090,Stanley Kubrick, Peter Sellers,George C. Scott,59,Stanley Kubrick -  Peter Sellers - 1,Stanley Kubrick - George C. Scott - 1
-tt1345836,69,The Dark Knight Rises,2012,8.3,thedarkknightrises,1736066,Christopher Nolan, Christian Bale,Tom Hardy,11,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Tom Hardy - 1
-tt0361748,70,Inglourious Basterds,2009,8.3,inglouriousbasterds,1485936,Quentin Tarantino, Brad Pitt,Diane Kruger,14,Quentin Tarantino -  Brad Pitt - 1,Quentin Tarantino - Diane Kruger - 1
-tt0364569,71,Oldboy,2003,8.3,oldboy,593816,Park Chan-wook, Choi Min-sik,Yoo Ji-tae,20,Park Chan-wook -  Choi Min-sik - 1,Park Chan-wook - Yoo Ji-tae - 1
-tt0086879,72,Amadeus,1984,8.3,amadeus,408689,Milos Forman, F. Murray Abraham,Tom Hulce,39,Milos Forman -  F. Murray Abraham - 1,Milos Forman - Tom Hulce - 1
-tt2380307,73,Coco,2017,8.3,coco,530438,Lee Unkrich, Anthony Gonzalez,Gael García Bernal,6,Lee Unkrich -  Anthony Gonzalez - 1,Lee Unkrich - Gael García Bernal - 1
-tt0114709,74,Toy Story,1995,8.3,toystory,1014433,John Lasseter, Tom Hanks,Tim Allen,28,John Lasseter -  Tom Hanks - 1,John Lasseter - Tim Allen - 1
-tt0112573,75,Braveheart,1995,8.3,braveheart,1053223,Mel Gibson, Mel Gibson,Sophie Marceau,28,Mel Gibson -  Mel Gibson - 1,Mel Gibson - Sophie Marceau - 1
-tt7286456,76,Joker,2019,8.3,joker,1345233,Todd Phillips, Joaquin Phoenix,Robert De Niro,4,Todd Phillips -  Joaquin Phoenix - 1,Todd Phillips - Robert De Niro - 1
-tt0082096,77,Das Boot,1981,8.3,dasboot,255043,Wolfgang Petersen, Jürgen Prochnow,Herbert Grönemeyer,42,Wolfgang Petersen -  Jürgen Prochnow - 1,Wolfgang Petersen - Herbert Grönemeyer - 1
-tt4154796,78,Avengers: Endgame,2019,8.3,avengersendgame,1172265,Anthony Russo, Robert Downey Jr.,Chris Evans,4,Anthony Russo -  Robert Downey Jr. - 2,Anthony Russo - Chris Evans - 1
-tt0119698,79,Princess Mononoke,1997,8.3,princessmononoke,405064,Hayao Miyazaki, Yôji Matsuda,Yuriko Ishida,26,Hayao Miyazaki -  Yôji Matsuda - 1,Hayao Miyazaki - Yuriko Ishida - 1
-tt0119217,80,Good Will Hunting,1997,8.3,goodwillhunting,999292,Gus Van Sant, Robin Williams,Matt Damon,26,Gus Van Sant -  Robin Williams - 1,Gus Van Sant - Matt Damon - 1
-tt0087843,81,Once Upon a Time in America,1984,8.3,onceuponatimeinamerica,359108,Sergio Leone, Robert De Niro,James Woods,39,Sergio Leone -  Robert De Niro - 1,Sergio Leone - James Woods - 1
-tt5311514,82,Your Name.,2016,8.3,yourname,283934,Makoto Shinkai, Ryunosuke Kamiki,Mone Kamishiraishi,7,Makoto Shinkai -  Ryunosuke Kamiki - 1,Makoto Shinkai - Mone Kamishiraishi - 1
-tt0045152,83,Singin' in the Rain,1952,8.3,singinintherain,248149,Stanley Donen, Gene Kelly,Donald O'Connor,71,Stanley Donen -  Gene Kelly - 1,Stanley Donen - Donald O'Connor - 1
-tt1187043,84,3 Idiots,2009,8.3,3idiots,409539,Rajkumar Hirani, Aamir Khan,Madhavan,14,Rajkumar Hirani -  Aamir Khan - 1,Rajkumar Hirani - Madhavan - 1
-tt0180093,85,Requiem for a Dream,2000,8.3,requiemforadream,859165,Darren Aronofsky, Ellen Burstyn,Jared Leto,23,Darren Aronofsky -  Ellen Burstyn - 1,Darren Aronofsky - Jared Leto - 1
-tt0057565,86,High and Low,1963,8.3,highandlow,47493,Akira Kurosawa, Toshirô Mifune,Yutaka Sada,60,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Yutaka Sada - 1
-tt0435761,87,Toy Story 3,2010,8.3,toystory3,852331,Lee Unkrich, Tom Hanks,Tim Allen,13,Lee Unkrich -  Tom Hanks - 1,Lee Unkrich - Tim Allen - 1
-tt8267604,88,Capernaum,2018,8.3,capernaum,94450,Nadine Labaki, Zain Al Rafeea,Yordanos Shiferaw,5,Nadine Labaki -  Zain Al Rafeea - 1,Nadine Labaki - Yordanos Shiferaw - 1
-tt0086190,89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,starwarsepisodevireturnofthejedi,1073758,Richard Marquand, Mark Hamill,Harrison Ford,40,Richard Marquand -  Mark Hamill - 1,Richard Marquand - Harrison Ford - 1
-tt0062622,90,2001: A Space Odyssey,1968,8.3,2001aspaceodyssey,683092,Stanley Kubrick, Keir Dullea,Gary Lockwood,55,Stanley Kubrick -  Keir Dullea - 1,Stanley Kubrick - Gary Lockwood - 1
-tt0338013,91,Eternal Sunshine of the Spotless Mind,2004,8.3,eternalsunshineofthespotlessmind,1028156,Michel Gondry, Jim Carrey,Kate Winslet,19,Michel Gondry -  Jim Carrey - 1,Michel Gondry - Kate Winslet - 1
-tt0091251,92,Come and See,1985,8.3,comeandsee,85075,Elem Klimov, Aleksey Kravchenko,Olga Mironova,38,Elem Klimov -  Aleksey Kravchenko - 1,Elem Klimov - Olga Mironova - 1
-tt0105236,93,Reservoir Dogs,1992,8.3,reservoirdogs,1039651,Quentin Tarantino, Harvey Keitel,Tim Roth,31,Quentin Tarantino -  Harvey Keitel - 1,Quentin Tarantino - Tim Roth - 1
-tt2106476,94,The Hunt,2012,8.3,thehunt,339870,Thomas Vinterberg, Mads Mikkelsen,Thomas Bo Larsen,11,Thomas Vinterberg -  Mads Mikkelsen - 1,Thomas Vinterberg - Thomas Bo Larsen - 1
-tt0056172,95,Lawrence of Arabia,1962,8.2,lawrenceofarabia,300241,David Lean, Peter O'Toole,Alec Guinness,61,David Lean -  Peter O'Toole - 1,David Lean - Alec Guinness - 2
-tt0033467,96,Citizen Kane,1941,8.2,citizenkane,449491,Orson Welles, Orson Welles,Joseph Cotten,82,Orson Welles -  Orson Welles - 1,Orson Welles - Joseph Cotten - 1
-tt0022100,97,M,1931,8.2,m,161277,Fritz Lang, Peter Lorre,Ellen Widmann,92,Fritz Lang -  Peter Lorre - 1,Fritz Lang - Ellen Widmann - 1
-tt0044741,98,Ikiru,1952,8.2,ikiru,81420,Akira Kurosawa, Takashi Shimura,Nobuo Kaneko,71,Akira Kurosawa -  Takashi Shimura - 1,Akira Kurosawa - Nobuo Kaneko - 1
-tt0053125,99,North by Northwest,1959,8.2,northbynorthwest,333753,Alfred Hitchcock, Cary Grant,Eva Marie Saint,64,Alfred Hitchcock -  Cary Grant - 1,Alfred Hitchcock - Eva Marie Saint - 1
-tt0053604,100,The Apartment,1960,8.2,theapartment,186018,Billy Wilder, Jack Lemmon,Shirley MacLaine,63,Billy Wilder -  Jack Lemmon - 1,Billy Wilder - Shirley MacLaine - 1
-tt0052357,101,Vertigo,1958,8.2,vertigo,409799,Alfred Hitchcock, James Stewart,Kim Novak,65,Alfred Hitchcock -  James Stewart - 2,Alfred Hitchcock - Kim Novak - 1
-tt0211915,102,Amélie,2001,8.2,amlie,768034,Jean-Pierre Jeunet, Audrey Tautou,Mathieu Kassovitz,22,Jean-Pierre Jeunet -  Audrey Tautou - 1,Jean-Pierre Jeunet - Mathieu Kassovitz - 1
-tt0036775,103,Double Indemnity,1944,8.2,doubleindemnity,160420,Billy Wilder, Fred MacMurray,Barbara Stanwyck,79,Billy Wilder -  Fred MacMurray - 1,Billy Wilder - Barbara Stanwyck - 1
-tt0066921,104,A Clockwork Orange,1971,8.2,aclockworkorange,845475,Stanley Kubrick, Malcolm McDowell,Patrick Magee,52,Stanley Kubrick -  Malcolm McDowell - 1,Stanley Kubrick - Patrick Magee - 1
-tt0093058,105,Full Metal Jacket,1987,8.2,fullmetaljacket,756383,Stanley Kubrick, Matthew Modine,R. Lee Ermey,36,Stanley Kubrick -  Matthew Modine - 1,Stanley Kubrick - R. Lee Ermey - 1
-tt0086250,106,Scarface,1983,8.2,scarface,862554,Brian De Palma, Al Pacino,Michelle Pfeiffer,40,Brian De Palma -  Al Pacino - 1,Brian De Palma - Michelle Pfeiffer - 1
-tt1255953,107,Incendies,2010,8.2,incendies,183015,Denis Villeneuve, Lubna Azabal,Mélissa Désormeaux-Poulin,13,Denis Villeneuve -  Lubna Azabal - 1,Denis Villeneuve - Mélissa Désormeaux-Poulin - 1
-tt8503618,108,Hamilton,2020,8.2,hamilton,100574,Thomas Kail, Lin-Manuel Miranda,Phillipa Soo,3,Thomas Kail -  Lin-Manuel Miranda - 1,Thomas Kail - Phillipa Soo - 1
-tt0113277,109,Heat,1995,8.2,heat,671005,Michael Mann, Al Pacino,Robert De Niro,28,Michael Mann -  Al Pacino - 1,Michael Mann - Robert De Niro - 1
-tt1049413,110,Up,2009,8.2,up,1065593,Pete Docter, Edward Asner,Jordan Nagai,14,Pete Docter -  Edward Asner - 1,Pete Docter - Jordan Nagai - 1
-tt0056592,111,To Kill a Mockingbird,1962,8.2,tokillamockingbird,321478,Robert Mulligan, Gregory Peck,John Megna,61,Robert Mulligan -  Gregory Peck - 1,Robert Mulligan - John Megna - 1
-tt0070735,112,The Sting,1973,8.2,thesting,268887,George Roy Hill, Paul Newman,Robert Redford,50,George Roy Hill -  Paul Newman - 1,George Roy Hill - Robert Redford - 1
-tt1832382,113,A Separation,2011,8.2,aseparation,248906,Asghar Farhadi, Payman Maadi,Leila Hatami,12,Asghar Farhadi -  Payman Maadi - 1,Asghar Farhadi - Leila Hatami - 1
-tt0017136,114,Metropolis,1927,8.2,metropolis,177801,Fritz Lang, Brigitte Helm,Alfred Abel,96,Fritz Lang -  Brigitte Helm - 1,Fritz Lang - Alfred Abel - 1
-tt0119488,115,L.A. Confidential,1997,8.2,laconfidential,591752,Curtis Hanson, Kevin Spacey,Russell Crowe,26,Curtis Hanson -  Kevin Spacey - 1,Curtis Hanson - Russell Crowe - 1
-tt0095016,116,Die Hard,1988,8.2,diehard,899155,John McTiernan, Bruce Willis,Alan Rickman,35,John McTiernan -  Bruce Willis - 1,John McTiernan - Alan Rickman - 1
-tt0075314,117,Taxi Driver,1976,8.2,taxidriver,859718,Martin Scorsese, Robert De Niro,Jodie Foster,47,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Jodie Foster - 1
-tt0097576,118,Indiana Jones and the Last Crusade,1989,8.2,indianajonesandthelastcrusade,768850,Steven Spielberg, Harrison Ford,Sean Connery,34,Steven Spielberg -  Harrison Ford - 2,Steven Spielberg - Sean Connery - 1
-tt0208092,119,Snatch,2000,8.2,snatch,871511,Guy Ritchie, Jason Statham,Brad Pitt,23,Guy Ritchie -  Jason Statham - 1,Guy Ritchie - Brad Pitt - 1
-tt0040522,120,Bicycle Thieves,1948,8.2,bicyclethieves,167063,Vittorio De Sica, Lamberto Maggiorani,Enzo Staiola,75,Vittorio De Sica -  Lamberto Maggiorani - 1,Vittorio De Sica - Enzo Staiola - 1
-tt0986264,121,Like Stars on Earth,2007,8.2,likestarsonearth,197426,Aamir Khan, Darsheel Safary,Aamir Khan,16,Aamir Khan -  Darsheel Safary - 1,Aamir Khan - Aamir Khan - 1
-tt8579674,122,1917,2019,8.2,1917,616895,Sam Mendes, Dean-Charles Chapman,George MacKay,4,Sam Mendes -  Dean-Charles Chapman - 1,Sam Mendes - George MacKay - 1
-tt1745960,123,Top Gun: Maverick,2022,8.2,topgunmaverick,578361,Joseph Kosinski, Tom Cruise,Jennifer Connelly,1,Joseph Kosinski -  Tom Cruise - 1,Joseph Kosinski - Jennifer Connelly - 1
-tt0363163,124,Downfall,2004,8.2,downfall,361538,Oliver Hirschbiegel, Bruno Ganz,Alexandra Maria Lara,19,Oliver Hirschbiegel -  Bruno Ganz - 1,Oliver Hirschbiegel - Alexandra Maria Lara - 1
-tt5074352,125,Dangal,2016,8.2,dangal,196554,Nitesh Tiwari, Aamir Khan,Sakshi Tanwar,7,Nitesh Tiwari -  Aamir Khan - 1,Nitesh Tiwari - Sakshi Tanwar - 1
-tt0059578,126,For a Few Dollars More,1965,8.2,forafewdollarsmore,262052,Sergio Leone, Clint Eastwood,Lee Van Cleef,58,Sergio Leone -  Clint Eastwood - 2,Sergio Leone - Lee Van Cleef - 1
-tt0372784,127,Batman Begins,2005,8.2,batmanbegins,1498264,Christopher Nolan, Christian Bale,Michael Caine,18,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Michael Caine - 1
-tt0012349,128,The Kid,1921,8.2,thekid,128955,Charles Chaplin, Charles Chaplin,Edna Purviance,102,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Edna Purviance - 1
-tt0053291,129,Some Like It Hot,1959,8.2,somelikeithot,272438,Billy Wilder, Marilyn Monroe,Tony Curtis,64,Billy Wilder -  Marilyn Monroe - 1,Billy Wilder - Tony Curtis - 1
-tt10272386,130,The Father,2020,8.2,thefather,166221,Florian Zeller, Anthony Hopkins,Olivia Colman,3,Florian Zeller -  Anthony Hopkins - 1,Florian Zeller - Olivia Colman - 1
-tt0042192,131,All About Eve,1950,8.2,allabouteve,133698,Joseph L. Mankiewicz, Bette Davis,Anne Baxter,73,Joseph L. Mankiewicz -  Bette Davis - 1,Joseph L. Mankiewicz - Anne Baxter - 1
-tt0993846,132,The Wolf of Wall Street,2013,8.2,thewolfofwallstreet,1455746,Martin Scorsese, Leonardo DiCaprio,Jonah Hill,10,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Jonah Hill - 1
-tt6966692,133,Green Book,2018,8.2,greenbook,515734,Peter Farrelly, Viggo Mortensen,Mahershala Ali,5,Peter Farrelly -  Viggo Mortensen - 1,Peter Farrelly - Mahershala Ali - 1
-tt0055031,134,Judgment at Nuremberg,1961,8.2,judgmentatnuremberg,79659,Stanley Kramer, Spencer Tracy,Burt Lancaster,62,Stanley Kramer -  Spencer Tracy - 1,Stanley Kramer - Burt Lancaster - 1
-tt0089881,135,Ran,1985,8.2,ran,128658,Akira Kurosawa, Tatsuya Nakadai,Akira Terao,38,Akira Kurosawa -  Tatsuya Nakadai - 1,Akira Kurosawa - Akira Terao - 1
-tt0112641,136,Casino,1995,8.2,casino,532683,Martin Scorsese, Robert De Niro,Sharon Stone,28,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Sharon Stone - 1
-tt0120382,137,The Truman Show,1998,8.2,thetrumanshow,1112291,Peter Weir, Jim Carrey,Ed Harris,25,Peter Weir -  Jim Carrey - 1,Peter Weir - Ed Harris - 1
-tt0469494,138,There Will Be Blood,2007,8.2,therewillbeblood,600303,Paul Thomas Anderson, Daniel Day-Lewis,Paul Dano,16,Paul Thomas Anderson -  Daniel Day-Lewis - 1,Paul Thomas Anderson - Paul Dano - 1
-tt0457430,139,Pan's Labyrinth,2006,8.2,panslabyrinth,679411,Guillermo del Toro, Ivana Baquero,Ariadna Gil,17,Guillermo del Toro -  Ivana Baquero - 1,Guillermo del Toro - Ariadna Gil - 1
-tt0105695,140,Unforgiven,1992,8.2,unforgiven,419647,Clint Eastwood, Clint Eastwood,Gene Hackman,31,Clint Eastwood -  Clint Eastwood - 2,Clint Eastwood - Gene Hackman - 1
-tt0167404,141,The Sixth Sense,1999,8.2,thesixthsense,1008487,M. Night Shyamalan, Bruce Willis,Haley Joel Osment,24,M. Night Shyamalan -  Bruce Willis - 1,M. Night Shyamalan - Haley Joel Osment - 1
-tt1130884,142,Shutter Island,2010,8.2,shutterisland,1354337,Martin Scorsese, Leonardo DiCaprio,Emily Mortimer,13,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Emily Mortimer - 1
-tt0107290,143,Jurassic Park,1993,8.2,jurassicpark,1010578,Steven Spielberg, Sam Neill,Laura Dern,30,Steven Spielberg -  Sam Neill - 1,Steven Spielberg - Laura Dern - 1
-tt0268978,144,A Beautiful Mind,2001,8.2,abeautifulmind,947847,Ron Howard, Russell Crowe,Ed Harris,22,Ron Howard -  Russell Crowe - 1,Ron Howard - Ed Harris - 1
-tt0055630,145,Yojimbo,1961,8.1,yojimbo,125501,Akira Kurosawa, Toshirô Mifune,Eijirô Tôno,62,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Eijirô Tôno - 1
-tt0040897,146,The Treasure of the Sierra Madre,1948,8.1,thetreasureofthesierramadre,127562,John Huston, Humphrey Bogart,Walter Huston,75,John Huston -  Humphrey Bogart - 1,John Huston - Walter Huston - 1
-tt0071853,147,Monty Python and the Holy Grail,1975,8.1,montypythonandtheholygrail,550444,Terry Gilliam, Graham Chapman,John Cleese,48,Terry Gilliam -  Graham Chapman - 1,Terry Gilliam - John Cleese - 1
-tt0477348,148,No Country for Old Men,2007,8.1,nocountryforoldmen,997775,Ethan Coen, Tommy Lee Jones,Javier Bardem,16,Ethan Coen -  Tommy Lee Jones - 1,Ethan Coen - Javier Bardem - 1
-tt0266697,149,Kill Bill: Vol. 1,2003,8.1,killbillvol1,1137254,Quentin Tarantino, Uma Thurman,David Carradine,20,Quentin Tarantino -  Uma Thurman - 1,Quentin Tarantino - David Carradine - 1
-tt0057115,150,The Great Escape,1963,8.1,thegreatescape,248890,John Sturges, Steve McQueen,James Garner,60,John Sturges -  Steve McQueen - 1,John Sturges - James Garner - 1
-tt0042876,151,Rashomon,1950,8.1,rashomon,172214,Akira Kurosawa, Toshirô Mifune,Machiko Kyô,73,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Machiko Kyô - 1
-tt0084787,152,The Thing,1982,8.1,thething,436879,John Carpenter, Kurt Russell,Wilford Brimley,41,John Carpenter -  Kurt Russell - 1,John Carpenter - Wilford Brimley - 1
-tt0266543,153,Finding Nemo,2003,8.1,findingnemo,1063171,Andrew Stanton, Albert Brooks,Ellen DeGeneres,20,Andrew Stanton -  Albert Brooks - 1,Andrew Stanton - Ellen DeGeneres - 1
-tt10872600,154,Spider-Man: No Way Home,2021,8.1,spidermannowayhome,789994,Jon Watts, Tom Holland,Zendaya,2,Jon Watts -  Tom Holland - 1,Jon Watts - Zendaya - 1
-tt0080678,155,The Elephant Man,1980,8.1,theelephantman,247071,David Lynch, Anthony Hopkins,John Hurt,43,David Lynch -  Anthony Hopkins - 1,David Lynch - John Hurt - 1
-tt0071315,156,Chinatown,1974,8.1,chinatown,333714,Roman Polanski, Jack Nicholson,Faye Dunaway,49,Roman Polanski -  Jack Nicholson - 1,Roman Polanski - Faye Dunaway - 1
-tt0434409,157,V for Vendetta,2005,8.1,vforvendetta,1138259,James McTeigue, Hugo Weaving,Natalie Portman,18,James McTeigue -  Hugo Weaving - 1,James McTeigue - Natalie Portman - 1
-tt0081398,158,Raging Bull,1980,8.1,ragingbull,361906,Martin Scorsese, Robert De Niro,Cathy Moriarty,43,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Cathy Moriarty - 1
-tt0031381,159,Gone with the Wind,1939,8.1,gonewiththewind,321668,Victor Fleming, Clark Gable,Vivien Leigh,84,Victor Fleming -  Clark Gable - 1,Victor Fleming - Vivien Leigh - 1
-tt0046912,160,Dial M for Murder,1954,8.1,dialmformurder,180052,Alfred Hitchcock, Ray Milland,Grace Kelly,69,Alfred Hitchcock -  Ray Milland - 1,Alfred Hitchcock - Grace Kelly - 2
-tt0120735,161,"Lock, Stock and Two Smoking Barrels",1998,8.1,lockstockandtwosmokingbarrels,593583,Guy Ritchie, Jason Flemyng,Dexter Fletcher,25,Guy Ritchie -  Jason Flemyng - 1,Guy Ritchie - Dexter Fletcher - 1
-tt2096673,162,Inside Out,2015,8.1,insideout,733143,Pete Docter, Amy Poehler,Bill Hader,8,Pete Docter -  Amy Poehler - 1,Pete Docter - Bill Hader - 1
-tt0347149,163,Howl's Moving Castle,2004,8.1,howlsmovingcastle,409537,Hayao Miyazaki, Chieko Baishô,Takuya Kimura,19,Hayao Miyazaki -  Chieko Baishô - 1,Hayao Miyazaki - Takuya Kimura - 1
-tt1305806,164,The Secret in Their Eyes,2009,8.1,thesecretintheireyes,213547,Juan José Campanella, Ricardo Darín,Soledad Villamil,14,Juan José Campanella -  Ricardo Darín - 1,Juan José Campanella - Soledad Villamil - 1
-tt5027774,165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,threebillboardsoutsideebbingmissouri,524045,Martin McDonagh, Frances McDormand,Woody Harrelson,6,Martin McDonagh -  Frances McDormand - 1,Martin McDonagh - Woody Harrelson - 1
-tt0117951,166,Trainspotting,1996,8.1,trainspotting,699371,Danny Boyle, Ewan McGregor,Ewen Bremner,27,Danny Boyle -  Ewan McGregor - 1,Danny Boyle - Ewen Bremner - 1
-tt0050212,167,The Bridge on the River Kwai,1957,8.1,thebridgeontheriverkwai,225108,David Lean, William Holden,Alec Guinness,66,David Lean -  William Holden - 1,David Lean - Alec Guinness - 2
-tt1392214,168,Prisoners,2013,8.1,prisoners,741631,Denis Villeneuve, Hugh Jackman,Jake Gyllenhaal,10,Denis Villeneuve -  Hugh Jackman - 1,Denis Villeneuve - Jake Gyllenhaal - 1
-tt0116282,169,Fargo,1996,8.1,fargo,690814,Joel Coen, William H. Macy,Frances McDormand,27,Joel Coen -  William H. Macy - 1,Joel Coen - Frances McDormand - 1
-tt1291584,170,Warrior,2011,8.1,warrior,480743,Gavin O'Connor, Tom Hardy,Nick Nolte,12,Gavin O'Connor -  Tom Hardy - 1,Gavin O'Connor - Nick Nolte - 1
-tt1205489,171,Gran Torino,2008,8.1,grantorino,787704,Clint Eastwood, Clint Eastwood,Bee Vang,15,Clint Eastwood -  Clint Eastwood - 2,Clint Eastwood - Bee Vang - 1
-tt0264464,172,Catch Me If You Can,2002,8.1,catchmeifyoucan,1016061,Steven Spielberg, Leonardo DiCaprio,Tom Hanks,21,Steven Spielberg -  Leonardo DiCaprio - 1,Steven Spielberg - Tom Hanks - 1
-tt0096283,173,My Neighbor Totoro,1988,8.1,myneighbortotoro,350876,Hayao Miyazaki, Hitoshi Takagi,Noriko Hidaka,35,Hayao Miyazaki -  Hitoshi Takagi - 1,Hayao Miyazaki - Noriko Hidaka - 1
-tt0405159,174,Million Dollar Baby,2004,8.1,milliondollarbaby,698403,Clint Eastwood, Hilary Swank,Clint Eastwood,19,Clint Eastwood -  Hilary Swank - 1,Clint Eastwood - Clint Eastwood - 1
-tt0118849,175,Children of Heaven,1997,8.1,childrenofheaven,76477,Majid Majidi, Mohammad Amir Naji,Amir Farrokh Hashemian,26,Majid Majidi -  Mohammad Amir Naji - 1,Majid Majidi - Amir Farrokh Hashemian - 1
-tt0083658,176,Blade Runner,1982,8.1,bladerunner,785438,Ridley Scott, Harrison Ford,Rutger Hauer,41,Ridley Scott -  Harrison Ford - 1,Ridley Scott - Rutger Hauer - 1
-tt0015864,177,The Gold Rush,1925,8.1,thegoldrush,113582,Charles Chaplin, Charles Chaplin,Mack Swain,98,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Mack Swain - 1
-tt4729430,178,Klaus,2019,8.1,klaus,165229,Sergio Pablos, Jason Schwartzman,J.K. Simmons,4,Sergio Pablos -  Jason Schwartzman - 1,Sergio Pablos - J.K. Simmons - 1
-tt1201607,179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,harrypotterandthedeathlyhallowspart2,897303,David Yates, Daniel Radcliffe,Emma Watson,12,David Yates -  Daniel Radcliffe - 1,David Yates - Emma Watson - 1
-tt0112471,180,Before Sunrise,1995,8.1,beforesunrise,318985,Richard Linklater, Ethan Hawke,Julie Delpy,28,Richard Linklater -  Ethan Hawke - 2,Richard Linklater - Julie Delpy - 2
-tt2024544,181,12 Years a Slave,2013,8.1,12yearsaslave,714032,Steve McQueen, Chiwetel Ejiofor,Michael Kenneth Williams,10,Steve McQueen -  Chiwetel Ejiofor - 1,Steve McQueen - Michael Kenneth Williams - 1
-tt0052618,182,Ben-Hur,1959,8.1,benhur,244597,William Wyler, Charlton Heston,Jack Hawkins,64,William Wyler -  Charlton Heston - 1,William Wyler - Jack Hawkins - 1
-tt2278388,183,The Grand Budapest Hotel,2014,8.1,thegrandbudapesthotel,834733,Wes Anderson, Ralph Fiennes,F. Murray Abraham,9,Wes Anderson -  Ralph Fiennes - 1,Wes Anderson - F. Murray Abraham - 1
-tt0047296,184,On the Waterfront,1954,8.1,onthewaterfront,158146,Elia Kazan, Marlon Brando,Karl Malden,69,Elia Kazan -  Marlon Brando - 1,Elia Kazan - Karl Malden - 1
-tt2267998,185,Gone Girl,2014,8.1,gonegirl,1005218,David Fincher, Ben Affleck,Rosamund Pike,9,David Fincher -  Ben Affleck - 1,David Fincher - Rosamund Pike - 1
-tt0050986,186,Wild Strawberries,1957,8.1,wildstrawberries,109700,Ingmar Bergman, Victor Sjöström,Bibi Andersson,66,Ingmar Bergman -  Victor Sjöström - 1,Ingmar Bergman - Bibi Andersson - 1
-tt0017925,187,The General,1926,8.1,thegeneral,93604,Clyde Bruckman, Buster Keaton,Marion Mack,97,Clyde Bruckman -  Buster Keaton - 1,Clyde Bruckman - Marion Mack - 1
-tt0072684,188,Barry Lyndon,1975,8.1,barrylyndon,173119,Stanley Kubrick, Ryan O'Neal,Marisa Berenson,48,Stanley Kubrick -  Ryan O'Neal - 1,Stanley Kubrick - Marisa Berenson - 1
-tt0107207,189,In the Name of the Father,1993,8.1,inthenameofthefather,179375,Jim Sheridan, Daniel Day-Lewis,Pete Postlethwaite,30,Jim Sheridan -  Daniel Day-Lewis - 1,Jim Sheridan - Pete Postlethwaite - 1
-tt0077416,190,The Deer Hunter,1978,8.1,thedeerhunter,345847,Michael Cimino, Robert De Niro,Christopher Walken,45,Michael Cimino -  Robert De Niro - 1,Michael Cimino - Christopher Walken - 1
-tt10366206,191,John Wick: Chapter 4,2023,8.1,johnwickchapter4,139589,Chad Stahelski, Keanu Reeves,Laurence Fishburne,0,Chad Stahelski -  Keanu Reeves - 1,Chad Stahelski - Laurence Fishburne - 1
-tt2119532,192,Hacksaw Ridge,2016,8.1,hacksawridge,546481,Mel Gibson, Andrew Garfield,Sam Worthington,7,Mel Gibson -  Andrew Garfield - 1,Mel Gibson - Sam Worthington - 1
-tt0041959,193,The Third Man,1949,8.1,thethirdman,174975,Carol Reed, Orson Welles,Joseph Cotten,74,Carol Reed -  Orson Welles - 1,Carol Reed - Joseph Cotten - 1
-tt0046268,194,The Wages of Fear,1953,8.1,thewagesoffear,62983,Henri-Georges Clouzot, Yves Montand,Charles Vanel,70,Henri-Georges Clouzot -  Yves Montand - 1,Henri-Georges Clouzot - Charles Vanel - 1
-tt0353969,195,Memories of Murder,2003,8.1,memoriesofmurder,194484,Bong Joon Ho, Song Kang-ho,Kim Sang-kyung,20,Bong Joon Ho -  Song Kang-ho - 2,Bong Joon Ho - Kim Sang-kyung - 1
-tt3011894,196,Wild Tales,2014,8.1,wildtales,204344,Damián Szifron, Darío Grandinetti,María Marull,9,Damián Szifron -  Darío Grandinetti - 1,Damián Szifron - María Marull - 1
-tt0015324,197,Sherlock Jr.,1924,8.1,sherlockjr,52103,Buster Keaton, Buster Keaton,Kathryn McGuire,99,Buster Keaton -  Buster Keaton - 1,Buster Keaton - Kathryn McGuire - 1
-tt0031679,198,Mr. Smith Goes to Washington,1939,8.1,mrsmithgoestowashington,117369,Frank Capra, James Stewart,Jean Arthur,84,Frank Capra -  James Stewart - 2,Frank Capra - Jean Arthur - 1
-tt1392190,199,Mad Max: Fury Road,2015,8.1,madmaxfuryroad,1026219,George Miller, Tom Hardy,Charlize Theron,8,George Miller -  Tom Hardy - 1,George Miller - Charlize Theron - 1
-tt0978762,200,Mary and Max,2009,8.1,maryandmax,180374,Adam Elliot, Toni Collette,Philip Seymour Hoffman,14,Adam Elliot -  Toni Collette - 1,Adam Elliot - Philip Seymour Hoffman - 1
-tt0892769,201,How to Train Your Dragon,2010,8.1,howtotrainyourdragon,758451,Dean DeBlois, Jay Baruchel,Gerard Butler,13,Dean DeBlois -  Jay Baruchel - 1,Dean DeBlois - Gerard Butler - 1
-tt0050976,202,The Seventh Seal,1957,8.1,theseventhseal,189318,Ingmar Bergman, Max von Sydow,Gunnar Björnstrand,66,Ingmar Bergman -  Max von Sydow - 1,Ingmar Bergman - Gunnar Björnstrand - 1
-tt0198781,203,"Monsters, Inc.",2001,8.1,monstersinc,928850,Pete Docter, Billy Crystal,John Goodman,22,Pete Docter -  Billy Crystal - 1,Pete Docter - John Goodman - 1
-tt0097165,204,Dead Poets Society,1989,8.1,deadpoetssociety,507407,Peter Weir, Robin Williams,Robert Sean Leonard,34,Peter Weir -  Robin Williams - 1,Peter Weir - Robert Sean Leonard - 1
-tt0073195,205,Jaws,1975,8.1,jaws,621370,Steven Spielberg, Roy Scheider,Robert Shaw,48,Steven Spielberg -  Roy Scheider - 1,Steven Spielberg - Robert Shaw - 1
-tt3170832,206,Room,2015,8.1,room,430444,Lenny Abrahamson, Brie Larson,Jacob Tremblay,8,Lenny Abrahamson -  Brie Larson - 1,Lenny Abrahamson - Jacob Tremblay - 1
-tt0118715,207,The Big Lebowski,1998,8.1,thebiglebowski,824755,Joel Coen, Jeff Bridges,John Goodman,25,Joel Coen -  Jeff Bridges - 1,Joel Coen - John Goodman - 1
-tt0046438,208,Tokyo Story,1953,8.1,tokyostory,63835,Yasujirô Ozu, Chishû Ryû,Chieko Higashiyama,70,Yasujirô Ozu -  Chishû Ryû - 1,Yasujirô Ozu - Chieko Higashiyama - 1
-tt0019254,209,The Passion of Joan of Arc,1928,8.1,thepassionofjoanofarc,57048,Carl Theodor Dreyer, Maria Falconetti,Eugene Silvain,95,Carl Theodor Dreyer -  Maria Falconetti - 1,Carl Theodor Dreyer - Eugene Silvain - 1
-tt1950186,210,Ford v Ferrari,2019,8.1,fordvferrari,414714,James Mangold, Matt Damon,Christian Bale,4,James Mangold -  Matt Damon - 1,James Mangold - Christian Bale - 1
-tt0395169,211,Hotel Rwanda,2004,8.0,hotelrwanda,361212,Terry George, Don Cheadle,Sophie Okonedo,19,Terry George -  Don Cheadle - 1,Terry George - Sophie Okonedo - 1
-tt0075148,212,Rocky,1976,8.0,rocky,596190,John G. Avildsen, Sylvester Stallone,Talia Shire,47,John G. Avildsen -  Sylvester Stallone - 1,John G. Avildsen - Talia Shire - 1
-tt0382932,213,Ratatouille,2007,8.0,ratatouille,762323,Brad Bird, Brad Garrett,Lou Romano,16,Brad Bird -  Brad Garrett - 1,Brad Bird - Lou Romano - 1
-tt0091763,214,Platoon,1986,8.0,platoon,422275,Oliver Stone, Charlie Sheen,Tom Berenger,37,Oliver Stone -  Charlie Sheen - 1,Oliver Stone - Tom Berenger - 1
-tt1895587,215,Spotlight,2015,8.0,spotlight,480698,Tom McCarthy, Mark Ruffalo,Michael Keaton,8,Tom McCarthy -  Mark Ruffalo - 1,Tom McCarthy - Michael Keaton - 1
-tt3315342,216,Logan,2017,8.0,logan,784046,James Mangold, Hugh Jackman,Patrick Stewart,6,James Mangold -  Hugh Jackman - 1,James Mangold - Patrick Stewart - 1
-tt0088247,217,The Terminator,1984,8.0,theterminator,882713,James Cameron, Arnold Schwarzenegger,Linda Hamilton,39,James Cameron -  Arnold Schwarzenegger - 2,James Cameron - Linda Hamilton - 2
-tt0092005,218,Stand by Me,1986,8.0,standbyme,415725,Rob Reiner, Wil Wheaton,River Phoenix,37,Rob Reiner -  Wil Wheaton - 1,Rob Reiner - River Phoenix - 1
-tt1979320,219,Rush,2013,8.0,rush,489642,Ron Howard, Daniel Brühl,Chris Hemsworth,10,Ron Howard -  Daniel Brühl - 1,Ron Howard - Chris Hemsworth - 1
-tt0074958,220,Network,1976,8.0,network,163022,Sidney Lumet, Faye Dunaway,William Holden,47,Sidney Lumet -  Faye Dunaway - 1,Sidney Lumet - William Holden - 1
-tt0381681,221,Before Sunset,2004,8.0,beforesunset,272768,Richard Linklater, Ethan Hawke,Julie Delpy,19,Richard Linklater -  Ethan Hawke - 2,Richard Linklater - Julie Delpy - 2
-tt0758758,222,Into the Wild,2007,8.0,intothewild,633622,Sean Penn, Emile Hirsch,Vince Vaughn,16,Sean Penn -  Emile Hirsch - 1,Sean Penn - Vince Vaughn - 1
-tt0032138,223,The Wizard of Oz,1939,8.0,thewizardofoz,409113,Victor Fleming, Judy Garland,Frank Morgan,84,Victor Fleming -  Judy Garland - 1,Victor Fleming - Frank Morgan - 1
-tt0036868,224,The Best Years of Our Lives,1946,8.0,thebestyearsofourlives,66839,William Wyler, Myrna Loy,Dana Andrews,77,William Wyler -  Myrna Loy - 1,William Wyler - Dana Andrews - 1
-tt0070047,225,The Exorcist,1973,8.0,theexorcist,419505,William Friedkin, Ellen Burstyn,Max von Sydow,50,William Friedkin -  Ellen Burstyn - 1,William Friedkin - Max von Sydow - 1
-tt0107048,226,Groundhog Day,1993,8.0,groundhogday,648526,Harold Ramis, Bill Murray,Andie MacDowell,30,Harold Ramis -  Bill Murray - 1,Harold Ramis - Andie MacDowell - 1
-tt0317705,227,The Incredibles,2004,8.0,theincredibles,758178,Brad Bird, Craig T. Nelson,Samuel L. Jackson,19,Brad Bird -  Craig T. Nelson - 1,Brad Bird - Samuel L. Jackson - 1
-tt0035446,228,To Be or Not to Be,1942,8.0,tobeornottobe,39437,Ernst Lubitsch, Carole Lombard,Jack Benny,81,Ernst Lubitsch -  Carole Lombard - 1,Ernst Lubitsch - Jack Benny - 1
-tt0113247,229,La haine,1995,8.0,lahaine,180511,Mathieu Kassovitz, Vincent Cassel,Hubert Koundé,28,Mathieu Kassovitz -  Vincent Cassel - 1,Mathieu Kassovitz - Hubert Koundé - 1
-tt0325980,230,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,piratesofthecaribbeanthecurseoftheblackpearl,1149888,Gore Verbinski, Johnny Depp,Geoffrey Rush,20,Gore Verbinski -  Johnny Depp - 1,Gore Verbinski - Geoffrey Rush - 1
-tt1028532,231,Hachi: A Dog's Tale,2009,8.0,hachiadogstale,293780,Lasse Hallström, Richard Gere,Joan Allen,14,Lasse Hallström -  Richard Gere - 1,Lasse Hallström - Joan Allen - 1
-tt0048473,232,Pather Panchali,1955,8.0,patherpanchali,34812,Satyajit Ray, Kanu Bannerjee,Karuna Bannerjee,68,Satyajit Ray -  Kanu Bannerjee - 1,Satyajit Ray - Karuna Bannerjee - 1
-tt0058946,233,The Battle of Algiers,1966,8.0,thebattleofalgiers,62197,Gillo Pontecorvo, Brahim Hadjadj,Jean Martin,57,Gillo Pontecorvo -  Brahim Hadjadj - 1,Gillo Pontecorvo - Jean Martin - 1
-tt0032551,234,The Grapes of Wrath,1940,8.0,thegrapesofwrath,95850,John Ford, Henry Fonda,Jane Darwell,83,John Ford -  Henry Fonda - 1,John Ford - Jane Darwell - 1
-tt0476735,235,My Father and My Son,2005,8.0,myfatherandmyson,88011,Çagan Irmak, Çetin Tekindor,Fikret Kuskan,18,Çagan Irmak -  Çetin Tekindor - 1,Çagan Irmak - Fikret Kuskan - 1
-tt0245712,236,Amores Perros,2000,8.0,amoresperros,244855,Alejandro G. Iñárritu, Emilio Echevarría,Gael García Bernal,23,Alejandro G. Iñárritu -  Emilio Echevarría - 1,Alejandro G. Iñárritu - Gael García Bernal - 1
-tt15097216,237,Jai Bhim,2021,8.0,jaibhim,206147,T.J. Gnanavel, Suriya,Lijo Mol Jose,2,T.J. Gnanavel -  Suriya - 1,T.J. Gnanavel - Lijo Mol Jose - 1
-tt0032976,238,Rebecca,1940,8.0,rebecca,140445,Alfred Hitchcock, Laurence Olivier,Joan Fontaine,83,Alfred Hitchcock -  Laurence Olivier - 1,Alfred Hitchcock - Joan Fontaine - 1
-tt4016934,239,The Handmaiden,2016,8.0,thehandmaiden,155921,Park Chan-wook, Kim Min-hee,Ha Jung-woo,7,Park Chan-wook -  Kim Min-hee - 1,Park Chan-wook - Ha Jung-woo - 1
-tt0061512,240,Cool Hand Luke,1967,8.0,coolhandluke,181136,Stuart Rosenberg, Paul Newman,George Kennedy,56,Stuart Rosenberg -  Paul Newman - 1,Stuart Rosenberg - George Kennedy - 1
-tt0059742,241,The Sound of Music,1965,8.0,thesoundofmusic,243740,Robert Wise, Julie Andrews,Christopher Plummer,58,Robert Wise -  Julie Andrews - 1,Robert Wise - Christopher Plummer - 1
-tt0025316,242,It Happened One Night,1934,8.0,ithappenedonenight,106905,Frank Capra, Clark Gable,Claudette Colbert,89,Frank Capra -  Clark Gable - 1,Frank Capra - Claudette Colbert - 1
-tt0053198,243,The 400 Blows,1959,8.0,the400blows,121698,François Truffaut, Jean-Pierre Léaud,Albert Rémy,64,François Truffaut -  Jean-Pierre Léaud - 1,François Truffaut - Albert Rémy - 1
-tt0060827,244,Persona,1966,8.0,persona,123138,Ingmar Bergman, Bibi Andersson,Liv Ullmann,57,Ingmar Bergman -  Bibi Andersson - 1,Ingmar Bergman - Liv Ullmann - 1
-tt0079470,245,Life of Brian,1979,8.0,lifeofbrian,407814,Terry Jones, Graham Chapman,John Cleese,44,Terry Jones -  Graham Chapman - 1,Terry Jones - John Cleese - 1
-tt0129167,246,The Iron Giant,1999,8.0,theirongiant,207734,Brad Bird, Eli Marienthal,Harry Connick Jr.,24,Brad Bird -  Eli Marienthal - 1,Brad Bird - Harry Connick Jr. - 1
-tt1454029,247,The Help,2011,8.0,thehelp,470959,Tate Taylor, Viola Davis,Emma Stone,12,Tate Taylor -  Viola Davis - 1,Tate Taylor - Emma Stone - 1
-tt0103639,248,Aladdin,1992,8.0,aladdin,434414,Ron Clements, Scott Weinger,Robin Williams,31,Ron Clements -  Scott Weinger - 1,Ron Clements - Robin Williams - 1
-tt0099348,249,Dances with Wolves,1990,8.0,danceswithwolves,275276,Kevin Costner, Kevin Costner,Mary McDonnell,33,Kevin Costner -  Kevin Costner - 1,Kevin Costner - Mary McDonnell - 1
-tt0071411,250,Dersu Uzala,1975,8.0,dersuuzala,31717,Akira Kurosawa, Maksim Munzuk,Yuriy Solomin,48,Akira Kurosawa -  Maksim Munzuk - 1,Akira Kurosawa - Yuriy Solomin - 1
+tt0111161,1,The Shawshank Redemption,1994,9.2,theshawshankredemption,2735219,Frank Darabont, Tim Robbins,Morgan Freeman,29,Frank Darabont -  Tim Robbins - 1,Frank Darabont - Morgan Freeman - 1
+tt0068646,2,The Godfather,1972,9.2,thegodfather,1902098,Francis Ford Coppola, Marlon Brando,Al Pacino,51,Francis Ford Coppola -  Marlon Brando - 1,Francis Ford Coppola - Al Pacino - 1
+tt0468569,3,The Dark Knight,2008,9.0,thedarkknight,2708408,Christopher Nolan, Christian Bale,Heath Ledger,15,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Heath Ledger - 1
+tt0071562,4,The Godfather Part II,1974,9.0,thegodfatherpartii,1296673,Francis Ford Coppola, Al Pacino,Robert De Niro,49,Francis Ford Coppola -  Al Pacino - 1,Francis Ford Coppola - Robert De Niro - 1
+tt0050083,5,12 Angry Men,1957,9.0,12angrymen,809510,Sidney Lumet, Henry Fonda,Lee J. Cobb,66,Sidney Lumet -  Henry Fonda - 1,Sidney Lumet - Lee J. Cobb - 1
+tt0108052,6,Schindler's List,1993,8.9,schindlerslist,1380838,Steven Spielberg, Liam Neeson,Ralph Fiennes,30,Steven Spielberg -  Liam Neeson - 1,Steven Spielberg - Ralph Fiennes - 1
+tt0167260,7,The Lord of the Rings: The Return of the King,2003,8.9,thelordoftheringsthereturnoftheking,1881378,Peter Jackson, Elijah Wood,Viggo Mortensen,20,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Viggo Mortensen - 1
+tt0110912,8,Pulp Fiction,1994,8.8,pulpfiction,2101919,Quentin Tarantino, John Travolta,Uma Thurman,29,Quentin Tarantino -  John Travolta - 1,Quentin Tarantino - Uma Thurman - 1
+tt0120737,9,The Lord of the Rings: The Fellowship of the Ring,2001,8.8,thelordoftheringsthefellowshipofthering,1910201,Peter Jackson, Elijah Wood,Ian McKellen,22,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Ian McKellen - 2
+tt0060196,10,"The Good, the Bad and the Ugly",1966,8.8,thegoodthebadandtheugly,774985,Sergio Leone, Clint Eastwood,Eli Wallach,57,Sergio Leone -  Clint Eastwood - 2,Sergio Leone - Eli Wallach - 1
+tt0109830,11,Forrest Gump,1994,8.8,forrestgump,2128477,Robert Zemeckis, Tom Hanks,Robin Wright,29,Robert Zemeckis -  Tom Hanks - 1,Robert Zemeckis - Robin Wright - 1
+tt0137523,12,Fight Club,1999,8.7,fightclub,2177789,David Fincher, Brad Pitt,Edward Norton,24,David Fincher -  Brad Pitt - 1,David Fincher - Edward Norton - 1
+tt0167261,13,The Lord of the Rings: The Two Towers,2002,8.7,thelordoftheringsthetwotowers,1698343,Peter Jackson, Elijah Wood,Ian McKellen,21,Peter Jackson -  Elijah Wood - 3,Peter Jackson - Ian McKellen - 2
+tt1375666,14,Inception,2010,8.7,inception,2404171,Christopher Nolan, Leonardo DiCaprio,Joseph Gordon-Levitt,13,Christopher Nolan -  Leonardo DiCaprio - 1,Christopher Nolan - Joseph Gordon-Levitt - 1
+tt0080684,15,Star Wars: Episode V - The Empire Strikes Back,1980,8.7,starwarsepisodevtheempirestrikesback,1316745,Irvin Kershner, Mark Hamill,Harrison Ford,43,Irvin Kershner -  Mark Hamill - 1,Irvin Kershner - Harrison Ford - 1
+tt0133093,16,The Matrix,1999,8.7,thematrix,1951319,Lana Wachowski, Keanu Reeves,Laurence Fishburne,24,Lana Wachowski -  Keanu Reeves - 1,Lana Wachowski - Laurence Fishburne - 1
+tt0099685,17,Goodfellas,1990,8.7,goodfellas,1187244,Martin Scorsese, Robert De Niro,Ray Liotta,33,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Ray Liotta - 1
+tt0073486,18,One Flew Over the Cuckoo's Nest,1975,8.6,oneflewoverthecuckoosnest,1025770,Milos Forman, Jack Nicholson,Louise Fletcher,48,Milos Forman -  Jack Nicholson - 1,Milos Forman - Louise Fletcher - 1
+tt0114369,19,Se7en,1995,8.6,se7en,1691061,David Fincher, Morgan Freeman,Brad Pitt,28,David Fincher -  Morgan Freeman - 1,David Fincher - Brad Pitt - 1
+tt0038650,20,It's a Wonderful Life,1946,8.6,itsawonderfullife,470845,Frank Capra, James Stewart,Donna Reed,77,Frank Capra -  James Stewart - 2,Frank Capra - Donna Reed - 1
+tt0047478,21,Seven Samurai,1954,8.6,sevensamurai,351863,Akira Kurosawa, Toshirô Mifune,Takashi Shimura,69,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Takashi Shimura - 1
+tt0102926,22,The Silence of the Lambs,1991,8.6,thesilenceofthelambs,1462569,Jonathan Demme, Jodie Foster,Anthony Hopkins,32,Jonathan Demme -  Jodie Foster - 1,Jonathan Demme - Anthony Hopkins - 1
+tt0120815,23,Saving Private Ryan,1998,8.6,savingprivateryan,1418889,Steven Spielberg, Tom Hanks,Matt Damon,25,Steven Spielberg -  Tom Hanks - 1,Steven Spielberg - Matt Damon - 1
+tt0317248,24,City of God,2002,8.6,cityofgod,768848,Fernando Meirelles, Alexandre Rodrigues,Leandro Firmino,21,Fernando Meirelles -  Alexandre Rodrigues - 1,Fernando Meirelles - Leandro Firmino - 1
+tt0816692,25,Interstellar,2014,8.6,interstellar,1899077,Christopher Nolan, Matthew McConaughey,Anne Hathaway,9,Christopher Nolan -  Matthew McConaughey - 1,Christopher Nolan - Anne Hathaway - 1
+tt0118799,26,Life Is Beautiful,1997,8.6,lifeisbeautiful,709032,Roberto Benigni, Roberto Benigni,Nicoletta Braschi,26,Roberto Benigni -  Roberto Benigni - 1,Roberto Benigni - Nicoletta Braschi - 1
+tt0120689,27,The Green Mile,1999,8.6,thegreenmile,1330120,Frank Darabont, Tom Hanks,Michael Clarke Duncan,24,Frank Darabont -  Tom Hanks - 1,Frank Darabont - Michael Clarke Duncan - 1
+tt0076759,28,Star Wars: Episode IV - A New Hope,1977,8.5,starwarsepisodeivanewhope,1389212,George Lucas, Mark Hamill,Harrison Ford,46,George Lucas -  Mark Hamill - 1,George Lucas - Harrison Ford - 1
+tt0103064,29,Terminator 2: Judgment Day,1991,8.5,terminator2judgmentday,1119716,James Cameron, Arnold Schwarzenegger,Linda Hamilton,32,James Cameron -  Arnold Schwarzenegger - 2,James Cameron - Linda Hamilton - 2
+tt0088763,30,Back to the Future,1985,8.5,backtothefuture,1233690,Robert Zemeckis, Michael J. Fox,Christopher Lloyd,38,Robert Zemeckis -  Michael J. Fox - 1,Robert Zemeckis - Christopher Lloyd - 1
+tt0245429,31,Spirited Away,2001,8.5,spiritedaway,785970,Hayao Miyazaki, Daveigh Chase,Suzanne Pleshette,22,Hayao Miyazaki -  Daveigh Chase - 1,Hayao Miyazaki - Suzanne Pleshette - 1
+tt0253474,32,The Pianist,2002,8.5,thepianist,852558,Roman Polanski, Adrien Brody,Thomas Kretschmann,21,Roman Polanski -  Adrien Brody - 1,Roman Polanski - Thomas Kretschmann - 1
+tt0054215,33,Psycho,1960,8.5,psycho,685407,Alfred Hitchcock, Anthony Perkins,Janet Leigh,63,Alfred Hitchcock -  Anthony Perkins - 1,Alfred Hitchcock - Janet Leigh - 1
+tt6751668,34,Parasite,2019,8.5,parasite,847989,Bong Joon Ho, Song Kang-ho,Lee Sun-kyun,4,Bong Joon Ho -  Song Kang-ho - 2,Bong Joon Ho - Lee Sun-kyun - 1
+tt0110413,35,Léon: The Professional,1994,8.5,lontheprofessional,1185114,Luc Besson, Jean Reno,Gary Oldman,29,Luc Besson -  Jean Reno - 1,Luc Besson - Gary Oldman - 1
+tt0172495,36,Gladiator,2000,8.5,gladiator,1530941,Ridley Scott, Russell Crowe,Joaquin Phoenix,23,Ridley Scott -  Russell Crowe - 1,Ridley Scott - Joaquin Phoenix - 1
+tt0110357,37,The Lion King,1994,8.5,thelionking,1081243,Roger Allers, Matthew Broderick,Jeremy Irons,29,Roger Allers -  Matthew Broderick - 1,Roger Allers - Jeremy Irons - 1
+tt0120586,38,American History X,1998,8.5,americanhistoryx,1140453,Tony Kaye, Edward Norton,Edward Furlong,25,Tony Kaye -  Edward Norton - 1,Tony Kaye - Edward Furlong - 1
+tt0407887,39,The Departed,2006,8.5,thedeparted,1351667,Martin Scorsese, Leonardo DiCaprio,Matt Damon,17,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Matt Damon - 1
+tt2582802,40,Whiplash,2014,8.5,whiplash,899028,Damien Chazelle, Miles Teller,J.K. Simmons,9,Damien Chazelle -  Miles Teller - 1,Damien Chazelle - J.K. Simmons - 1
+tt0482571,41,The Prestige,2006,8.5,theprestige,1360003,Christopher Nolan, Christian Bale,Hugh Jackman,17,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Hugh Jackman - 1
+tt0114814,42,The Usual Suspects,1995,8.5,theusualsuspects,1101693,Bryan Singer, Kevin Spacey,Gabriel Byrne,28,Bryan Singer -  Kevin Spacey - 1,Bryan Singer - Gabriel Byrne - 1
+tt0034583,43,Casablanca,1942,8.5,casablanca,581928,Michael Curtiz, Humphrey Bogart,Ingrid Bergman,81,Michael Curtiz -  Humphrey Bogart - 1,Michael Curtiz - Ingrid Bergman - 1
+tt0095327,44,Grave of the Fireflies,1988,8.5,graveofthefireflies,285970,Isao Takahata, Tsutomu Tatsumi,Ayano Shiraishi,35,Isao Takahata -  Tsutomu Tatsumi - 1,Isao Takahata - Ayano Shiraishi - 1
+tt0056058,45,Harakiri,1962,8.5,harakiri,60533,Masaki Kobayashi, Tatsuya Nakadai,Akira Ishihama,61,Masaki Kobayashi -  Tatsuya Nakadai - 1,Masaki Kobayashi - Akira Ishihama - 1
+tt1675434,46,The Intouchables,2011,8.5,theintouchables,878465,Olivier Nakache, François Cluzet,Omar Sy,12,Olivier Nakache -  François Cluzet - 1,Olivier Nakache - Omar Sy - 1
+tt0027977,47,Modern Times,1936,8.4,moderntimes,247578,Charles Chaplin, Charles Chaplin,Paulette Goddard,87,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Paulette Goddard - 2
+tt0064116,48,Once Upon a Time in the West,1968,8.4,onceuponatimeinthewest,336163,Sergio Leone, Henry Fonda,Charles Bronson,55,Sergio Leone -  Henry Fonda - 1,Sergio Leone - Charles Bronson - 1
+tt0095765,49,Cinema Paradiso,1988,8.4,cinemaparadiso,267479,Giuseppe Tornatore, Philippe Noiret,Enzo Cannavale,35,Giuseppe Tornatore -  Philippe Noiret - 1,Giuseppe Tornatore - Enzo Cannavale - 1
+tt0047396,50,Rear Window,1954,8.4,rearwindow,500545,Alfred Hitchcock, James Stewart,Grace Kelly,69,Alfred Hitchcock -  James Stewart - 2,Alfred Hitchcock - Grace Kelly - 2
+tt0078748,51,Alien,1979,8.4,alien,900462,Ridley Scott, Sigourney Weaver,Tom Skerritt,44,Ridley Scott -  Sigourney Weaver - 1,Ridley Scott - Tom Skerritt - 1
+tt0021749,52,City Lights,1931,8.4,citylights,188073,Charles Chaplin, Charles Chaplin,Virginia Cherrill,92,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Virginia Cherrill - 1
+tt0078788,53,Apocalypse Now,1979,8.4,apocalypsenow,680288,Francis Ford Coppola, Martin Sheen,Marlon Brando,44,Francis Ford Coppola -  Martin Sheen - 1,Francis Ford Coppola - Marlon Brando - 1
+tt0209144,54,Memento,2000,8.4,memento,1259948,Christopher Nolan, Guy Pearce,Carrie-Anne Moss,23,Christopher Nolan -  Guy Pearce - 1,Christopher Nolan - Carrie-Anne Moss - 1
+tt1853728,55,Django Unchained,2012,8.4,djangounchained,1593215,Quentin Tarantino, Jamie Foxx,Christoph Waltz,11,Quentin Tarantino -  Jamie Foxx - 1,Quentin Tarantino - Christoph Waltz - 1
+tt0082971,56,Raiders of the Lost Ark,1981,8.4,raidersofthelostark,983386,Steven Spielberg, Harrison Ford,Karen Allen,42,Steven Spielberg -  Harrison Ford - 2,Steven Spielberg - Karen Allen - 1
+tt0910970,57,WALL·E,2008,8.4,walle,1138970,Andrew Stanton, Ben Burtt,Elissa Knight,15,Andrew Stanton -  Ben Burtt - 1,Andrew Stanton - Elissa Knight - 1
+tt0405094,58,The Lives of Others,2006,8.4,thelivesofothers,395784,Florian Henckel von Donnersmarck, Ulrich Mühe,Martina Gedeck,17,Florian Henckel von Donnersmarck -  Ulrich Mühe - 1,Florian Henckel von Donnersmarck - Martina Gedeck - 1
+tt0043014,59,Sunset Blvd.,1950,8.4,sunsetblvd,226255,Billy Wilder, William Holden,Gloria Swanson,73,Billy Wilder -  William Holden - 1,Billy Wilder - Gloria Swanson - 1
+tt0050825,60,Paths of Glory,1957,8.4,pathsofglory,201664,Stanley Kubrick, Kirk Douglas,Ralph Meeker,66,Stanley Kubrick -  Kirk Douglas - 1,Stanley Kubrick - Ralph Meeker - 1
+tt0081505,61,The Shining,1980,8.4,theshining,1045379,Stanley Kubrick, Jack Nicholson,Shelley Duvall,43,Stanley Kubrick -  Jack Nicholson - 1,Stanley Kubrick - Shelley Duvall - 1
+tt0032553,62,The Great Dictator,1940,8.4,thegreatdictator,228092,Charles Chaplin, Charles Chaplin,Paulette Goddard,83,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Paulette Goddard - 2
+tt4154756,63,Avengers: Infinity War,2018,8.4,avengersinfinitywar,1116348,Anthony Russo, Robert Downey Jr.,Chris Hemsworth,5,Anthony Russo -  Robert Downey Jr. - 2,Anthony Russo - Chris Hemsworth - 1
+tt0051201,64,Witness for the Prosecution,1957,8.4,witnessfortheprosecution,129014,Billy Wilder, Tyrone Power,Marlene Dietrich,66,Billy Wilder -  Tyrone Power - 1,Billy Wilder - Marlene Dietrich - 1
+tt0090605,65,Aliens,1986,8.3,aliens,730514,James Cameron, Sigourney Weaver,Michael Biehn,37,James Cameron -  Sigourney Weaver - 1,James Cameron - Michael Biehn - 1
+tt4633694,66,Spider-Man: Into the Spider-Verse,2018,8.3,spidermanintothespiderverse,558374,Bob Persichetti, Shameik Moore,Jake Johnson,5,Bob Persichetti -  Shameik Moore - 1,Bob Persichetti - Jake Johnson - 1
+tt0169547,67,American Beauty,1999,8.3,americanbeauty,1171206,Sam Mendes, Kevin Spacey,Annette Bening,24,Sam Mendes -  Kevin Spacey - 1,Sam Mendes - Annette Bening - 1
+tt0057012,68,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,8.3,drstrangeloveorhowilearnedtostopworryingandlovethebomb,499124,Stanley Kubrick, Peter Sellers,George C. Scott,59,Stanley Kubrick -  Peter Sellers - 1,Stanley Kubrick - George C. Scott - 1
+tt1345836,69,The Dark Knight Rises,2012,8.3,thedarkknightrises,1736198,Christopher Nolan, Christian Bale,Tom Hardy,11,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Tom Hardy - 1
+tt0361748,70,Inglourious Basterds,2009,8.3,inglouriousbasterds,1486079,Quentin Tarantino, Brad Pitt,Diane Kruger,14,Quentin Tarantino -  Brad Pitt - 1,Quentin Tarantino - Diane Kruger - 1
+tt0364569,71,Oldboy,2003,8.3,oldboy,593877,Park Chan-wook, Choi Min-sik,Yoo Ji-tae,20,Park Chan-wook -  Choi Min-sik - 1,Park Chan-wook - Yoo Ji-tae - 1
+tt0086879,72,Amadeus,1984,8.3,amadeus,408717,Milos Forman, F. Murray Abraham,Tom Hulce,39,Milos Forman -  F. Murray Abraham - 1,Milos Forman - Tom Hulce - 1
+tt2380307,73,Coco,2017,8.3,coco,530535,Lee Unkrich, Anthony Gonzalez,Gael García Bernal,6,Lee Unkrich -  Anthony Gonzalez - 1,Lee Unkrich - Gael García Bernal - 1
+tt0114709,74,Toy Story,1995,8.3,toystory,1014525,John Lasseter, Tom Hanks,Tim Allen,28,John Lasseter -  Tom Hanks - 1,John Lasseter - Tim Allen - 1
+tt0112573,75,Braveheart,1995,8.3,braveheart,1053292,Mel Gibson, Mel Gibson,Sophie Marceau,28,Mel Gibson -  Mel Gibson - 1,Mel Gibson - Sophie Marceau - 1
+tt7286456,76,Joker,2019,8.3,joker,1345468,Todd Phillips, Joaquin Phoenix,Robert De Niro,4,Todd Phillips -  Joaquin Phoenix - 1,Todd Phillips - Robert De Niro - 1
+tt0082096,77,Das Boot,1981,8.3,dasboot,255066,Wolfgang Petersen, Jürgen Prochnow,Herbert Grönemeyer,42,Wolfgang Petersen -  Jürgen Prochnow - 1,Wolfgang Petersen - Herbert Grönemeyer - 1
+tt4154796,78,Avengers: Endgame,2019,8.3,avengersendgame,1172431,Anthony Russo, Robert Downey Jr.,Chris Evans,4,Anthony Russo -  Robert Downey Jr. - 2,Anthony Russo - Chris Evans - 1
+tt0119698,79,Princess Mononoke,1997,8.3,princessmononoke,405117,Hayao Miyazaki, Yôji Matsuda,Yuriko Ishida,26,Hayao Miyazaki -  Yôji Matsuda - 1,Hayao Miyazaki - Yuriko Ishida - 1
+tt0119217,80,Good Will Hunting,1997,8.3,goodwillhunting,999430,Gus Van Sant, Robin Williams,Matt Damon,26,Gus Van Sant -  Robin Williams - 1,Gus Van Sant - Matt Damon - 1
+tt0087843,81,Once Upon a Time in America,1984,8.3,onceuponatimeinamerica,359132,Sergio Leone, Robert De Niro,James Woods,39,Sergio Leone -  Robert De Niro - 1,Sergio Leone - James Woods - 1
+tt5311514,82,Your Name.,2016,8.3,yourname,284017,Makoto Shinkai, Ryunosuke Kamiki,Mone Kamishiraishi,7,Makoto Shinkai -  Ryunosuke Kamiki - 1,Makoto Shinkai - Mone Kamishiraishi - 1
+tt0045152,83,Singin' in the Rain,1952,8.3,singinintherain,248168,Stanley Donen, Gene Kelly,Donald O'Connor,71,Stanley Donen -  Gene Kelly - 1,Stanley Donen - Donald O'Connor - 1
+tt1187043,84,3 Idiots,2009,8.3,3idiots,409578,Rajkumar Hirani, Aamir Khan,Madhavan,14,Rajkumar Hirani -  Aamir Khan - 1,Rajkumar Hirani - Madhavan - 1
+tt0180093,85,Requiem for a Dream,2000,8.3,requiemforadream,859228,Darren Aronofsky, Ellen Burstyn,Jared Leto,23,Darren Aronofsky -  Ellen Burstyn - 1,Darren Aronofsky - Jared Leto - 1
+tt0057565,86,High and Low,1963,8.3,highandlow,47505,Akira Kurosawa, Toshirô Mifune,Yutaka Sada,60,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Yutaka Sada - 1
+tt0435761,87,Toy Story 3,2010,8.3,toystory3,852399,Lee Unkrich, Tom Hanks,Tim Allen,13,Lee Unkrich -  Tom Hanks - 1,Lee Unkrich - Tim Allen - 1
+tt8267604,88,Capernaum,2018,8.3,capernaum,94474,Nadine Labaki, Zain Al Rafeea,Yordanos Shiferaw,5,Nadine Labaki -  Zain Al Rafeea - 1,Nadine Labaki - Yordanos Shiferaw - 1
+tt0086190,89,Star Wars: Episode VI - Return of the Jedi,1983,8.3,starwarsepisodevireturnofthejedi,1073881,Richard Marquand, Mark Hamill,Harrison Ford,40,Richard Marquand -  Mark Hamill - 1,Richard Marquand - Harrison Ford - 1
+tt0062622,90,2001: A Space Odyssey,1968,8.3,2001aspaceodyssey,683165,Stanley Kubrick, Keir Dullea,Gary Lockwood,55,Stanley Kubrick -  Keir Dullea - 1,Stanley Kubrick - Gary Lockwood - 1
+tt0338013,91,Eternal Sunshine of the Spotless Mind,2004,8.3,eternalsunshineofthespotlessmind,1028240,Michel Gondry, Jim Carrey,Kate Winslet,19,Michel Gondry -  Jim Carrey - 1,Michel Gondry - Kate Winslet - 1
+tt0091251,92,Come and See,1985,8.3,comeandsee,85095,Elem Klimov, Aleksey Kravchenko,Olga Mironova,38,Elem Klimov -  Aleksey Kravchenko - 1,Elem Klimov - Olga Mironova - 1
+tt0105236,93,Reservoir Dogs,1992,8.3,reservoirdogs,1039723,Quentin Tarantino, Harvey Keitel,Tim Roth,31,Quentin Tarantino -  Harvey Keitel - 1,Quentin Tarantino - Tim Roth - 1
+tt2106476,94,The Hunt,2012,8.3,thehunt,339914,Thomas Vinterberg, Mads Mikkelsen,Thomas Bo Larsen,11,Thomas Vinterberg -  Mads Mikkelsen - 1,Thomas Vinterberg - Thomas Bo Larsen - 1
+tt0056172,95,Lawrence of Arabia,1962,8.2,lawrenceofarabia,300259,David Lean, Peter O'Toole,Alec Guinness,61,David Lean -  Peter O'Toole - 1,David Lean - Alec Guinness - 2
+tt0033467,96,Citizen Kane,1941,8.2,citizenkane,449537,Orson Welles, Orson Welles,Joseph Cotten,82,Orson Welles -  Orson Welles - 1,Orson Welles - Joseph Cotten - 1
+tt0022100,97,M,1931,8.2,m,161293,Fritz Lang, Peter Lorre,Ellen Widmann,92,Fritz Lang -  Peter Lorre - 1,Fritz Lang - Ellen Widmann - 1
+tt0044741,98,Ikiru,1952,8.2,ikiru,81433,Akira Kurosawa, Takashi Shimura,Nobuo Kaneko,71,Akira Kurosawa -  Takashi Shimura - 1,Akira Kurosawa - Nobuo Kaneko - 1
+tt0053125,99,North by Northwest,1959,8.2,northbynorthwest,333775,Alfred Hitchcock, Cary Grant,Eva Marie Saint,64,Alfred Hitchcock -  Cary Grant - 1,Alfred Hitchcock - Eva Marie Saint - 1
+tt0053604,100,The Apartment,1960,8.2,theapartment,186037,Billy Wilder, Jack Lemmon,Shirley MacLaine,63,Billy Wilder -  Jack Lemmon - 1,Billy Wilder - Shirley MacLaine - 1
+tt0052357,101,Vertigo,1958,8.2,vertigo,409833,Alfred Hitchcock, James Stewart,Kim Novak,65,Alfred Hitchcock -  James Stewart - 2,Alfred Hitchcock - Kim Novak - 1
+tt0211915,102,Amélie,2001,8.2,amlie,768078,Jean-Pierre Jeunet, Audrey Tautou,Mathieu Kassovitz,22,Jean-Pierre Jeunet -  Audrey Tautou - 1,Jean-Pierre Jeunet - Mathieu Kassovitz - 1
+tt0036775,103,Double Indemnity,1944,8.2,doubleindemnity,160429,Billy Wilder, Fred MacMurray,Barbara Stanwyck,79,Billy Wilder -  Fred MacMurray - 1,Billy Wilder - Barbara Stanwyck - 1
+tt0066921,104,A Clockwork Orange,1971,8.2,aclockworkorange,845545,Stanley Kubrick, Malcolm McDowell,Patrick Magee,52,Stanley Kubrick -  Malcolm McDowell - 1,Stanley Kubrick - Patrick Magee - 1
+tt0093058,105,Full Metal Jacket,1987,8.2,fullmetaljacket,756444,Stanley Kubrick, Matthew Modine,R. Lee Ermey,36,Stanley Kubrick -  Matthew Modine - 1,Stanley Kubrick - R. Lee Ermey - 1
+tt0086250,106,Scarface,1983,8.2,scarface,862637,Brian De Palma, Al Pacino,Michelle Pfeiffer,40,Brian De Palma -  Al Pacino - 1,Brian De Palma - Michelle Pfeiffer - 1
+tt1255953,107,Incendies,2010,8.2,incendies,183043,Denis Villeneuve, Lubna Azabal,Mélissa Désormeaux-Poulin,13,Denis Villeneuve -  Lubna Azabal - 1,Denis Villeneuve - Mélissa Désormeaux-Poulin - 1
+tt8503618,108,Hamilton,2020,8.2,hamilton,100598,Thomas Kail, Lin-Manuel Miranda,Phillipa Soo,3,Thomas Kail -  Lin-Manuel Miranda - 1,Thomas Kail - Phillipa Soo - 1
+tt0113277,109,Heat,1995,8.2,heat,671134,Michael Mann, Al Pacino,Robert De Niro,28,Michael Mann -  Al Pacino - 1,Michael Mann - Robert De Niro - 1
+tt1049413,110,Up,2009,8.2,up,1065696,Pete Docter, Edward Asner,Jordan Nagai,14,Pete Docter -  Edward Asner - 1,Pete Docter - Jordan Nagai - 1
+tt0056592,111,To Kill a Mockingbird,1962,8.2,tokillamockingbird,321492,Robert Mulligan, Gregory Peck,John Megna,61,Robert Mulligan -  Gregory Peck - 1,Robert Mulligan - John Megna - 1
+tt0070735,112,The Sting,1973,8.2,thesting,268908,George Roy Hill, Paul Newman,Robert Redford,50,George Roy Hill -  Paul Newman - 1,George Roy Hill - Robert Redford - 1
+tt1832382,113,A Separation,2011,8.2,aseparation,248918,Asghar Farhadi, Payman Maadi,Leila Hatami,12,Asghar Farhadi -  Payman Maadi - 1,Asghar Farhadi - Leila Hatami - 1
+tt0017136,114,Metropolis,1927,8.2,metropolis,177810,Fritz Lang, Brigitte Helm,Alfred Abel,96,Fritz Lang -  Brigitte Helm - 1,Fritz Lang - Alfred Abel - 1
+tt0119488,115,L.A. Confidential,1997,8.2,laconfidential,591795,Curtis Hanson, Kevin Spacey,Russell Crowe,26,Curtis Hanson -  Kevin Spacey - 1,Curtis Hanson - Russell Crowe - 1
+tt0095016,116,Die Hard,1988,8.2,diehard,899224,John McTiernan, Bruce Willis,Alan Rickman,35,John McTiernan -  Bruce Willis - 1,John McTiernan - Alan Rickman - 1
+tt0075314,117,Taxi Driver,1976,8.2,taxidriver,859854,Martin Scorsese, Robert De Niro,Jodie Foster,47,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Jodie Foster - 1
+tt0097576,118,Indiana Jones and the Last Crusade,1989,8.2,indianajonesandthelastcrusade,768919,Steven Spielberg, Harrison Ford,Sean Connery,34,Steven Spielberg -  Harrison Ford - 2,Steven Spielberg - Sean Connery - 1
+tt0208092,119,Snatch,2000,8.2,snatch,871566,Guy Ritchie, Jason Statham,Brad Pitt,23,Guy Ritchie -  Jason Statham - 1,Guy Ritchie - Brad Pitt - 1
+tt0040522,120,Bicycle Thieves,1948,8.2,bicyclethieves,167080,Vittorio De Sica, Lamberto Maggiorani,Enzo Staiola,75,Vittorio De Sica -  Lamberto Maggiorani - 1,Vittorio De Sica - Enzo Staiola - 1
+tt0986264,121,Like Stars on Earth,2007,8.2,likestarsonearth,197437,Aamir Khan, Darsheel Safary,Aamir Khan,16,Aamir Khan -  Darsheel Safary - 1,Aamir Khan - Aamir Khan - 1
+tt8579674,122,1917,2019,8.2,1917,616995,Sam Mendes, Dean-Charles Chapman,George MacKay,4,Sam Mendes -  Dean-Charles Chapman - 1,Sam Mendes - George MacKay - 1
+tt1745960,123,Top Gun: Maverick,2022,8.2,topgunmaverick,578650,Joseph Kosinski, Tom Cruise,Jennifer Connelly,1,Joseph Kosinski -  Tom Cruise - 1,Joseph Kosinski - Jennifer Connelly - 1
+tt0363163,124,Downfall,2004,8.2,downfall,361560,Oliver Hirschbiegel, Bruno Ganz,Alexandra Maria Lara,19,Oliver Hirschbiegel -  Bruno Ganz - 1,Oliver Hirschbiegel - Alexandra Maria Lara - 1
+tt5074352,125,Dangal,2016,8.2,dangal,196569,Nitesh Tiwari, Aamir Khan,Sakshi Tanwar,7,Nitesh Tiwari -  Aamir Khan - 1,Nitesh Tiwari - Sakshi Tanwar - 1
+tt0059578,126,For a Few Dollars More,1965,8.2,forafewdollarsmore,262068,Sergio Leone, Clint Eastwood,Lee Van Cleef,58,Sergio Leone -  Clint Eastwood - 2,Sergio Leone - Lee Van Cleef - 1
+tt0372784,127,Batman Begins,2005,8.2,batmanbegins,1498391,Christopher Nolan, Christian Bale,Michael Caine,18,Christopher Nolan -  Christian Bale - 4,Christopher Nolan - Michael Caine - 1
+tt0012349,128,The Kid,1921,8.2,thekid,128972,Charles Chaplin, Charles Chaplin,Edna Purviance,102,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Edna Purviance - 1
+tt0053291,129,Some Like It Hot,1959,8.2,somelikeithot,272455,Billy Wilder, Marilyn Monroe,Tony Curtis,64,Billy Wilder -  Marilyn Monroe - 1,Billy Wilder - Tony Curtis - 1
+tt10272386,130,The Father,2020,8.2,thefather,166319,Florian Zeller, Anthony Hopkins,Olivia Colman,3,Florian Zeller -  Anthony Hopkins - 1,Florian Zeller - Olivia Colman - 1
+tt0042192,131,All About Eve,1950,8.2,allabouteve,133714,Joseph L. Mankiewicz, Bette Davis,Anne Baxter,73,Joseph L. Mankiewicz -  Bette Davis - 1,Joseph L. Mankiewicz - Anne Baxter - 1
+tt0993846,132,The Wolf of Wall Street,2013,8.2,thewolfofwallstreet,1455922,Martin Scorsese, Leonardo DiCaprio,Jonah Hill,10,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Jonah Hill - 1
+tt6966692,133,Green Book,2018,8.2,greenbook,515836,Peter Farrelly, Viggo Mortensen,Mahershala Ali,5,Peter Farrelly -  Viggo Mortensen - 1,Peter Farrelly - Mahershala Ali - 1
+tt0055031,134,Judgment at Nuremberg,1961,8.2,judgmentatnuremberg,79668,Stanley Kramer, Spencer Tracy,Burt Lancaster,62,Stanley Kramer -  Spencer Tracy - 1,Stanley Kramer - Burt Lancaster - 1
+tt0089881,135,Ran,1985,8.2,ran,128674,Akira Kurosawa, Tatsuya Nakadai,Akira Terao,38,Akira Kurosawa -  Tatsuya Nakadai - 1,Akira Kurosawa - Akira Terao - 1
+tt0112641,136,Casino,1995,8.2,casino,532737,Martin Scorsese, Robert De Niro,Sharon Stone,28,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Sharon Stone - 1
+tt0120382,137,The Truman Show,1998,8.2,thetrumanshow,1112405,Peter Weir, Jim Carrey,Ed Harris,25,Peter Weir -  Jim Carrey - 1,Peter Weir - Ed Harris - 1
+tt0469494,138,There Will Be Blood,2007,8.2,therewillbeblood,600362,Paul Thomas Anderson, Daniel Day-Lewis,Paul Dano,16,Paul Thomas Anderson -  Daniel Day-Lewis - 1,Paul Thomas Anderson - Paul Dano - 1
+tt0457430,139,Pan's Labyrinth,2006,8.2,panslabyrinth,679446,Guillermo del Toro, Ivana Baquero,Ariadna Gil,17,Guillermo del Toro -  Ivana Baquero - 1,Guillermo del Toro - Ariadna Gil - 1
+tt0105695,140,Unforgiven,1992,8.2,unforgiven,419689,Clint Eastwood, Clint Eastwood,Gene Hackman,31,Clint Eastwood -  Clint Eastwood - 2,Clint Eastwood - Gene Hackman - 1
+tt0167404,141,The Sixth Sense,1999,8.2,thesixthsense,1008564,M. Night Shyamalan, Bruce Willis,Haley Joel Osment,24,M. Night Shyamalan -  Bruce Willis - 1,M. Night Shyamalan - Haley Joel Osment - 1
+tt1130884,142,Shutter Island,2010,8.2,shutterisland,1354490,Martin Scorsese, Leonardo DiCaprio,Emily Mortimer,13,Martin Scorsese -  Leonardo DiCaprio - 3,Martin Scorsese - Emily Mortimer - 1
+tt0107290,143,Jurassic Park,1993,8.2,jurassicpark,1010677,Steven Spielberg, Sam Neill,Laura Dern,30,Steven Spielberg -  Sam Neill - 1,Steven Spielberg - Laura Dern - 1
+tt0268978,144,A Beautiful Mind,2001,8.2,abeautifulmind,947927,Ron Howard, Russell Crowe,Ed Harris,22,Ron Howard -  Russell Crowe - 1,Ron Howard - Ed Harris - 1
+tt0055630,145,Yojimbo,1961,8.1,yojimbo,125508,Akira Kurosawa, Toshirô Mifune,Eijirô Tôno,62,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Eijirô Tôno - 1
+tt0040897,146,The Treasure of the Sierra Madre,1948,8.1,thetreasureofthesierramadre,127570,John Huston, Humphrey Bogart,Walter Huston,75,John Huston -  Humphrey Bogart - 1,John Huston - Walter Huston - 1
+tt0071853,147,Monty Python and the Holy Grail,1975,8.1,montypythonandtheholygrail,550489,Terry Gilliam, Graham Chapman,John Cleese,48,Terry Gilliam -  Graham Chapman - 1,Terry Gilliam - John Cleese - 1
+tt0477348,148,No Country for Old Men,2007,8.1,nocountryforoldmen,997873,Ethan Coen, Tommy Lee Jones,Javier Bardem,16,Ethan Coen -  Tommy Lee Jones - 1,Ethan Coen - Javier Bardem - 1
+tt0266697,149,Kill Bill: Vol. 1,2003,8.1,killbillvol1,1137347,Quentin Tarantino, Uma Thurman,David Carradine,20,Quentin Tarantino -  Uma Thurman - 1,Quentin Tarantino - David Carradine - 1
+tt0057115,150,The Great Escape,1963,8.1,thegreatescape,248905,John Sturges, Steve McQueen,James Garner,60,John Sturges -  Steve McQueen - 1,John Sturges - James Garner - 1
+tt0042876,151,Rashomon,1950,8.1,rashomon,172232,Akira Kurosawa, Toshirô Mifune,Machiko Kyô,73,Akira Kurosawa -  Toshirô Mifune - 4,Akira Kurosawa - Machiko Kyô - 1
+tt0084787,152,The Thing,1982,8.1,thething,436922,John Carpenter, Kurt Russell,Wilford Brimley,41,John Carpenter -  Kurt Russell - 1,John Carpenter - Wilford Brimley - 1
+tt0266543,153,Finding Nemo,2003,8.1,findingnemo,1063254,Andrew Stanton, Albert Brooks,Ellen DeGeneres,20,Andrew Stanton -  Albert Brooks - 1,Andrew Stanton - Ellen DeGeneres - 1
+tt10872600,154,Spider-Man: No Way Home,2021,8.1,spidermannowayhome,790170,Jon Watts, Tom Holland,Zendaya,2,Jon Watts -  Tom Holland - 1,Jon Watts - Zendaya - 1
+tt0080678,155,The Elephant Man,1980,8.1,theelephantman,247101,David Lynch, Anthony Hopkins,John Hurt,43,David Lynch -  Anthony Hopkins - 1,David Lynch - John Hurt - 1
+tt0071315,156,Chinatown,1974,8.1,chinatown,333736,Roman Polanski, Jack Nicholson,Faye Dunaway,49,Roman Polanski -  Jack Nicholson - 1,Roman Polanski - Faye Dunaway - 1
+tt0434409,157,V for Vendetta,2005,8.1,vforvendetta,1138324,James McTeigue, Hugo Weaving,Natalie Portman,18,James McTeigue -  Hugo Weaving - 1,James McTeigue - Natalie Portman - 1
+tt0081398,158,Raging Bull,1980,8.1,ragingbull,361936,Martin Scorsese, Robert De Niro,Cathy Moriarty,43,Martin Scorsese -  Robert De Niro - 4,Martin Scorsese - Cathy Moriarty - 1
+tt0031381,159,Gone with the Wind,1939,8.1,gonewiththewind,321690,Victor Fleming, Clark Gable,Vivien Leigh,84,Victor Fleming -  Clark Gable - 1,Victor Fleming - Vivien Leigh - 1
+tt0046912,160,Dial M for Murder,1954,8.1,dialmformurder,180068,Alfred Hitchcock, Ray Milland,Grace Kelly,69,Alfred Hitchcock -  Ray Milland - 1,Alfred Hitchcock - Grace Kelly - 2
+tt0120735,161,"Lock, Stock and Two Smoking Barrels",1998,8.1,lockstockandtwosmokingbarrels,593624,Guy Ritchie, Jason Flemyng,Dexter Fletcher,25,Guy Ritchie -  Jason Flemyng - 1,Guy Ritchie - Dexter Fletcher - 1
+tt2096673,162,Inside Out,2015,8.1,insideout,733212,Pete Docter, Amy Poehler,Bill Hader,8,Pete Docter -  Amy Poehler - 1,Pete Docter - Bill Hader - 1
+tt0347149,163,Howl's Moving Castle,2004,8.1,howlsmovingcastle,409599,Hayao Miyazaki, Chieko Baishô,Takuya Kimura,19,Hayao Miyazaki -  Chieko Baishô - 1,Hayao Miyazaki - Takuya Kimura - 1
+tt1305806,164,The Secret in Their Eyes,2009,8.1,thesecretintheireyes,213570,Juan José Campanella, Ricardo Darín,Soledad Villamil,14,Juan José Campanella -  Ricardo Darín - 1,Juan José Campanella - Soledad Villamil - 1
+tt5027774,165,"Three Billboards Outside Ebbing, Missouri",2017,8.1,threebillboardsoutsideebbingmissouri,524091,Martin McDonagh, Frances McDormand,Woody Harrelson,6,Martin McDonagh -  Frances McDormand - 1,Martin McDonagh - Woody Harrelson - 1
+tt0117951,166,Trainspotting,1996,8.1,trainspotting,699420,Danny Boyle, Ewan McGregor,Ewen Bremner,27,Danny Boyle -  Ewan McGregor - 1,Danny Boyle - Ewen Bremner - 1
+tt0050212,167,The Bridge on the River Kwai,1957,8.1,thebridgeontheriverkwai,225120,David Lean, William Holden,Alec Guinness,66,David Lean -  William Holden - 1,David Lean - Alec Guinness - 2
+tt1392214,168,Prisoners,2013,8.1,prisoners,741750,Denis Villeneuve, Hugh Jackman,Jake Gyllenhaal,10,Denis Villeneuve -  Hugh Jackman - 1,Denis Villeneuve - Jake Gyllenhaal - 1
+tt0116282,169,Fargo,1996,8.1,fargo,690878,Joel Coen, William H. Macy,Frances McDormand,27,Joel Coen -  William H. Macy - 1,Joel Coen - Frances McDormand - 1
+tt1291584,170,Warrior,2011,8.1,warrior,480772,Gavin O'Connor, Tom Hardy,Nick Nolte,12,Gavin O'Connor -  Tom Hardy - 1,Gavin O'Connor - Nick Nolte - 1
+tt1205489,171,Gran Torino,2008,8.1,grantorino,787753,Clint Eastwood, Clint Eastwood,Bee Vang,15,Clint Eastwood -  Clint Eastwood - 2,Clint Eastwood - Bee Vang - 1
+tt0264464,172,Catch Me If You Can,2002,8.1,catchmeifyoucan,1016202,Steven Spielberg, Leonardo DiCaprio,Tom Hanks,21,Steven Spielberg -  Leonardo DiCaprio - 1,Steven Spielberg - Tom Hanks - 1
+tt0096283,173,My Neighbor Totoro,1988,8.1,myneighbortotoro,350914,Hayao Miyazaki, Hitoshi Takagi,Noriko Hidaka,35,Hayao Miyazaki -  Hitoshi Takagi - 1,Hayao Miyazaki - Noriko Hidaka - 1
+tt0405159,174,Million Dollar Baby,2004,8.1,milliondollarbaby,698452,Clint Eastwood, Hilary Swank,Clint Eastwood,19,Clint Eastwood -  Hilary Swank - 1,Clint Eastwood - Clint Eastwood - 1
+tt0118849,175,Children of Heaven,1997,8.1,childrenofheaven,76485,Majid Majidi, Mohammad Amir Naji,Amir Farrokh Hashemian,26,Majid Majidi -  Mohammad Amir Naji - 1,Majid Majidi - Amir Farrokh Hashemian - 1
+tt0083658,176,Blade Runner,1982,8.1,bladerunner,785512,Ridley Scott, Harrison Ford,Rutger Hauer,41,Ridley Scott -  Harrison Ford - 1,Ridley Scott - Rutger Hauer - 1
+tt0015864,177,The Gold Rush,1925,8.1,thegoldrush,113591,Charles Chaplin, Charles Chaplin,Mack Swain,98,Charles Chaplin -  Charles Chaplin - 5,Charles Chaplin - Mack Swain - 1
+tt4729430,178,Klaus,2019,8.1,klaus,165252,Sergio Pablos, Jason Schwartzman,J.K. Simmons,4,Sergio Pablos -  Jason Schwartzman - 1,Sergio Pablos - J.K. Simmons - 1
+tt1201607,179,Harry Potter and the Deathly Hallows: Part 2,2011,8.1,harrypotterandthedeathlyhallowspart2,897389,David Yates, Daniel Radcliffe,Emma Watson,12,David Yates -  Daniel Radcliffe - 1,David Yates - Emma Watson - 1
+tt0112471,180,Before Sunrise,1995,8.1,beforesunrise,319034,Richard Linklater, Ethan Hawke,Julie Delpy,28,Richard Linklater -  Ethan Hawke - 2,Richard Linklater - Julie Delpy - 2
+tt2024544,181,12 Years a Slave,2013,8.1,12yearsaslave,714082,Steve McQueen, Chiwetel Ejiofor,Michael Kenneth Williams,10,Steve McQueen -  Chiwetel Ejiofor - 1,Steve McQueen - Michael Kenneth Williams - 1
+tt0052618,182,Ben-Hur,1959,8.1,benhur,244611,William Wyler, Charlton Heston,Jack Hawkins,64,William Wyler -  Charlton Heston - 1,William Wyler - Jack Hawkins - 1
+tt2278388,183,The Grand Budapest Hotel,2014,8.1,thegrandbudapesthotel,834871,Wes Anderson, Ralph Fiennes,F. Murray Abraham,9,Wes Anderson -  Ralph Fiennes - 1,Wes Anderson - F. Murray Abraham - 1
+tt0047296,184,On the Waterfront,1954,8.1,onthewaterfront,158158,Elia Kazan, Marlon Brando,Karl Malden,69,Elia Kazan -  Marlon Brando - 1,Elia Kazan - Karl Malden - 1
+tt2267998,185,Gone Girl,2014,8.1,gonegirl,1005325,David Fincher, Ben Affleck,Rosamund Pike,9,David Fincher -  Ben Affleck - 1,David Fincher - Rosamund Pike - 1
+tt0050986,186,Wild Strawberries,1957,8.1,wildstrawberries,109716,Ingmar Bergman, Victor Sjöström,Bibi Andersson,66,Ingmar Bergman -  Victor Sjöström - 1,Ingmar Bergman - Bibi Andersson - 1
+tt0017925,187,The General,1926,8.1,thegeneral,93610,Clyde Bruckman, Buster Keaton,Marion Mack,97,Clyde Bruckman -  Buster Keaton - 1,Clyde Bruckman - Marion Mack - 1
+tt0072684,188,Barry Lyndon,1975,8.1,barrylyndon,173132,Stanley Kubrick, Ryan O'Neal,Marisa Berenson,48,Stanley Kubrick -  Ryan O'Neal - 1,Stanley Kubrick - Marisa Berenson - 1
+tt0107207,189,In the Name of the Father,1993,8.1,inthenameofthefather,179388,Jim Sheridan, Daniel Day-Lewis,Pete Postlethwaite,30,Jim Sheridan -  Daniel Day-Lewis - 1,Jim Sheridan - Pete Postlethwaite - 1
+tt0077416,190,The Deer Hunter,1978,8.1,thedeerhunter,345873,Michael Cimino, Robert De Niro,Christopher Walken,45,Michael Cimino -  Robert De Niro - 1,Michael Cimino - Christopher Walken - 1
+tt2119532,191,Hacksaw Ridge,2016,8.1,hacksawridge,546588,Mel Gibson, Andrew Garfield,Sam Worthington,7,Mel Gibson -  Andrew Garfield - 1,Mel Gibson - Sam Worthington - 1
+tt0041959,192,The Third Man,1949,8.1,thethirdman,174984,Carol Reed, Orson Welles,Joseph Cotten,74,Carol Reed -  Orson Welles - 1,Carol Reed - Joseph Cotten - 1
+tt10366206,193,John Wick: Chapter 4,2023,8.1,johnwickchapter4,140249,Chad Stahelski, Keanu Reeves,Laurence Fishburne,0,Chad Stahelski -  Keanu Reeves - 1,Chad Stahelski - Laurence Fishburne - 1
+tt0046268,194,The Wages of Fear,1953,8.1,thewagesoffear,62987,Henri-Georges Clouzot, Yves Montand,Charles Vanel,70,Henri-Georges Clouzot -  Yves Montand - 1,Henri-Georges Clouzot - Charles Vanel - 1
+tt0353969,195,Memories of Murder,2003,8.1,memoriesofmurder,194520,Bong Joon Ho, Song Kang-ho,Kim Sang-kyung,20,Bong Joon Ho -  Song Kang-ho - 2,Bong Joon Ho - Kim Sang-kyung - 1
+tt3011894,196,Wild Tales,2014,8.1,wildtales,204369,Damián Szifron, Darío Grandinetti,María Marull,9,Damián Szifron -  Darío Grandinetti - 1,Damián Szifron - María Marull - 1
+tt0015324,197,Sherlock Jr.,1924,8.1,sherlockjr,52110,Buster Keaton, Buster Keaton,Kathryn McGuire,99,Buster Keaton -  Buster Keaton - 1,Buster Keaton - Kathryn McGuire - 1
+tt0031679,198,Mr. Smith Goes to Washington,1939,8.1,mrsmithgoestowashington,117376,Frank Capra, James Stewart,Jean Arthur,84,Frank Capra -  James Stewart - 2,Frank Capra - Jean Arthur - 1
+tt1392190,199,Mad Max: Fury Road,2015,8.1,madmaxfuryroad,1026352,George Miller, Tom Hardy,Charlize Theron,8,George Miller -  Tom Hardy - 1,George Miller - Charlize Theron - 1
+tt0978762,200,Mary and Max,2009,8.1,maryandmax,180383,Adam Elliot, Toni Collette,Philip Seymour Hoffman,14,Adam Elliot -  Toni Collette - 1,Adam Elliot - Philip Seymour Hoffman - 1
+tt0892769,201,How to Train Your Dragon,2010,8.1,howtotrainyourdragon,758528,Dean DeBlois, Jay Baruchel,Gerard Butler,13,Dean DeBlois -  Jay Baruchel - 1,Dean DeBlois - Gerard Butler - 1
+tt0050976,202,The Seventh Seal,1957,8.1,theseventhseal,189340,Ingmar Bergman, Max von Sydow,Gunnar Björnstrand,66,Ingmar Bergman -  Max von Sydow - 1,Ingmar Bergman - Gunnar Björnstrand - 1
+tt0198781,203,"Monsters, Inc.",2001,8.1,monstersinc,928937,Pete Docter, Billy Crystal,John Goodman,22,Pete Docter -  Billy Crystal - 1,Pete Docter - John Goodman - 1
+tt0097165,204,Dead Poets Society,1989,8.1,deadpoetssociety,507480,Peter Weir, Robin Williams,Robert Sean Leonard,34,Peter Weir -  Robin Williams - 1,Peter Weir - Robert Sean Leonard - 1
+tt0073195,205,Jaws,1975,8.1,jaws,621452,Steven Spielberg, Roy Scheider,Robert Shaw,48,Steven Spielberg -  Roy Scheider - 1,Steven Spielberg - Robert Shaw - 1
+tt3170832,206,Room,2015,8.1,room,430491,Lenny Abrahamson, Brie Larson,Jacob Tremblay,8,Lenny Abrahamson -  Brie Larson - 1,Lenny Abrahamson - Jacob Tremblay - 1
+tt0118715,207,The Big Lebowski,1998,8.1,thebiglebowski,824829,Joel Coen, Jeff Bridges,John Goodman,25,Joel Coen -  Jeff Bridges - 1,Joel Coen - John Goodman - 1
+tt0046438,208,Tokyo Story,1953,8.1,tokyostory,63845,Yasujirô Ozu, Chishû Ryû,Chieko Higashiyama,70,Yasujirô Ozu -  Chishû Ryû - 1,Yasujirô Ozu - Chieko Higashiyama - 1
+tt0019254,209,The Passion of Joan of Arc,1928,8.1,thepassionofjoanofarc,57057,Carl Theodor Dreyer, Maria Falconetti,Eugene Silvain,95,Carl Theodor Dreyer -  Maria Falconetti - 1,Carl Theodor Dreyer - Eugene Silvain - 1
+tt1950186,210,Ford v Ferrari,2019,8.1,fordvferrari,414833,James Mangold, Matt Damon,Christian Bale,4,James Mangold -  Matt Damon - 1,James Mangold - Christian Bale - 1
+tt0395169,211,Hotel Rwanda,2004,8.0,hotelrwanda,361232,Terry George, Don Cheadle,Sophie Okonedo,19,Terry George -  Don Cheadle - 1,Terry George - Sophie Okonedo - 1
+tt0075148,212,Rocky,1976,8.0,rocky,596247,John G. Avildsen, Sylvester Stallone,Talia Shire,47,John G. Avildsen -  Sylvester Stallone - 1,John G. Avildsen - Talia Shire - 1
+tt0382932,213,Ratatouille,2007,8.0,ratatouille,762428,Brad Bird, Brad Garrett,Lou Romano,16,Brad Bird -  Brad Garrett - 1,Brad Bird - Lou Romano - 1
+tt0091763,214,Platoon,1986,8.0,platoon,422306,Oliver Stone, Charlie Sheen,Tom Berenger,37,Oliver Stone -  Charlie Sheen - 1,Oliver Stone - Tom Berenger - 1
+tt1895587,215,Spotlight,2015,8.0,spotlight,480732,Tom McCarthy, Mark Ruffalo,Michael Keaton,8,Tom McCarthy -  Mark Ruffalo - 1,Tom McCarthy - Michael Keaton - 1
+tt3315342,216,Logan,2017,8.0,logan,784129,James Mangold, Hugh Jackman,Patrick Stewart,6,James Mangold -  Hugh Jackman - 1,James Mangold - Patrick Stewart - 1
+tt0088247,217,The Terminator,1984,8.0,theterminator,882799,James Cameron, Arnold Schwarzenegger,Linda Hamilton,39,James Cameron -  Arnold Schwarzenegger - 2,James Cameron - Linda Hamilton - 2
+tt0092005,218,Stand by Me,1986,8.0,standbyme,415771,Rob Reiner, Wil Wheaton,River Phoenix,37,Rob Reiner -  Wil Wheaton - 1,Rob Reiner - River Phoenix - 1
+tt1979320,219,Rush,2013,8.0,rush,489677,Ron Howard, Daniel Brühl,Chris Hemsworth,10,Ron Howard -  Daniel Brühl - 1,Ron Howard - Chris Hemsworth - 1
+tt0074958,220,Network,1976,8.0,network,163041,Sidney Lumet, Faye Dunaway,William Holden,47,Sidney Lumet -  Faye Dunaway - 1,Sidney Lumet - William Holden - 1
+tt0381681,221,Before Sunset,2004,8.0,beforesunset,272807,Richard Linklater, Ethan Hawke,Julie Delpy,19,Richard Linklater -  Ethan Hawke - 2,Richard Linklater - Julie Delpy - 2
+tt0758758,222,Into the Wild,2007,8.0,intothewild,633660,Sean Penn, Emile Hirsch,Vince Vaughn,16,Sean Penn -  Emile Hirsch - 1,Sean Penn - Vince Vaughn - 1
+tt0032138,223,The Wizard of Oz,1939,8.0,thewizardofoz,409159,Victor Fleming, Judy Garland,Frank Morgan,84,Victor Fleming -  Judy Garland - 1,Victor Fleming - Frank Morgan - 1
+tt0036868,224,The Best Years of Our Lives,1946,8.0,thebestyearsofourlives,66849,William Wyler, Myrna Loy,Dana Andrews,77,William Wyler -  Myrna Loy - 1,William Wyler - Dana Andrews - 1
+tt0070047,225,The Exorcist,1973,8.0,theexorcist,419562,William Friedkin, Ellen Burstyn,Max von Sydow,50,William Friedkin -  Ellen Burstyn - 1,William Friedkin - Max von Sydow - 1
+tt0107048,226,Groundhog Day,1993,8.0,groundhogday,648577,Harold Ramis, Bill Murray,Andie MacDowell,30,Harold Ramis -  Bill Murray - 1,Harold Ramis - Andie MacDowell - 1
+tt0317705,227,The Incredibles,2004,8.0,theincredibles,758257,Brad Bird, Craig T. Nelson,Samuel L. Jackson,19,Brad Bird -  Craig T. Nelson - 1,Brad Bird - Samuel L. Jackson - 1
+tt0113247,228,La haine,1995,8.0,lahaine,180536,Mathieu Kassovitz, Vincent Cassel,Hubert Koundé,28,Mathieu Kassovitz -  Vincent Cassel - 1,Mathieu Kassovitz - Hubert Koundé - 1
+tt0035446,229,To Be or Not to Be,1942,8.0,tobeornottobe,39444,Ernst Lubitsch, Carole Lombard,Jack Benny,81,Ernst Lubitsch -  Carole Lombard - 1,Ernst Lubitsch - Jack Benny - 1
+tt0325980,230,Pirates of the Caribbean: The Curse of the Black Pearl,2003,8.0,piratesofthecaribbeanthecurseoftheblackpearl,1149981,Gore Verbinski, Johnny Depp,Geoffrey Rush,20,Gore Verbinski -  Johnny Depp - 1,Gore Verbinski - Geoffrey Rush - 1
+tt1028532,231,Hachi: A Dog's Tale,2009,8.0,hachiadogstale,293802,Lasse Hallström, Richard Gere,Joan Allen,14,Lasse Hallström -  Richard Gere - 1,Lasse Hallström - Joan Allen - 1
+tt0058946,232,The Battle of Algiers,1966,8.0,thebattleofalgiers,62201,Gillo Pontecorvo, Brahim Hadjadj,Jean Martin,57,Gillo Pontecorvo -  Brahim Hadjadj - 1,Gillo Pontecorvo - Jean Martin - 1
+tt0048473,233,Pather Panchali,1955,8.0,patherpanchali,34819,Satyajit Ray, Kanu Bannerjee,Karuna Bannerjee,68,Satyajit Ray -  Kanu Bannerjee - 1,Satyajit Ray - Karuna Bannerjee - 1
+tt0032551,234,The Grapes of Wrath,1940,8.0,thegrapesofwrath,95861,John Ford, Henry Fonda,Jane Darwell,83,John Ford -  Henry Fonda - 1,John Ford - Jane Darwell - 1
+tt0476735,235,My Father and My Son,2005,8.0,myfatherandmyson,88014,Çagan Irmak, Çetin Tekindor,Fikret Kuskan,18,Çagan Irmak -  Çetin Tekindor - 1,Çagan Irmak - Fikret Kuskan - 1
+tt0245712,236,Amores Perros,2000,8.0,amoresperros,244868,Alejandro G. Iñárritu, Emilio Echevarría,Gael García Bernal,23,Alejandro G. Iñárritu -  Emilio Echevarría - 1,Alejandro G. Iñárritu - Gael García Bernal - 1
+tt15097216,237,Jai Bhim,2021,8.0,jaibhim,206160,T.J. Gnanavel, Suriya,Lijo Mol Jose,2,T.J. Gnanavel -  Suriya - 1,T.J. Gnanavel - Lijo Mol Jose - 1
+tt0032976,238,Rebecca,1940,8.0,rebecca,140455,Alfred Hitchcock, Laurence Olivier,Joan Fontaine,83,Alfred Hitchcock -  Laurence Olivier - 1,Alfred Hitchcock - Joan Fontaine - 1
+tt4016934,239,The Handmaiden,2016,8.0,thehandmaiden,155954,Park Chan-wook, Kim Min-hee,Ha Jung-woo,7,Park Chan-wook -  Kim Min-hee - 1,Park Chan-wook - Ha Jung-woo - 1
+tt0061512,240,Cool Hand Luke,1967,8.0,coolhandluke,181150,Stuart Rosenberg, Paul Newman,George Kennedy,56,Stuart Rosenberg -  Paul Newman - 1,Stuart Rosenberg - George Kennedy - 1
+tt0059742,241,The Sound of Music,1965,8.0,thesoundofmusic,243766,Robert Wise, Julie Andrews,Christopher Plummer,58,Robert Wise -  Julie Andrews - 1,Robert Wise - Christopher Plummer - 1
+tt6791350,242,Guardians of the Galaxy Vol. 3,2023,8.0,guardiansofthegalaxyvol3,26787,James Gunn, Chris Pratt,Chukwudi Iwuji,0,James Gunn -  Chris Pratt - 1,James Gunn - Chukwudi Iwuji - 1
+tt0025316,243,It Happened One Night,1934,8.0,ithappenedonenight,106914,Frank Capra, Clark Gable,Claudette Colbert,89,Frank Capra -  Clark Gable - 1,Frank Capra - Claudette Colbert - 1
+tt0053198,244,The 400 Blows,1959,8.0,the400blows,121710,François Truffaut, Jean-Pierre Léaud,Albert Rémy,64,François Truffaut -  Jean-Pierre Léaud - 1,François Truffaut - Albert Rémy - 1
+tt0060827,245,Persona,1966,8.0,persona,123156,Ingmar Bergman, Bibi Andersson,Liv Ullmann,57,Ingmar Bergman -  Bibi Andersson - 1,Ingmar Bergman - Liv Ullmann - 1
+tt0079470,246,Life of Brian,1979,8.0,lifeofbrian,407844,Terry Jones, Graham Chapman,John Cleese,44,Terry Jones -  Graham Chapman - 1,Terry Jones - John Cleese - 1
+tt0129167,247,The Iron Giant,1999,8.0,theirongiant,207760,Brad Bird, Eli Marienthal,Harry Connick Jr.,24,Brad Bird -  Eli Marienthal - 1,Brad Bird - Harry Connick Jr. - 1
+tt1454029,248,The Help,2011,8.0,thehelp,471001,Tate Taylor, Viola Davis,Emma Stone,12,Tate Taylor -  Viola Davis - 1,Tate Taylor - Emma Stone - 1
+tt0103639,249,Aladdin,1992,8.0,aladdin,434478,Ron Clements, Scott Weinger,Robin Williams,31,Ron Clements -  Scott Weinger - 1,Ron Clements - Robin Williams - 1
+tt0099348,250,Dances with Wolves,1990,8.0,danceswithwolves,275319,Kevin Costner, Kevin Costner,Mary McDonnell,33,Kevin Costner -  Kevin Costner - 1,Kevin Costner - Mary McDonnell - 1
