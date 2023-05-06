@@ -41,20 +41,13 @@ table_rows = driver.find_elements(By.XPATH, '//tbody[@class="lister-list"]/tr')
 
 
 for row in table_rows:
-    #Die Einfachen
     id = row.find_element(By.XPATH, './td[@class="watchlistColumn"]/div[@class="wlb_ribbon"]').get_attribute("data-tconst")
     rank = row.find_element(By.XPATH, './td[@class="posterColumn"]/span[@name="rk"]').get_attribute("data-value")
-    year = row.find_element(By.XPATH, './td[@class="titleColumn"]/span[@class="secondaryInfo"]').text.strip("()")
-    rating = row.find_element(By.XPATH, './td[@class="ratingColumn imdbRating"]/strong').text
-    num_votes = row.find_element(By.XPATH, './td[@class="posterColumn"]/span[@name="nv"]').get_attribute("data-value")
-
-    #Die verschiedenen Namen auslesen.
-    #Der Regisseur und die Schauspieler sind in einem String zusammengeschrieben und werden dann gesplitet.
+    year = row.find_element(By.XPATH, './td[@class="titleColumn"]/span[@class="secondaryInfo"]').text
+    rating = row.find_element(By.XPATH, './td[@class="ratingColumn imdbRating"]/strong').get_attribute("title")
     title_element = row.find_element(By.XPATH, './td[@class="titleColumn"]/a')
     title = title_element.text
     persons = title_element.get_attribute("title")
-    director, actors = persons.split(" (dir.),") #Frank Darabont (dir.), Tim Robbins, Morgan Freeman
-    actor1, actor2 = actors.strip().split(", ") #Tim Robbins, Morgan Freeman
 
 
     movie_info = {
@@ -63,10 +56,7 @@ for row in table_rows:
         "title_en": title,
         "year": year,
         "rating": rating,
-        "num_votes": num_votes,
-        "director": director,
-        "actor1": actor1,
-        "actor2": actor2,
+        "persons": persons
     }
 
     movies_list.append(movie_info)
@@ -74,5 +64,5 @@ for row in table_rows:
 driver.quit()
 
 movies_df = pd.DataFrame(movies_list)
-movies_df.to_csv("imdb_top_250.csv", index=False)
+movies_df.to_csv("imdb_top_250_raw.csv", index=False)
 
