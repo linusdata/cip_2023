@@ -19,6 +19,7 @@ print(imdb_df)
 #Bereinige die Filmnamen
 clean_film_title(imdb_df, "title_en")
 
+
 #Bereinige die Jahre
 imdb_df['year'] = imdb_df['year'].str.replace(r'\(|\)', '', regex=True)
 to_int(imdb_df,'year')
@@ -29,9 +30,11 @@ imdb_df['num_votes'] = imdb_df['rating'].str.extract(r'(\d[\d,]*\d)')
 imdb_df['num_votes'] = imdb_df['num_votes'].str.replace(',', '')
 to_int(imdb_df,'num_votes')
 
+
 #Die durchschnittliche Bewertung
 imdb_df['rating'] = imdb_df['rating'].str.extract(r'(\d\.\d)')
 imdb_df['rating'] = imdb_df['rating'].astype(float)
+
 
 #Der Regisseur und der Schauspieler 1 und Schauspieler 2
 directors_and_actors = imdb_df['persons'].str.split(' \(dir.\),', expand=True)
@@ -41,9 +44,6 @@ imdb_df['actor1'] = actors[0]
 imdb_df['actor2'] = actors[1]
 imdb_df = imdb_df.drop(columns=['persons'])
 
-
-
-
 ###########################################################################################################
 #Spalten ergänzen
 
@@ -51,13 +51,14 @@ imdb_df = imdb_df.drop(columns=['persons'])
 current_year = datetime.datetime.now().year
 imdb_df["film_age"] = current_year - imdb_df["year"]
 
-#Eränze eine Nummerierung welche die  Anzahl Bewertungen vergleicht.
 
+#Eränze eine Nummerierung welche die  Anzahl Bewertungen vergleicht.
 imdb_df['num_votes_rank'] = imdb_df['num_votes'].rank(ascending=False, method='min').astype(int)
+
 
 #Wie oft hat der Regisseur mit dem Schauspieler zusammen gearbeitet bei den 250 besten Filmen.
 
-#Zusammenarbeit wird gesplit dies wegen actor1 und actor2
+#Zusammenarbeit wird gesplitet, dies wegen actor1 und actor2
 imdb_df['collaboration1'] = ''
 imdb_df['collaboration2'] = ''
 
@@ -66,11 +67,11 @@ for index, row in imdb_df.iterrows():
     director = row['director']
     actors = [row['actor1'], row['actor2']]
 
-    # Suche alle Zusammenarbeiten vom Schauspieler 1 mit dem Regisseur und mach einen String
+    #Suche alle Zusammenarbeiten vom Schauspieler 1 mit dem Regisseur und mach einen String
     collaborations1 = imdb_df[(imdb_df['director'] == director) & ((imdb_df['actor1'] == actors[0]) | (imdb_df['actor2'] == actors[0]))].shape[0]
     imdb_df.loc[index, 'collaboration1'] = f"{director} - {actors[0]} - {collaborations1}"
 
-    # Suche alle Zusammenarbeiten vom Schauspieler 2 mit dem Regisseur und mach einen String
+    #Suche alle Zusammenarbeiten vom Schauspieler 2 mit dem Regisseur und mach einen String
     collaborations2 = imdb_df[(imdb_df['director'] == director) & ((imdb_df['actor1'] == actors[1]) | (imdb_df['actor2'] == actors[1]))].shape[0]
     imdb_df.loc[index, 'collaboration2'] = f"{director} - {actors[1]} - {collaborations2}"
 
