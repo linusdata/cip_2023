@@ -5,7 +5,7 @@ from cip_library import to_int
 
 # Anzeigeoptionen
 pd.set_option("display.max_columns", None)  # Alle Spalten anzeigen
-pd.set_option("display.max_rows", None)     # Alle Zeilen anzeigen
+#pd.set_option("display.max_rows", None)     # Alle Zeilen anzeigen
 pd.set_option("display.expand_frame_repr", False) # Zeilenumbruch verhindern
 
 imdb_df = pd.read_csv("imdb_top_250_raw.csv")
@@ -51,6 +51,9 @@ imdb_df = imdb_df.drop(columns=['persons'])
 current_year = datetime.datetime.now().year
 imdb_df["film_age"] = current_year - imdb_df["year"]
 
+#Eränze eine Nummerierung welche die  Anzahl Bewertungen vergleicht.
+
+imdb_df['num_votes_rank'] = imdb_df['num_votes'].rank(ascending=False, method='min').astype(int)
 
 #Wie oft hat der Regisseur mit dem Schauspieler zusammen gearbeitet bei den 250 besten Filmen.
 
@@ -75,6 +78,12 @@ for index, row in imdb_df.iterrows():
 #"Christopher Nolan - Christian Bale - 4"
 # Regisseur Nolan arbeitete 4 mal mit Schauspieler Bale zusammen, in den 250 besten Imdb-Filmen.
 
+########################################################################################################################
 
-print(imdb_df)
+#Passe die Reihenfole der Zeilen an:
+new_column_order = ['id', 'title_en', 'film_title_cleaned', 'year', 'film_age', 'rank', 'num_votes', 'num_votes_rank', 'director', 'actor1', 'actor2', 'collaboration1', 'collaboration2']
+imdb_df = imdb_df[new_column_order]
+
+#Erstelle ein neues CSV.
 imdb_df.to_csv("imdb_top_250.csv", index=False)
+print(imdb_df)
