@@ -52,5 +52,8 @@ cip.create_table("movie_reviews_raw", cols, dtypes)
 #dataframe in neu erstellte tabelle schreiben
 cip.write_to_table(df=pd_reviews, table_name="movie_reviews_raw")
 
+#dataframe als csv abspeichern
+pd_reviews.to_csv("review_stage_1.csv", index=False)
+
 
 

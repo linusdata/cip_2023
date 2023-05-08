@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt.">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_5_2_23__6_45_PM__Changes_.xml" beforeDir="false" />
+    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="boxoffice skripte löschen">
+      <change afterPath="$PROJECT_DIR$/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/cip_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cip_2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2023_11_03_[Changes]/shelved.patch" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2023_11_03__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/boxofficemojo_load.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/boxofficemojo_transform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb_reviews_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_load.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/imdb_reviews_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_transform.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683046464833</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="boxoffice skripte löschen">
+      <created>1683090845137</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683090845137</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -136,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Daten ergänzt." />
     <MESSAGE value="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt." />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt." />
+    <MESSAGE value="boxoffice skripte löschen" />
+    <option name="LAST_COMMIT_MESSAGE" value="boxoffice skripte löschen" />
   </component>
 </project>
