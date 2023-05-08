@@ -82,7 +82,7 @@ for index, row in imdb_df.iterrows():
 ########################################################################################################################
 
 #Passe die Reihenfole der Zeilen an:
-new_column_order = ['id', 'title_en', 'film_title_cleaned', 'year', 'film_age', 'rank', 'num_votes', 'num_votes_rank', 'director', 'actor1', 'actor2', 'collaboration1', 'collaboration2']
+new_column_order = ['id', 'title_en', 'film_title_cleaned', 'year', 'film_age','rank', 'rating' , 'num_votes', 'num_votes_rank', 'director', 'actor1', 'actor2', 'collaboration1', 'collaboration2']
 imdb_df = imdb_df[new_column_order]
 
 #Erstelle ein neues CSV.
