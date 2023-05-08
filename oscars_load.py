@@ -22,7 +22,7 @@ award_nominees = []
 start = 1929
 end = 2023
 # Anzahl Jahre ausrechnen welche gescraped werden sollen
-number_URLs = end - start
+number_URLs = end - start + 1
 #Counter für "for-Schleife" erstellen
 counter = 0
 
