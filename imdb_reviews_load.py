@@ -47,10 +47,10 @@ cur = cip.mariadb_connect().cursor()
 cols = ["id", "review"]
 dtypes = ["VARCHAR(255)", "VARCHAR(255)"]
 #tabelle "movie_reviews_raw" erstellen
-cip.create_table("movie_reviews_raw", cols, dtypes)
+cip.create_table("review_stage_1", cols, dtypes)
 
 #dataframe in neu erstellte tabelle schreiben
-cip.write_to_table(df=pd_reviews, table_name="movie_reviews_raw")
+cip.write_to_table(df=pd_reviews, table_name="review_stage_1")
 
 #dataframe als csv abspeichern
 pd_reviews.to_csv("review_stage_1.csv", index=False)

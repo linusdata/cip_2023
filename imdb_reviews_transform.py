@@ -7,7 +7,7 @@ nltk.download('vader_lexicon')
 nltk.download('wordnet')
 
 #Lesen von Daten aus der Tabelle "movie_reviews_raw" und Speichern der Daten in einem dataframe
-pd_reviews_transform = cip.get_data_from_mariadb(table_name = "movie_reviews_raw")
+pd_reviews_transform = cip.get_data_from_mariadb(table_name = "review_stage_1")
 
 #Um die sentiment analyse zu optimieren, müssen wir die Reviews zunächst vorverarbeiten. Dies geschieht durch Tokenisierung und das Entfernen von Interpunktionen, Symbolen und Stoppwörtern, da diese für die sentiment analyse keinen Wert haben.
 pd_reviews_transform['processed_text'] = pd_reviews_transform['review'].apply(cip.preprocess_text_for_sentiment)
@@ -30,10 +30,10 @@ cols = ["id", "mean_sentiment_score", "number_of_reviews", "sentiment"]
 dtypes = ["VARCHAR(255)", "DOUBLE", "INT", "VARCHAR(255)"]
 
 #tabelle "movie_reviews_transformed" erstellen
-cip.create_table("movie_reviews_transformed", cols, dtypes)
+cip.create_table("review_stage_3", cols, dtypes)
 
 #dataframe in neu erstellte tabelle schreiben
-cip.write_to_table(df=pd_reviews_transform, table_name="movie_reviews_transformed")
+cip.write_to_table(df=pd_reviews_transform, table_name="review_stage_3")
 
 #dataframe als csv abspeichern
 pd_reviews_transform.to_csv("review_stage_3.csv", index=False)
