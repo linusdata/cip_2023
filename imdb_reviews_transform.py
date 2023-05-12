@@ -1,13 +1,14 @@
 import cip_library as cip
 import nltk
+import pandas as pd
 
 # herunterladen der benötigten NLTK module
 nltk.download("punkt")
 nltk.download('vader_lexicon')
 nltk.download('wordnet')
 
-#Lesen von Daten aus der Tabelle "movie_reviews_raw" und Speichern der Daten in einem dataframe
-pd_reviews_transform = cip.get_data_from_mariadb(table_name = "review_stage_1")
+#Lesen von Daten aus dem CSV "review_stage_1" und Speichern der Daten in einem dataframe
+pd_reviews_transform = pd.read_csv('review_stage_1.csv')
 
 #Um die sentiment analyse zu optimieren, müssen wir die Reviews zunächst vorverarbeiten. Dies geschieht durch Tokenisierung und das Entfernen von Interpunktionen, Symbolen und Stoppwörtern, da diese für die sentiment analyse keinen Wert haben.
 pd_reviews_transform['processed_text'] = pd_reviews_transform['review'].apply(cip.preprocess_text_for_sentiment)
