@@ -21,7 +21,7 @@ clean_film_title(imdb_df, "title_en")
 
 
 #Bereinige die Jahre
-imdb_df['year'] = imdb_df['year'].str.replace(r'\(|\)', '', regex=True)
+imdb_df['year'] = imdb_df['year'].str.replace(r'\(|\)', '', regex=False)
 to_int(imdb_df,'year')
 
 
