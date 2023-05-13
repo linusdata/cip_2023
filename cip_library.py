@@ -191,3 +191,18 @@ def delete_random_data(df, deletion_rate=0.1):
                 if random.random() < deletion_rate:
                     dirty_df.at[idx, column] = float('nan')
     return dirty_df
+
+def remove_duplicates_in_lists(list1, list2):
+    """
+        Diese Funktion gleicht zwei Listen  ab und entfernt Elemente welche in beiden Listen vorkommen.
+        Anschliessend wird eine neue Liste zurückgegeben.
+    :param list1: Beliebige Liste
+    :param list2: Beliebige Liste
+    :return list3: Liste mit gelöschten "intersections"
+    """
+    set1 = set(list1)
+    set2 = set(list2)
+    set3 = set1.intersection(set2)
+    list3 = list(set1 - set3)
+    return list3
+

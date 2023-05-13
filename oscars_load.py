@@ -16,7 +16,7 @@ baseurl = "https://www.oscars.org/oscars/ceremonies/"
 award_winners = []
 award_nominees = []
 # Definieren für welchen Zeitraum die daten gescraped werden sollen. Dieser kann im Zeitraum 1929 - 2023 beliebig definiert werden.
-start = 2022
+start = 1929
 end = 2023
 # Anzahl Jahre berechnen die gescraped werden sollen
 number_URLs = end - start + 1
@@ -33,7 +33,6 @@ for years in range(number_URLs):
     # erstellte URL öffnen und warten
     driver = webdriver.Chrome()
     driver.get(url)
-
 
     # Mit XPATH sämtliche "div" Elemente der Klasse "view-grouping" extrahieren und in Liste speichern
     categories = driver.find_elements(By.XPATH, '//div[@class="view-grouping"]')
@@ -102,13 +101,13 @@ df_nominees = pd.DataFrame(award_nominees)
 df_winners['status'] = 'winner'
 df_nominees['status'] = 'nominee'
 
-# Dataframes mit Spalte "status" ergänzen
+# Dataframes vereinigen
 concat_list = [df_winners, df_nominees]
 oscars_df = pd.concat(concat_list)
 
 #Daten in Excel und CSV schreiben
-#oscars_df.to_csv("oscars_stage_1.csv", index=False)
-#oscars_df.to_excel("oscars_stage_1.xlsx", engine='xlsxwriter', index=False)
+oscars_df.to_csv("oscars_stage_1.csv", index=False)
+oscars_df.to_excel("oscars_stage_1.xlsx", engine='xlsxwriter', index=False)
 
 # Timer beenden & Dauer ausgeben
 end_time = time.time()
