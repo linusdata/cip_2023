@@ -23,17 +23,7 @@ pd_reviews_transform.columns = ['id', 'mean_sentiment_score', 'number_of_reviews
 #basierend auf der Grundlage des Wertes in "mean_sentiment_score" eine Spalte mit der Bezeichnung "sentiment" mit dem Wert "pos", wenn der Stimmungswert über 0 liegt, und "neg", wenn er unter 0 liegt, erstellen
 pd_reviews_transform['sentiment'] = pd_reviews_transform['mean_sentiment_score'].apply(lambda x: 'pos' if x > 0 else 'neg')
 
-#Cursor für mariadb holen
-cur = cip.mariadb_connect().cursor()
-
-#Spalten und Datentypen für die neue Tabelle definieren
-cols = ["id", "mean_sentiment_score", "number_of_reviews", "sentiment"]
-dtypes = ["VARCHAR(255)", "DOUBLE", "INT", "VARCHAR(255)"]
-
-#tabelle "movie_reviews_transformed" erstellen
-cip.create_table("review_stage_3", cols, dtypes)
-
-#dataframe in neu erstellte tabelle schreiben
+#dataframe in IMDb tabelle schreiben
 cip.write_to_table(df=pd_reviews_transform, table_name="review_stage_3")
 
 #dataframe als csv abspeichern
