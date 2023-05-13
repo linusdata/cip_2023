@@ -4,14 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="boxoffice skripte löschen">
-      <change afterPath="$PROJECT_DIR$/merge.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/cip_2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/cip_2023.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2023_11_03_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_28_04_2023_11_03__Changes_.xml" beforeDir="false" />
+    <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="anpassung merge script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imdb_reviews_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_load.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/imdb_reviews_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/imdb_reviews_transform.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/merge.py" beforeDir="false" afterPath="$PROJECT_DIR$/merge.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/review_stage_1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/review_stage_1.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +99,28 @@
       <option name="project" value="LOCAL" />
       <updated>1683090845137</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="beginn mit merge skript">
+      <created>1683537436811</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683537436811</updated>
+    </task>
+    <task id="LOCAL-00008" summary="anpassung merge script">
+      <created>1683880204996</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683880204996</updated>
+    </task>
+    <task id="LOCAL-00009" summary="anpassung merge script">
+      <created>1683883350561</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683883350561</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +165,8 @@
     <MESSAGE value="Daten ergänzt." />
     <MESSAGE value="&quot;imdb_reviews_transform&quot; überarbeitet und alle Kommentare in deutsch übersetzt." />
     <MESSAGE value="boxoffice skripte löschen" />
-    <option name="LAST_COMMIT_MESSAGE" value="boxoffice skripte löschen" />
+    <MESSAGE value="beginn mit merge skript" />
+    <MESSAGE value="anpassung merge script" />
+    <option name="LAST_COMMIT_MESSAGE" value="anpassung merge script" />
   </component>
 </project>
