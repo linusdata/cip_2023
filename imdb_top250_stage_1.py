@@ -3,6 +3,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 
+pd.set_option("display.max_columns", None)  # Alle Spalten anzeigen
+#pd.set_option("display.max_rows", None)     # Alle Zeilen anzeigen
+pd.set_option("display.expand_frame_repr", False) # Zeilenumbruch verhindern
+
 url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
 
 chrome_options = Options()
@@ -45,9 +49,11 @@ for row in table_rows:
     rank = row.find_element(By.XPATH, './td[@class="posterColumn"]/span[@name="rk"]').get_attribute("data-value")
     year = row.find_element(By.XPATH, './td[@class="titleColumn"]/span[@class="secondaryInfo"]').text
     rating = row.find_element(By.XPATH, './td[@class="ratingColumn imdbRating"]/strong').get_attribute("title")
+
     title_element = row.find_element(By.XPATH, './td[@class="titleColumn"]/a')
     title = title_element.text
     persons = title_element.get_attribute("title")
+
 
 
     movie_info = {
@@ -63,6 +69,10 @@ for row in table_rows:
 
 driver.quit()
 
+
 movies_df = pd.DataFrame(movies_list)
-movies_df.to_csv("imdb_top_250_raw.csv", index=False)
+
+print(movies_df)
+
+movies_df.to_csv("imdb_top250_stage_1.csv", index=False)
 

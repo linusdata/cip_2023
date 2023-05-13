@@ -40,18 +40,6 @@ pd_reviews = pd.DataFrame(columns=["id", "review"])
 for movie in reviews:
     pd_reviews = pd_reviews.append({'id': movie[0], 'review': movie[1]}, ignore_index=True)
 
-#Cursor für mariadb holen
-cur = cip.mariadb_connect().cursor()
-
-#Spalten und Datentypen für die neue Tabelle definieren
-cols = ["id", "review"]
-dtypes = ["VARCHAR(255)", "VARCHAR(255)"]
-#tabelle "movie_reviews_raw" erstellen
-cip.create_table("movie_reviews_raw", cols, dtypes)
-
-#dataframe in neu erstellte tabelle schreiben
-cip.write_to_table(df=pd_reviews, table_name="movie_reviews_raw")
-
 #dataframe als csv abspeichern
 pd_reviews.to_csv("review_stage_1.csv", index=False)
 

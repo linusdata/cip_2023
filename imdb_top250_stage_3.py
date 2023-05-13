@@ -8,7 +8,7 @@ pd.set_option("display.max_columns", None)  # Alle Spalten anzeigen
 #pd.set_option("display.max_rows", None)     # Alle Zeilen anzeigen
 pd.set_option("display.expand_frame_repr", False) # Zeilenumbruch verhindern
 
-imdb_df = pd.read_csv("imdb_top_250_raw.csv")
+imdb_df = pd.read_csv("imdb_top250_stage_1.csv")
 
 print(imdb_df)
 
@@ -21,7 +21,7 @@ clean_film_title(imdb_df, "title_en")
 
 
 #Bereinige die Jahre
-imdb_df['year'] = imdb_df['year'].str.replace(r'\(|\)', '', regex=True)
+imdb_df['year'] = imdb_df['year'].str.replace(r'\(|\)', '', regex=False)
 to_int(imdb_df,'year')
 
 
@@ -77,7 +77,7 @@ for index, row in imdb_df.iterrows():
 
 #Hilfe bei der Intepretation
 #"Christopher Nolan - Christian Bale - 4"
-# Regisseur Nolan arbeitete 4 mal mit Schauspieler Bale zusammen, in den 250 besten Imdb-Filmen.
+#Regisseur Nolan arbeitete 4 mal mit Schauspieler Bale zusammen, in den 250 besten Imdb-Filmen.
 
 ########################################################################################################################
 
@@ -86,5 +86,5 @@ new_column_order = ['id', 'title_en', 'film_title_cleaned', 'year', 'film_age','
 imdb_df = imdb_df[new_column_order]
 
 #Erstelle ein neues CSV.
-imdb_df.to_csv("imdb_top_250.csv", index=False)
+imdb_df.to_csv("imdb_top250_stage_3.csv", index=False)
 print(imdb_df)
