@@ -52,5 +52,5 @@ print("Der Korrelationskoeffizient zwischen 'Rating' und der Anzahl gewonnenen O
 cor_sentiment_rating = pd_joined['rating'].corr(pd_joined['mean_sentiment_score'])
 print("Der Korrelationskoeffizient zwischen 'Rating' und der 'mean_sentiment_score' ist: " + str(cor_sentiment_rating) + ". Dies deutet darauf hin, dass es keine Korrelation gibt.")
 
-#demo test
+
 
