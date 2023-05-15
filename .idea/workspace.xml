@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="23b0dfc0-f2a5-4482-b3bc-7860bc950c52" name="Changes" comment="anpassung merge script">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cip_library.py" beforeDir="false" afterPath="$PROJECT_DIR$/cip_library.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oscars_load.py" beforeDir="false" afterPath="$PROJECT_DIR$/oscars_load.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oscars_stage_3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/oscars_stage_3.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oscars_transform.py" beforeDir="false" afterPath="$PROJECT_DIR$/oscars_transform.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,7 +117,21 @@
       <option name="project" value="LOCAL" />
       <updated>1683883350561</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="anpassung merge script">
+      <created>1683968067742</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683968067742</updated>
+    </task>
+    <task id="LOCAL-00011" summary="anpassung merge script">
+      <created>1684165768708</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684165768708</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
