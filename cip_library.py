@@ -194,8 +194,8 @@ def delete_random_data(df, deletion_rate=0.1):
 
 def remove_duplicates_in_lists(list1, list2):
     """
-        Diese Funktion gleicht zwei Listen  ab und entfernt Elemente welche in beiden Listen vorkommen.
-        Anschliessend wird eine neue Liste zurückgegeben.
+    Diese Funktion gleicht zwei Listen  ab und entfernt Elemente welche in beiden Listen vorkommen.
+    Anschliessend wird eine neue Liste zurückgegeben.
     :param list1: Beliebige Liste
     :param list2: Beliebige Liste
     :return list3: Liste mit gelöschten "intersections"
