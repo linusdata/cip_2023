@@ -22,7 +22,7 @@ pd_oscars['movie'] = pd_oscars['movie'].replace('thebicyclethief', 'bicyclethiev
 pd_joined = pd.merge(pd_imdb, pd_reviews, on = 'id', how = 'left')
 pd_joined = pd.merge(pd_joined, pd_oscars, left_on='film_title_cleaned', right_on='movie', how = 'left')
 
-#dataframe in IMDb tabelle schreiben
+#dataframe in MariaDB tabelle schreiben
 cip.write_to_table(df=pd_joined, table_name="movie_data_merged_stage")
 
 #dataframe als csv abspeichern
