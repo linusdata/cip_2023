@@ -5,30 +5,26 @@ from selenium.common.exceptions import NoSuchElementException
 import time
 import cip_library as cip
 
-# Timer starten
-start_time = time.time()
 
+# Timer starten (für die das scrapen nicht notwendig -> aus eigenem Interesse ergänzt)
+start_time = time.time()
 # Chrome Browser festlegen
 driver = webdriver.Chrome()
-
 #URL definieren, von der die Daten zu den Oscars gescraped werden sollen
 baseurl = "https://www.oscars.org/oscars/ceremonies/"
-
-#leere listen erstellen, in welcher die ID's dann gespeichert werden
+#leere listen erstellen, in welchen die gescrapten Daten gespeichert werden.
 award_winners = []
 award_nominees = []
-
-#Definieren für welchen Zeitraum die daten gescraped werden sollen (1929 - 2023)
+# Definieren für welchen Zeitraum die daten gescraped werden sollen. Dieser kann im Zeitraum 1929 - 2023 beliebig definiert werden.
 start = 1929
 end = 2023
-# Anzahl Jahre ausrechnen welche gescraped werden sollen
+# Anzahl Jahre berechnen die gescraped werden sollen
 number_URLs = end - start + 1
-#Counter für "for-Schleife" erstellen
+#Counter für "for-Schleife" erstellen und auf 0 setzen
 counter = 0
 
 
-
-# Mit der "for-Schleife" wird durch jedes Jahr zwischen 1929 - 2023 iteriert und die daten gescraped.
+# Mit "for-Schleife" wird jedes Jahr im gewählten Zeitfenster ("start" = ..., "end" = ...) durchlaufen und die Daten gescraped.
 for years in range(number_URLs):
     year = start + counter      #Jahr hochrechnen
     url = baseurl + str(year)   #URL zusammensetzen
@@ -38,34 +34,33 @@ for years in range(number_URLs):
     driver = webdriver.Chrome()
     driver.get(url)
 
-    ################### Daten von www.Oscars.org extrahieren ###################
+    # Mit XPATH sämtliche "div" Elemente der Klasse "view-grouping" extrahieren und in Liste speichern
+    categories = driver.find_elements(By.XPATH, '//div[@class="view-grouping"]')
 
-    # Die Daten können mit XPATH blockweise für jede Oscar Kategorie gescraped werden. Dazu werden die Klassen genommen welche "view-grouping" enthalten
-    # Diese Einträge werden in die Liste "categories" gespeichert.
-    categories = driver.find_elements(By.XPATH, '//div[@class="view-grouping"]')  # '//div[@class="view-grouping"]'
-
-    # Mit "for-Schleife" durch die einzelnen "Blöcke" welche in der Liste "categories" gespeichert sin iterieren.
+    # Mit "for-Schleife" Liste durchlaufen und daten extrahieren.
     for category in categories:
 
-
-        # Weil in der liste "categories" weitere werte abgespeichert werden als die "grouping-header" muss mit "try,except,continue"
-        # in die nächste iteration deszählers gesprungen werden
+        #Name der Kategorie extrahieren und in "category_name" zwischenspeichern.
+        ## Falls kein "h2"-Element (welches unter einem "div"-Element liegt) in der Klasse "view-grouping-header" gefunden wird,
+        ## wird die Fehlermeldung mit except/continue aufgefangen.
         try:
             category_name = category.find_element(By.XPATH, './div[@class="view-grouping-header"]/h2').text
         except NoSuchElementException:
             continue
 
-        # Weil dieser XPAth in vereinzelten Jahren nicht gefunden wurde, muss hier auch mit einem "try,except,continue" gearbeitet werden
+        # Informationen zum Gewinner extrahieren und in "winner" zwischenspeichern.
+        ## Falls kein div"-Element in der Klasse "views-row views-row-1 views-row-odd views-row-first views-row-last" gefunden wird,
+        ## wird die Fehlermeldung mit except/continue aufgefangen.
         try:
             winner = category.find_element(By.XPATH, './/div[@class="views-row views-row-1 views-row-odd views-row-first views-row-last"]')
         except NoSuchElementException:
             continue
 
-        # "winner_name" und "winner_movie" extrahieren
+        # Gewinner und Filtitel extrahieren und in "winner_name" und "winner_movie" zwischenspeichern.
         winner_name = winner.find_element(By.XPATH, './div[@class="views-field views-field-field-actor-name"]/h4').text
         winner_movie = winner.find_element(By.XPATH, './div[@class="views-field views-field-title"]/span').text
 
-        # Alle informationen zum Oscar Gewinner in ein Dictionarry schreiben
+        # Gescrapte informationen als Dictionary an Liste "award_winners" appenden
         award_winners.append({
             "category": category_name,
             "name": winner_name,
@@ -73,13 +68,15 @@ for years in range(number_URLs):
             "year": year
         })
 
-        # Extract Oscar Nominees from www.Oscars.org
+        # Informationen zum den Nominierten extrahieren und in "nominees" zwischenspeichern.
         nominees = category.find_elements(By.XPATH, './/div[contains(@class,"views-row")]')
 
+        # Nominierte und Filtitel extrahieren und in "nominee_name" und "nominee_movie" zwischenspeichern.
         for nominee in nominees:
             nominee_name = nominee.find_element(By.XPATH, './div[@class="views-field views-field-field-actor-name"]/h4').text
             nominee_movie = nominee.find_element(By.XPATH, './div[@class="views-field views-field-title"]/span').text
 
+            # Gescrapte informationen als Dictionary an Liste "award_nominees" appenden.
             award_nominees.append({
                 "category": category_name,
                 "name": nominee_name,
@@ -87,45 +84,35 @@ for years in range(number_URLs):
                 "year": year
             })
 
+    # driver beenden
     driver.quit()
+
+    # Nach erfolgreichem scrapen die Jahreszahl ausgeben (Status-Update für den User)
     print(year)
 
-# convert the list into a dataframe
+
+# Liste ind pandas Dataframe konvertieren
 df_winners = pd.DataFrame(award_winners)
 
-# convert the list into a dataframe
+# Liste ind pandas Dataframe konvertieren
 df_nominees = pd.DataFrame(award_nominees)
 
+# Dataframes mit Spalte "status" ergänzen
 df_winners['status'] = 'winner'
 df_nominees['status'] = 'nominee'
 
+# Dataframes vereinigen
 concat_list = [df_winners, df_nominees]
 oscars_df = pd.concat(concat_list)
 
+#Daten in Excel und CSV schreiben
 oscars_df.to_csv("oscars_stage_1.csv", index=False)
 oscars_df.to_excel("oscars_stage_1.xlsx", engine='xlsxwriter', index=False)
 
-#Cursor für mariadb holen
-##cur = cip.mariadb_connect().cursor()
-
-#Spalten und Datentypen für die neue Tabelle definieren
-##cols = ["category", "name", "movie", "status"]
-##dtypes = ["VARCHAR(255)", "VARCHAR(255)", "VARCHAR(255)", "VARCHAR(255)"]
-
-
-#tabelle "movie_reviews_raw" erstellen
-##cip.create_table("oscars_raw", cols, dtypes)
-
-
-##oscars_df.to_csv("oscars_load.csv", index=False)
-##oscars_df.to_excel("oscars_load.xlsx", engine='xlsxwriter', index=False)
-
-#dataframe in neu erstellte tabelle schreiben
-##cip.write_to_table(df=oscars_df, table_name="oscars_raw")
-
-
-# stop the timer
+# Timer beenden & Dauer ausgeben
 end_time = time.time()
-# calculate the elapsed time
 elapsed_time = end_time - start_time
 print(elapsed_time)
+
+
+print(oscars_df)
