@@ -32,7 +32,8 @@ pd_joined.to_csv("movie_data_merged_stage.csv", index=False)
 #Welcher Film war hat den besten sentiment score?
 max_index = pd_joined['mean_sentiment_score'].idxmax() #index des films mit dem höchsten sentiment score finden
 movie_title = pd_joined.loc[max_index, 'title_en'] # film title finden
-print("Der Film mit dem besten Sentiment Score ist: " + movie_title)
+sentiment_score = pd_joined.loc[max_index, 'mean_sentiment_score'] # film title finden
+print("Der Film mit dem besten Sentiment Score ist: " + movie_title + " (Sentiment Score: " + str(sentiment_score) + ")")
 
 #Welcher Film wird auf IMDb am besten bewertet und wie viele Bewertungen wurden abgegeben? 
 max_index = pd_joined['rating'].idxmax() #index des films mit dem höchsten sentiment score finden

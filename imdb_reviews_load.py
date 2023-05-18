@@ -1,12 +1,15 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import pandas as pd
 import cip_library as cip
 
-# Chrome Browser festlegen
-driver = webdriver.Chrome()
+#Chrome auf englisch einstellen
+chrome_options = Options()
+chrome_options.add_argument("--lang=en")
+driver = webdriver.Chrome(options=chrome_options)
 #URL definieren, von der die ID's der Filme geholt werden sollen
-id_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_1000"
+id_url = "https://www.imdb.com/chart/top/?ref_=nv_mv_250"
 #leere liste erstellen, in welcher die ID's dann gespeichert werden
 id_list = []
 #URL öffnen und warten
